@@ -1,0 +1,9 @@
+.venv/
+.DS_Store
+.matplotlib/
+.cache/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+cell_counts.db
+cell_counts.db.tmp

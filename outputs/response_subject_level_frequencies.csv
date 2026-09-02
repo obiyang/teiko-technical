@@ -1,0 +1,3281 @@
+project,subject,response,population,cell_type,percentage
+prj1,sbj000,no,b_cell,B cell,9.658365547196562
+prj1,sbj000,no,cd4_t_cell,CD4 T cell,27.106476132345506
+prj1,sbj000,no,cd8_t_cell,CD8 T cell,23.393866454842136
+prj1,sbj000,no,monocyte,Monocyte,22.59839111665205
+prj1,sbj000,no,nk_cell,NK cell,17.24290074896375
+prj1,sbj002,no,b_cell,B cell,8.750535753175187
+prj1,sbj002,no,cd4_t_cell,CD4 T cell,28.79247838559748
+prj1,sbj002,no,cd8_t_cell,CD8 T cell,24.700366171351508
+prj1,sbj002,no,monocyte,Monocyte,19.36711327988713
+prj1,sbj002,no,nk_cell,NK cell,18.389506409988698
+prj1,sbj003,no,b_cell,B cell,10.695563248717667
+prj1,sbj003,no,cd4_t_cell,CD4 T cell,26.886825960507206
+prj1,sbj003,no,cd8_t_cell,CD8 T cell,25.553637297866235
+prj1,sbj003,no,monocyte,Monocyte,21.46790801301779
+prj1,sbj003,no,nk_cell,NK cell,15.3960654798911
+prj1,sbj008,yes,b_cell,B cell,9.367286399862904
+prj1,sbj008,yes,cd4_t_cell,CD4 T cell,34.36320919438942
+prj1,sbj008,yes,cd8_t_cell,CD8 T cell,25.024042936665165
+prj1,sbj008,yes,monocyte,Monocyte,12.752032564526795
+prj1,sbj008,yes,nk_cell,NK cell,18.493428904555717
+prj1,sbj020,yes,b_cell,B cell,8.416133062973934
+prj1,sbj020,yes,cd4_t_cell,CD4 T cell,31.433658511166186
+prj1,sbj020,yes,cd8_t_cell,CD8 T cell,24.304504026399638
+prj1,sbj020,yes,monocyte,Monocyte,20.267634823870115
+prj1,sbj020,yes,nk_cell,NK cell,15.578069575590126
+prj1,sbj022,yes,b_cell,B cell,9.355635259992981
+prj1,sbj022,yes,cd4_t_cell,CD4 T cell,31.453009829057674
+prj1,sbj022,yes,cd8_t_cell,CD8 T cell,28.666528405354086
+prj1,sbj022,yes,monocyte,Monocyte,17.33035917859279
+prj1,sbj022,yes,nk_cell,NK cell,13.194467327002464
+prj1,sbj024,no,b_cell,B cell,11.179892974860863
+prj1,sbj024,no,cd4_t_cell,CD4 T cell,28.608068889313927
+prj1,sbj024,no,cd8_t_cell,CD8 T cell,25.35858764206435
+prj1,sbj024,no,monocyte,Monocyte,17.13817074537023
+prj1,sbj024,no,nk_cell,NK cell,17.715279748390635
+prj1,sbj025,yes,b_cell,B cell,11.395000227714872
+prj1,sbj025,yes,cd4_t_cell,CD4 T cell,35.30335226850935
+prj1,sbj025,yes,cd8_t_cell,CD8 T cell,21.544145911215082
+prj1,sbj025,yes,monocyte,Monocyte,16.985298105807352
+prj1,sbj025,yes,nk_cell,NK cell,14.772203486753346
+prj1,sbj027,no,b_cell,B cell,8.144724604829268
+prj1,sbj027,no,cd4_t_cell,CD4 T cell,29.989874251938446
+prj1,sbj027,no,cd8_t_cell,CD8 T cell,25.58888043405919
+prj1,sbj027,no,monocyte,Monocyte,19.083986299389668
+prj1,sbj027,no,nk_cell,NK cell,17.192534409783427
+prj1,sbj041,no,b_cell,B cell,11.025194972806935
+prj1,sbj041,no,cd4_t_cell,CD4 T cell,28.534470995453386
+prj1,sbj041,no,cd8_t_cell,CD8 T cell,28.015538234703047
+prj1,sbj041,no,monocyte,Monocyte,18.151898395161155
+prj1,sbj041,no,nk_cell,NK cell,14.27289740187548
+prj1,sbj047,yes,b_cell,B cell,7.8518867516809765
+prj1,sbj047,yes,cd4_t_cell,CD4 T cell,31.060983160726675
+prj1,sbj047,yes,cd8_t_cell,CD8 T cell,29.59976280938346
+prj1,sbj047,yes,monocyte,Monocyte,16.387988282891214
+prj1,sbj047,yes,nk_cell,NK cell,15.099378995317677
+prj1,sbj051,no,b_cell,B cell,8.76653514499023
+prj1,sbj051,no,cd4_t_cell,CD4 T cell,29.33015944859355
+prj1,sbj051,no,cd8_t_cell,CD8 T cell,29.220167889367925
+prj1,sbj051,no,monocyte,Monocyte,14.935512561885263
+prj1,sbj051,no,nk_cell,NK cell,17.747624955163033
+prj1,sbj055,yes,b_cell,B cell,9.204713452175671
+prj1,sbj055,yes,cd4_t_cell,CD4 T cell,28.597084321591623
+prj1,sbj055,yes,cd8_t_cell,CD8 T cell,24.48456400390701
+prj1,sbj055,yes,monocyte,Monocyte,20.124603421874948
+prj1,sbj055,yes,nk_cell,NK cell,17.589034800450747
+prj1,sbj056,yes,b_cell,B cell,8.247149267600285
+prj1,sbj056,yes,cd4_t_cell,CD4 T cell,30.711031321087663
+prj1,sbj056,yes,cd8_t_cell,CD8 T cell,27.489390257192458
+prj1,sbj056,yes,monocyte,Monocyte,17.468844402982516
+prj1,sbj056,yes,nk_cell,NK cell,16.08358475113707
+prj1,sbj058,no,b_cell,B cell,8.582481224046663
+prj1,sbj058,no,cd4_t_cell,CD4 T cell,33.46420067945801
+prj1,sbj058,no,cd8_t_cell,CD8 T cell,21.003218760611873
+prj1,sbj058,no,monocyte,Monocyte,21.164879893033003
+prj1,sbj058,no,nk_cell,NK cell,15.785219442850448
+prj1,sbj062,no,b_cell,B cell,12.311145858046105
+prj1,sbj062,no,cd4_t_cell,CD4 T cell,26.84745964120498
+prj1,sbj062,no,cd8_t_cell,CD8 T cell,26.057044905425528
+prj1,sbj062,no,monocyte,Monocyte,20.76942393166881
+prj1,sbj062,no,nk_cell,NK cell,14.014925663654571
+prj1,sbj063,no,b_cell,B cell,8.017053958729745
+prj1,sbj063,no,cd4_t_cell,CD4 T cell,29.736419467388647
+prj1,sbj063,no,cd8_t_cell,CD8 T cell,29.087961412591014
+prj1,sbj063,no,monocyte,Monocyte,21.244041279141467
+prj1,sbj063,no,nk_cell,NK cell,11.914523882149131
+prj1,sbj071,no,b_cell,B cell,11.346136244710264
+prj1,sbj071,no,cd4_t_cell,CD4 T cell,29.61099079016023
+prj1,sbj071,no,cd8_t_cell,CD8 T cell,25.43520288404206
+prj1,sbj071,no,monocyte,Monocyte,20.304798340682677
+prj1,sbj071,no,nk_cell,NK cell,13.302871740404774
+prj1,sbj081,no,b_cell,B cell,7.183520160739332
+prj1,sbj081,no,cd4_t_cell,CD4 T cell,34.31321422926675
+prj1,sbj081,no,cd8_t_cell,CD8 T cell,23.23738516159554
+prj1,sbj081,no,monocyte,Monocyte,20.995290223538046
+prj1,sbj081,no,nk_cell,NK cell,14.270590224860335
+prj1,sbj083,no,b_cell,B cell,11.094000976405303
+prj1,sbj083,no,cd4_t_cell,CD4 T cell,26.05526265238085
+prj1,sbj083,no,cd8_t_cell,CD8 T cell,24.227789011343273
+prj1,sbj083,no,monocyte,Monocyte,22.516890160724753
+prj1,sbj083,no,nk_cell,NK cell,16.106057199145823
+prj1,sbj087,yes,b_cell,B cell,9.247022446825115
+prj1,sbj087,yes,cd4_t_cell,CD4 T cell,30.91712558722453
+prj1,sbj087,yes,cd8_t_cell,CD8 T cell,28.469810802604172
+prj1,sbj087,yes,monocyte,Monocyte,15.573514982099894
+prj1,sbj087,yes,nk_cell,NK cell,15.79252618124629
+prj1,sbj095,no,b_cell,B cell,11.057948487471307
+prj1,sbj095,no,cd4_t_cell,CD4 T cell,29.416338842941794
+prj1,sbj095,no,cd8_t_cell,CD8 T cell,25.370594514902454
+prj1,sbj095,no,monocyte,Monocyte,19.84546205626783
+prj1,sbj095,no,nk_cell,NK cell,14.30965609841662
+prj1,sbj1007,yes,b_cell,B cell,9.000814170085995
+prj1,sbj1007,yes,cd4_t_cell,CD4 T cell,27.47002085167523
+prj1,sbj1007,yes,cd8_t_cell,CD8 T cell,21.108823474593915
+prj1,sbj1007,yes,monocyte,Monocyte,24.8183780981801
+prj1,sbj1007,yes,nk_cell,NK cell,17.601963405464762
+prj1,sbj1008,yes,b_cell,B cell,11.33460604230652
+prj1,sbj1008,yes,cd4_t_cell,CD4 T cell,29.826235048740475
+prj1,sbj1008,yes,cd8_t_cell,CD8 T cell,23.26520599950024
+prj1,sbj1008,yes,monocyte,Monocyte,18.632011686107514
+prj1,sbj1008,yes,nk_cell,NK cell,16.94194122334525
+prj1,sbj101,yes,b_cell,B cell,11.904495224978751
+prj1,sbj101,yes,cd4_t_cell,CD4 T cell,32.99716851443752
+prj1,sbj101,yes,cd8_t_cell,CD8 T cell,18.850605672828568
+prj1,sbj101,yes,monocyte,Monocyte,25.711502218907423
+prj1,sbj101,yes,nk_cell,NK cell,10.536228368847743
+prj1,sbj1020,yes,b_cell,B cell,9.044372008759646
+prj1,sbj1020,yes,cd4_t_cell,CD4 T cell,27.602413912199086
+prj1,sbj1020,yes,cd8_t_cell,CD8 T cell,27.000842836633936
+prj1,sbj1020,yes,monocyte,Monocyte,22.65145861082297
+prj1,sbj1020,yes,nk_cell,NK cell,13.700912631584359
+prj1,sbj1023,yes,b_cell,B cell,11.713340631111395
+prj1,sbj1023,yes,cd4_t_cell,CD4 T cell,29.461561600620893
+prj1,sbj1023,yes,cd8_t_cell,CD8 T cell,27.62214281549009
+prj1,sbj1023,yes,monocyte,Monocyte,16.12247394594151
+prj1,sbj1023,yes,nk_cell,NK cell,15.080481006836116
+prj1,sbj1030,no,b_cell,B cell,7.992205812960008
+prj1,sbj1030,no,cd4_t_cell,CD4 T cell,30.710847693481544
+prj1,sbj1030,no,cd8_t_cell,CD8 T cell,22.272126779158516
+prj1,sbj1030,no,monocyte,Monocyte,23.479875742855
+prj1,sbj1030,no,nk_cell,NK cell,15.54494397154493
+prj1,sbj1033,no,b_cell,B cell,8.88784706430733
+prj1,sbj1033,no,cd4_t_cell,CD4 T cell,33.46646317816657
+prj1,sbj1033,no,cd8_t_cell,CD8 T cell,20.82590000164706
+prj1,sbj1033,no,monocyte,Monocyte,20.474313245306618
+prj1,sbj1033,no,nk_cell,NK cell,16.34547651057242
+prj1,sbj1034,no,b_cell,B cell,8.59709603047177
+prj1,sbj1034,no,cd4_t_cell,CD4 T cell,29.255918326208086
+prj1,sbj1034,no,cd8_t_cell,CD8 T cell,22.82948691804228
+prj1,sbj1034,no,monocyte,Monocyte,24.30550707457495
+prj1,sbj1034,no,nk_cell,NK cell,15.011991650702909
+prj1,sbj1038,yes,b_cell,B cell,9.62280965017043
+prj1,sbj1038,yes,cd4_t_cell,CD4 T cell,30.36272029026649
+prj1,sbj1038,yes,cd8_t_cell,CD8 T cell,27.54596813049095
+prj1,sbj1038,yes,monocyte,Monocyte,18.37897502930061
+prj1,sbj1038,yes,nk_cell,NK cell,14.08952689977152
+prj1,sbj1040,no,b_cell,B cell,9.034007478738845
+prj1,sbj1040,no,cd4_t_cell,CD4 T cell,27.771180613646038
+prj1,sbj1040,no,cd8_t_cell,CD8 T cell,27.20251749511365
+prj1,sbj1040,no,monocyte,Monocyte,21.304488590331648
+prj1,sbj1040,no,nk_cell,NK cell,14.68780582216982
+prj1,sbj1044,yes,b_cell,B cell,7.391657305285332
+prj1,sbj1044,yes,cd4_t_cell,CD4 T cell,30.03993543262516
+prj1,sbj1044,yes,cd8_t_cell,CD8 T cell,24.769760934936954
+prj1,sbj1044,yes,monocyte,Monocyte,22.65818604030781
+prj1,sbj1044,yes,nk_cell,NK cell,15.140460286844743
+prj1,sbj1048,no,b_cell,B cell,9.380585653555181
+prj1,sbj1048,no,cd4_t_cell,CD4 T cell,32.18078419361015
+prj1,sbj1048,no,cd8_t_cell,CD8 T cell,24.468130722434967
+prj1,sbj1048,no,monocyte,Monocyte,17.791794066206723
+prj1,sbj1048,no,nk_cell,NK cell,16.17870536419298
+prj1,sbj105,no,b_cell,B cell,12.908509241573134
+prj1,sbj105,no,cd4_t_cell,CD4 T cell,27.26050458253188
+prj1,sbj105,no,cd8_t_cell,CD8 T cell,25.490036479956263
+prj1,sbj105,no,monocyte,Monocyte,21.450271591810303
+prj1,sbj105,no,nk_cell,NK cell,12.890678104128419
+prj1,sbj1051,no,b_cell,B cell,8.206505582665486
+prj1,sbj1051,no,cd4_t_cell,CD4 T cell,32.31514059491267
+prj1,sbj1051,no,cd8_t_cell,CD8 T cell,22.718862791063074
+prj1,sbj1051,no,monocyte,Monocyte,19.889855647881134
+prj1,sbj1051,no,nk_cell,NK cell,16.869635383477643
+prj1,sbj1054,no,b_cell,B cell,9.973692978963083
+prj1,sbj1054,no,cd4_t_cell,CD4 T cell,27.537013657769233
+prj1,sbj1054,no,cd8_t_cell,CD8 T cell,23.190799881891156
+prj1,sbj1054,no,monocyte,Monocyte,20.784369116425115
+prj1,sbj1054,no,nk_cell,NK cell,18.514124364951414
+prj1,sbj1055,yes,b_cell,B cell,11.242778266564889
+prj1,sbj1055,yes,cd4_t_cell,CD4 T cell,31.787655280156855
+prj1,sbj1055,yes,cd8_t_cell,CD8 T cell,23.207872649577173
+prj1,sbj1055,yes,monocyte,Monocyte,20.260154838232868
+prj1,sbj1055,yes,nk_cell,NK cell,13.50153896546822
+prj1,sbj1058,no,b_cell,B cell,9.393361322060942
+prj1,sbj1058,no,cd4_t_cell,CD4 T cell,24.820364362069427
+prj1,sbj1058,no,cd8_t_cell,CD8 T cell,27.49657497921554
+prj1,sbj1058,no,monocyte,Monocyte,22.500448274166654
+prj1,sbj1058,no,nk_cell,NK cell,15.789251062487436
+prj1,sbj106,yes,b_cell,B cell,10.215268664527839
+prj1,sbj106,yes,cd4_t_cell,CD4 T cell,30.036966270012854
+prj1,sbj106,yes,cd8_t_cell,CD8 T cell,23.62832857420145
+prj1,sbj106,yes,monocyte,Monocyte,20.51821702046063
+prj1,sbj106,yes,nk_cell,NK cell,15.601219470797227
+prj1,sbj1063,yes,b_cell,B cell,8.651482461962031
+prj1,sbj1063,yes,cd4_t_cell,CD4 T cell,36.05773211322773
+prj1,sbj1063,yes,cd8_t_cell,CD8 T cell,24.454280620725868
+prj1,sbj1063,yes,monocyte,Monocyte,20.84170818946173
+prj1,sbj1063,yes,nk_cell,NK cell,9.994796614622638
+prj1,sbj1064,no,b_cell,B cell,10.28692837936075
+prj1,sbj1064,no,cd4_t_cell,CD4 T cell,33.32457496576509
+prj1,sbj1064,no,cd8_t_cell,CD8 T cell,24.903402643617508
+prj1,sbj1064,no,monocyte,Monocyte,14.682633981466964
+prj1,sbj1064,no,nk_cell,NK cell,16.80246002978969
+prj1,sbj1065,no,b_cell,B cell,12.093148610282606
+prj1,sbj1065,no,cd4_t_cell,CD4 T cell,29.053786119965483
+prj1,sbj1065,no,cd8_t_cell,CD8 T cell,24.920281693403027
+prj1,sbj1065,no,monocyte,Monocyte,17.79057839382565
+prj1,sbj1065,no,nk_cell,NK cell,16.14220518252323
+prj1,sbj1067,no,b_cell,B cell,10.233088921368838
+prj1,sbj1067,no,cd4_t_cell,CD4 T cell,30.95398288312175
+prj1,sbj1067,no,cd8_t_cell,CD8 T cell,21.19210597963561
+prj1,sbj1067,no,monocyte,Monocyte,20.083384050015653
+prj1,sbj1067,no,nk_cell,NK cell,17.53743816585815
+prj1,sbj1070,no,b_cell,B cell,7.225002008166673
+prj1,sbj1070,no,cd4_t_cell,CD4 T cell,29.965028389481088
+prj1,sbj1070,no,cd8_t_cell,CD8 T cell,26.452217629396813
+prj1,sbj1070,no,monocyte,Monocyte,19.345763702591032
+prj1,sbj1070,no,nk_cell,NK cell,17.011988270364395
+prj1,sbj1071,yes,b_cell,B cell,8.550456189268088
+prj1,sbj1071,yes,cd4_t_cell,CD4 T cell,29.344994643849628
+prj1,sbj1071,yes,cd8_t_cell,CD8 T cell,24.632794823516836
+prj1,sbj1071,yes,monocyte,Monocyte,24.942826407768802
+prj1,sbj1071,yes,nk_cell,NK cell,12.528927935596647
+prj1,sbj1073,yes,b_cell,B cell,12.128325268664014
+prj1,sbj1073,yes,cd4_t_cell,CD4 T cell,28.58871370247124
+prj1,sbj1073,yes,cd8_t_cell,CD8 T cell,26.378568754715925
+prj1,sbj1073,yes,monocyte,Monocyte,20.439496130667262
+prj1,sbj1073,yes,nk_cell,NK cell,12.464896143481562
+prj1,sbj1077,yes,b_cell,B cell,8.823193276547686
+prj1,sbj1077,yes,cd4_t_cell,CD4 T cell,27.42090892322621
+prj1,sbj1077,yes,cd8_t_cell,CD8 T cell,27.169853009122452
+prj1,sbj1077,yes,monocyte,Monocyte,19.942191951495317
+prj1,sbj1077,yes,nk_cell,NK cell,16.643852839608332
+prj1,sbj108,yes,b_cell,B cell,11.66673097794842
+prj1,sbj108,yes,cd4_t_cell,CD4 T cell,35.94138531807436
+prj1,sbj108,yes,cd8_t_cell,CD8 T cell,20.698714985704033
+prj1,sbj108,yes,monocyte,Monocyte,15.833190194118407
+prj1,sbj108,yes,nk_cell,NK cell,15.859978524154785
+prj1,sbj1086,no,b_cell,B cell,9.24982332129895
+prj1,sbj1086,no,cd4_t_cell,CD4 T cell,31.385916040308327
+prj1,sbj1086,no,cd8_t_cell,CD8 T cell,28.339810451723906
+prj1,sbj1086,no,monocyte,Monocyte,19.238658633674323
+prj1,sbj1086,no,nk_cell,NK cell,11.785791552994494
+prj1,sbj1087,no,b_cell,B cell,10.66154094185201
+prj1,sbj1087,no,cd4_t_cell,CD4 T cell,26.61338994852997
+prj1,sbj1087,no,cd8_t_cell,CD8 T cell,25.098384934837622
+prj1,sbj1087,no,monocyte,Monocyte,20.933880564535944
+prj1,sbj1087,no,nk_cell,NK cell,16.692803610244457
+prj1,sbj1097,yes,b_cell,B cell,9.592432198187199
+prj1,sbj1097,yes,cd4_t_cell,CD4 T cell,25.3782826346967
+prj1,sbj1097,yes,cd8_t_cell,CD8 T cell,28.613893984432295
+prj1,sbj1097,yes,monocyte,Monocyte,17.44177666068281
+prj1,sbj1097,yes,nk_cell,NK cell,18.973614522000997
+prj1,sbj1098,no,b_cell,B cell,9.993413832775113
+prj1,sbj1098,no,cd4_t_cell,CD4 T cell,33.07145100569941
+prj1,sbj1098,no,cd8_t_cell,CD8 T cell,27.40624285810244
+prj1,sbj1098,no,monocyte,Monocyte,17.69132241010331
+prj1,sbj1098,no,nk_cell,NK cell,11.83756989331973
+prj1,sbj110,yes,b_cell,B cell,8.618712571913239
+prj1,sbj110,yes,cd4_t_cell,CD4 T cell,36.46260888298196
+prj1,sbj110,yes,cd8_t_cell,CD8 T cell,25.14207923663712
+prj1,sbj110,yes,monocyte,Monocyte,15.218525193337141
+prj1,sbj110,yes,nk_cell,NK cell,14.558074115130543
+prj1,sbj1102,no,b_cell,B cell,10.36151066974115
+prj1,sbj1102,no,cd4_t_cell,CD4 T cell,31.976093617306656
+prj1,sbj1102,no,cd8_t_cell,CD8 T cell,25.909072258422366
+prj1,sbj1102,no,monocyte,Monocyte,22.18928984831848
+prj1,sbj1102,no,nk_cell,NK cell,9.564033606211352
+prj1,sbj1109,yes,b_cell,B cell,8.069664548448229
+prj1,sbj1109,yes,cd4_t_cell,CD4 T cell,30.839855888242962
+prj1,sbj1109,yes,cd8_t_cell,CD8 T cell,22.299871477047546
+prj1,sbj1109,yes,monocyte,Monocyte,20.391762900780595
+prj1,sbj1109,yes,nk_cell,NK cell,18.398845185480663
+prj1,sbj1113,yes,b_cell,B cell,11.643276469628011
+prj1,sbj1113,yes,cd4_t_cell,CD4 T cell,28.21364547837545
+prj1,sbj1113,yes,cd8_t_cell,CD8 T cell,23.053372367046375
+prj1,sbj1113,yes,monocyte,Monocyte,21.473510348314225
+prj1,sbj1113,yes,nk_cell,NK cell,15.616195336635935
+prj1,sbj1119,no,b_cell,B cell,8.226657215931553
+prj1,sbj1119,no,cd4_t_cell,CD4 T cell,25.600765285020927
+prj1,sbj1119,no,cd8_t_cell,CD8 T cell,26.366233047628214
+prj1,sbj1119,no,monocyte,Monocyte,20.65837012595782
+prj1,sbj1119,no,nk_cell,NK cell,19.14797432546149
+prj1,sbj112,no,b_cell,B cell,5.737443099282101
+prj1,sbj112,no,cd4_t_cell,CD4 T cell,33.120147854169296
+prj1,sbj112,no,cd8_t_cell,CD8 T cell,25.86883952942649
+prj1,sbj112,no,monocyte,Monocyte,21.641898015814533
+prj1,sbj112,no,nk_cell,NK cell,13.631671501307578
+prj1,sbj1125,yes,b_cell,B cell,12.338013000231522
+prj1,sbj1125,yes,cd4_t_cell,CD4 T cell,27.407919653315954
+prj1,sbj1125,yes,cd8_t_cell,CD8 T cell,24.712862581559587
+prj1,sbj1125,yes,monocyte,Monocyte,21.19385839413233
+prj1,sbj1125,yes,nk_cell,NK cell,14.34734637076061
+prj1,sbj1126,no,b_cell,B cell,8.952972687537295
+prj1,sbj1126,no,cd4_t_cell,CD4 T cell,31.870523998265934
+prj1,sbj1126,no,cd8_t_cell,CD8 T cell,26.27413024589732
+prj1,sbj1126,no,monocyte,Monocyte,19.369038901667075
+prj1,sbj1126,no,nk_cell,NK cell,13.53333416663238
+prj1,sbj1129,no,b_cell,B cell,8.373827501820527
+prj1,sbj1129,no,cd4_t_cell,CD4 T cell,31.547394295073165
+prj1,sbj1129,no,cd8_t_cell,CD8 T cell,21.226835304424668
+prj1,sbj1129,no,monocyte,Monocyte,21.873600343265462
+prj1,sbj1129,no,nk_cell,NK cell,16.978342555416177
+prj1,sbj1137,yes,b_cell,B cell,6.679478696620939
+prj1,sbj1137,yes,cd4_t_cell,CD4 T cell,34.48442551394496
+prj1,sbj1137,yes,cd8_t_cell,CD8 T cell,27.349796742348804
+prj1,sbj1137,yes,monocyte,Monocyte,17.729369299606137
+prj1,sbj1137,yes,nk_cell,NK cell,13.75692974747915
+prj1,sbj1138,no,b_cell,B cell,8.452692512775917
+prj1,sbj1138,no,cd4_t_cell,CD4 T cell,31.45665749042458
+prj1,sbj1138,no,cd8_t_cell,CD8 T cell,26.75836473268598
+prj1,sbj1138,no,monocyte,Monocyte,21.480383923934053
+prj1,sbj1138,no,nk_cell,NK cell,11.851901340179472
+prj1,sbj1150,no,b_cell,B cell,9.31317092336286
+prj1,sbj1150,no,cd4_t_cell,CD4 T cell,27.07232606866755
+prj1,sbj1150,no,cd8_t_cell,CD8 T cell,33.52794403669634
+prj1,sbj1150,no,monocyte,Monocyte,17.928180236785114
+prj1,sbj1150,no,nk_cell,NK cell,12.158378734488137
+prj1,sbj1153,no,b_cell,B cell,14.332838712466922
+prj1,sbj1153,no,cd4_t_cell,CD4 T cell,27.44519377323695
+prj1,sbj1153,no,cd8_t_cell,CD8 T cell,23.15480196056713
+prj1,sbj1153,no,monocyte,Monocyte,17.665819032754072
+prj1,sbj1153,no,nk_cell,NK cell,17.40134652097493
+prj1,sbj1159,yes,b_cell,B cell,11.25055500477791
+prj1,sbj1159,yes,cd4_t_cell,CD4 T cell,31.171439904714436
+prj1,sbj1159,yes,cd8_t_cell,CD8 T cell,25.111251710460223
+prj1,sbj1159,yes,monocyte,Monocyte,17.409857305144534
+prj1,sbj1159,yes,nk_cell,NK cell,15.056896074902895
+prj1,sbj1163,yes,b_cell,B cell,7.816571155998662
+prj1,sbj1163,yes,cd4_t_cell,CD4 T cell,38.129350460862895
+prj1,sbj1163,yes,cd8_t_cell,CD8 T cell,19.600436177028456
+prj1,sbj1163,yes,monocyte,Monocyte,17.248185190461776
+prj1,sbj1163,yes,nk_cell,NK cell,17.20545701564821
+prj1,sbj1166,no,b_cell,B cell,10.944318470523399
+prj1,sbj1166,no,cd4_t_cell,CD4 T cell,33.785727385742916
+prj1,sbj1166,no,cd8_t_cell,CD8 T cell,19.739931995654203
+prj1,sbj1166,no,monocyte,Monocyte,20.306921714120406
+prj1,sbj1166,no,nk_cell,NK cell,15.22310043395908
+prj1,sbj117,yes,b_cell,B cell,5.284761804537767
+prj1,sbj117,yes,cd4_t_cell,CD4 T cell,27.269466910664885
+prj1,sbj117,yes,cd8_t_cell,CD8 T cell,29.124507334381434
+prj1,sbj117,yes,monocyte,Monocyte,20.41357425063101
+prj1,sbj117,yes,nk_cell,NK cell,17.907689699784907
+prj1,sbj1171,no,b_cell,B cell,9.315660969464771
+prj1,sbj1171,no,cd4_t_cell,CD4 T cell,30.054683182516083
+prj1,sbj1171,no,cd8_t_cell,CD8 T cell,22.418924500611144
+prj1,sbj1171,no,monocyte,Monocyte,19.517607245412723
+prj1,sbj1171,no,nk_cell,NK cell,18.69312410199528
+prj1,sbj1173,yes,b_cell,B cell,12.409491554757325
+prj1,sbj1173,yes,cd4_t_cell,CD4 T cell,27.03120829366796
+prj1,sbj1173,yes,cd8_t_cell,CD8 T cell,29.68425113435498
+prj1,sbj1173,yes,monocyte,Monocyte,17.783124714344577
+prj1,sbj1173,yes,nk_cell,NK cell,13.091924302875158
+prj1,sbj1174,yes,b_cell,B cell,8.75909515516066
+prj1,sbj1174,yes,cd4_t_cell,CD4 T cell,28.05442525320502
+prj1,sbj1174,yes,cd8_t_cell,CD8 T cell,28.705983891012284
+prj1,sbj1174,yes,monocyte,Monocyte,20.16740707696528
+prj1,sbj1174,yes,nk_cell,NK cell,14.313088623656753
+prj1,sbj1178,yes,b_cell,B cell,9.090756850761563
+prj1,sbj1178,yes,cd4_t_cell,CD4 T cell,34.128177333133344
+prj1,sbj1178,yes,cd8_t_cell,CD8 T cell,20.408504191065102
+prj1,sbj1178,yes,monocyte,Monocyte,22.597210261551442
+prj1,sbj1178,yes,nk_cell,NK cell,13.775351363488548
+prj1,sbj118,yes,b_cell,B cell,11.779569831145729
+prj1,sbj118,yes,cd4_t_cell,CD4 T cell,29.794660874924617
+prj1,sbj118,yes,cd8_t_cell,CD8 T cell,22.798487328275
+prj1,sbj118,yes,monocyte,Monocyte,21.00587031483617
+prj1,sbj118,yes,nk_cell,NK cell,14.621411650818482
+prj1,sbj1185,yes,b_cell,B cell,8.417832004962603
+prj1,sbj1185,yes,cd4_t_cell,CD4 T cell,31.214945656247863
+prj1,sbj1185,yes,cd8_t_cell,CD8 T cell,20.46114075438233
+prj1,sbj1185,yes,monocyte,Monocyte,23.581738085085785
+prj1,sbj1185,yes,nk_cell,NK cell,16.32434349932142
+prj1,sbj1186,yes,b_cell,B cell,6.869707139437646
+prj1,sbj1186,yes,cd4_t_cell,CD4 T cell,25.60671788501911
+prj1,sbj1186,yes,cd8_t_cell,CD8 T cell,26.35842523658694
+prj1,sbj1186,yes,monocyte,Monocyte,24.32637563529798
+prj1,sbj1186,yes,nk_cell,NK cell,16.838774103658327
+prj1,sbj1187,no,b_cell,B cell,9.454931490020394
+prj1,sbj1187,no,cd4_t_cell,CD4 T cell,31.837611268954603
+prj1,sbj1187,no,cd8_t_cell,CD8 T cell,24.121256343452785
+prj1,sbj1187,no,monocyte,Monocyte,20.334138975969477
+prj1,sbj1187,no,nk_cell,NK cell,14.25206192160274
+prj1,sbj1193,yes,b_cell,B cell,12.005332271628276
+prj1,sbj1193,yes,cd4_t_cell,CD4 T cell,28.093305364673558
+prj1,sbj1193,yes,cd8_t_cell,CD8 T cell,23.685870423536638
+prj1,sbj1193,yes,monocyte,Monocyte,20.216204206658066
+prj1,sbj1193,yes,nk_cell,NK cell,15.99928773350346
+prj1,sbj1201,no,b_cell,B cell,10.793570712991809
+prj1,sbj1201,no,cd4_t_cell,CD4 T cell,29.567615482431332
+prj1,sbj1201,no,cd8_t_cell,CD8 T cell,25.0856347039272
+prj1,sbj1201,no,monocyte,Monocyte,19.085291520783276
+prj1,sbj1201,no,nk_cell,NK cell,15.467887579866385
+prj1,sbj1208,no,b_cell,B cell,9.146236100063978
+prj1,sbj1208,no,cd4_t_cell,CD4 T cell,26.299442673618035
+prj1,sbj1208,no,cd8_t_cell,CD8 T cell,28.955421786347475
+prj1,sbj1208,no,monocyte,Monocyte,20.332500283415072
+prj1,sbj1208,no,nk_cell,NK cell,15.266399156555442
+prj1,sbj1214,yes,b_cell,B cell,8.480624426615547
+prj1,sbj1214,yes,cd4_t_cell,CD4 T cell,27.996031781803623
+prj1,sbj1214,yes,cd8_t_cell,CD8 T cell,25.912406319763303
+prj1,sbj1214,yes,monocyte,Monocyte,17.3199979988581
+prj1,sbj1214,yes,nk_cell,NK cell,20.290939472959426
+prj1,sbj1215,no,b_cell,B cell,8.872383635101842
+prj1,sbj1215,no,cd4_t_cell,CD4 T cell,30.747802972684852
+prj1,sbj1215,no,cd8_t_cell,CD8 T cell,26.384207387504517
+prj1,sbj1215,no,monocyte,Monocyte,17.07094985742147
+prj1,sbj1215,no,nk_cell,NK cell,16.924656147287322
+prj1,sbj1217,yes,b_cell,B cell,8.097439481690573
+prj1,sbj1217,yes,cd4_t_cell,CD4 T cell,39.07877203736228
+prj1,sbj1217,yes,cd8_t_cell,CD8 T cell,24.074520972326468
+prj1,sbj1217,yes,monocyte,Monocyte,17.68176134438793
+prj1,sbj1217,yes,nk_cell,NK cell,11.067506164232753
+prj1,sbj1219,no,b_cell,B cell,8.770493504501507
+prj1,sbj1219,no,cd4_t_cell,CD4 T cell,30.058739188511424
+prj1,sbj1219,no,cd8_t_cell,CD8 T cell,27.09745007754819
+prj1,sbj1219,no,monocyte,Monocyte,20.35999557136375
+prj1,sbj1219,no,nk_cell,NK cell,13.713321658075131
+prj1,sbj1224,no,b_cell,B cell,11.435319926481682
+prj1,sbj1224,no,cd4_t_cell,CD4 T cell,28.11728179230627
+prj1,sbj1224,no,cd8_t_cell,CD8 T cell,25.32272065018979
+prj1,sbj1224,no,monocyte,Monocyte,17.616159368989223
+prj1,sbj1224,no,nk_cell,NK cell,17.508518262033036
+prj1,sbj1228,no,b_cell,B cell,9.811041985694942
+prj1,sbj1228,no,cd4_t_cell,CD4 T cell,27.76986707430299
+prj1,sbj1228,no,cd8_t_cell,CD8 T cell,26.492073488925048
+prj1,sbj1228,no,monocyte,Monocyte,18.94268783010932
+prj1,sbj1228,no,nk_cell,NK cell,16.9843296209677
+prj1,sbj1230,no,b_cell,B cell,9.30272879150828
+prj1,sbj1230,no,cd4_t_cell,CD4 T cell,27.14561327995105
+prj1,sbj1230,no,cd8_t_cell,CD8 T cell,23.497034214972405
+prj1,sbj1230,no,monocyte,Monocyte,23.646010786178618
+prj1,sbj1230,no,nk_cell,NK cell,16.408612927389647
+prj1,sbj1232,yes,b_cell,B cell,9.963149739127607
+prj1,sbj1232,yes,cd4_t_cell,CD4 T cell,30.903980248592802
+prj1,sbj1232,yes,cd8_t_cell,CD8 T cell,30.41648447893665
+prj1,sbj1232,yes,monocyte,Monocyte,16.234739124768524
+prj1,sbj1232,yes,nk_cell,NK cell,12.481646408574427
+prj1,sbj1234,yes,b_cell,B cell,9.103536794055747
+prj1,sbj1234,yes,cd4_t_cell,CD4 T cell,33.76991708480088
+prj1,sbj1234,yes,cd8_t_cell,CD8 T cell,23.392971819019703
+prj1,sbj1234,yes,monocyte,Monocyte,17.393182283738124
+prj1,sbj1234,yes,nk_cell,NK cell,16.340392018385554
+prj1,sbj1236,yes,b_cell,B cell,11.510342594432643
+prj1,sbj1236,yes,cd4_t_cell,CD4 T cell,30.98205413350343
+prj1,sbj1236,yes,cd8_t_cell,CD8 T cell,23.62690655797141
+prj1,sbj1236,yes,monocyte,Monocyte,20.18752326006507
+prj1,sbj1236,yes,nk_cell,NK cell,13.693173454027443
+prj1,sbj124,yes,b_cell,B cell,9.083585267713874
+prj1,sbj124,yes,cd4_t_cell,CD4 T cell,30.724186424915832
+prj1,sbj124,yes,cd8_t_cell,CD8 T cell,26.298364828869676
+prj1,sbj124,yes,monocyte,Monocyte,18.869148345090974
+prj1,sbj124,yes,nk_cell,NK cell,15.024715133409641
+prj1,sbj1243,yes,b_cell,B cell,8.999006853383548
+prj1,sbj1243,yes,cd4_t_cell,CD4 T cell,30.31781090327692
+prj1,sbj1243,yes,cd8_t_cell,CD8 T cell,24.531324755937906
+prj1,sbj1243,yes,monocyte,Monocyte,20.690093714852146
+prj1,sbj1243,yes,nk_cell,NK cell,15.46176377254948
+prj1,sbj1245,no,b_cell,B cell,12.312273007286818
+prj1,sbj1245,no,cd4_t_cell,CD4 T cell,26.666368638968695
+prj1,sbj1245,no,cd8_t_cell,CD8 T cell,26.634208233966614
+prj1,sbj1245,no,monocyte,Monocyte,20.455150827850755
+prj1,sbj1245,no,nk_cell,NK cell,13.931999291927118
+prj1,sbj1250,yes,b_cell,B cell,13.57720412499644
+prj1,sbj1250,yes,cd4_t_cell,CD4 T cell,26.349731226161676
+prj1,sbj1250,yes,cd8_t_cell,CD8 T cell,29.045722593268625
+prj1,sbj1250,yes,monocyte,Monocyte,17.707498899991414
+prj1,sbj1250,yes,nk_cell,NK cell,13.319843155581841
+prj1,sbj1252,no,b_cell,B cell,10.679105258660826
+prj1,sbj1252,no,cd4_t_cell,CD4 T cell,30.468635756204236
+prj1,sbj1252,no,cd8_t_cell,CD8 T cell,23.961262575486113
+prj1,sbj1252,no,monocyte,Monocyte,21.902957712064193
+prj1,sbj1252,no,nk_cell,NK cell,12.988038697584628
+prj1,sbj1253,no,b_cell,B cell,7.458169459211448
+prj1,sbj1253,no,cd4_t_cell,CD4 T cell,34.40184285406733
+prj1,sbj1253,no,cd8_t_cell,CD8 T cell,25.30488955575575
+prj1,sbj1253,no,monocyte,Monocyte,18.175381556781733
+prj1,sbj1253,no,nk_cell,NK cell,14.659716574183733
+prj1,sbj1255,no,b_cell,B cell,12.818404563101751
+prj1,sbj1255,no,cd4_t_cell,CD4 T cell,27.798310335906876
+prj1,sbj1255,no,cd8_t_cell,CD8 T cell,27.167302714133204
+prj1,sbj1255,no,monocyte,Monocyte,18.69800574795654
+prj1,sbj1255,no,nk_cell,NK cell,13.517976638901628
+prj1,sbj1258,no,b_cell,B cell,11.070155544055035
+prj1,sbj1258,no,cd4_t_cell,CD4 T cell,33.100688326811486
+prj1,sbj1258,no,cd8_t_cell,CD8 T cell,21.997534907460125
+prj1,sbj1258,no,monocyte,Monocyte,19.287970782435256
+prj1,sbj1258,no,nk_cell,NK cell,14.543650439238098
+prj1,sbj1260,no,b_cell,B cell,10.851188410568637
+prj1,sbj1260,no,cd4_t_cell,CD4 T cell,28.15706673628564
+prj1,sbj1260,no,cd8_t_cell,CD8 T cell,26.115177995679776
+prj1,sbj1260,no,monocyte,Monocyte,20.670708177241064
+prj1,sbj1260,no,nk_cell,NK cell,14.205858680224887
+prj1,sbj1263,yes,b_cell,B cell,8.250519167075165
+prj1,sbj1263,yes,cd4_t_cell,CD4 T cell,29.11188950263112
+prj1,sbj1263,yes,cd8_t_cell,CD8 T cell,26.355623520052138
+prj1,sbj1263,yes,monocyte,Monocyte,23.810646946190456
+prj1,sbj1263,yes,nk_cell,NK cell,12.471320864051123
+prj1,sbj1278,no,b_cell,B cell,11.577061859614455
+prj1,sbj1278,no,cd4_t_cell,CD4 T cell,31.29140043615003
+prj1,sbj1278,no,cd8_t_cell,CD8 T cell,27.0499808465357
+prj1,sbj1278,no,monocyte,Monocyte,15.637214190719769
+prj1,sbj1278,no,nk_cell,NK cell,14.444342666980049
+prj1,sbj1280,no,b_cell,B cell,9.174844537258819
+prj1,sbj1280,no,cd4_t_cell,CD4 T cell,27.670261208002092
+prj1,sbj1280,no,cd8_t_cell,CD8 T cell,21.87526312237203
+prj1,sbj1280,no,monocyte,Monocyte,22.34913679039451
+prj1,sbj1280,no,nk_cell,NK cell,18.93049434197255
+prj1,sbj1281,no,b_cell,B cell,12.112754302736583
+prj1,sbj1281,no,cd4_t_cell,CD4 T cell,28.237533253669294
+prj1,sbj1281,no,cd8_t_cell,CD8 T cell,26.883366380107844
+prj1,sbj1281,no,monocyte,Monocyte,18.956475655110427
+prj1,sbj1281,no,nk_cell,NK cell,13.80987040837585
+prj1,sbj1285,no,b_cell,B cell,11.157742580820175
+prj1,sbj1285,no,cd4_t_cell,CD4 T cell,29.33146605900215
+prj1,sbj1285,no,cd8_t_cell,CD8 T cell,24.69351669349672
+prj1,sbj1285,no,monocyte,Monocyte,22.14537812369846
+prj1,sbj1285,no,nk_cell,NK cell,12.671896542982502
+prj1,sbj1286,yes,b_cell,B cell,9.0529842809549
+prj1,sbj1286,yes,cd4_t_cell,CD4 T cell,32.44493522637762
+prj1,sbj1286,yes,cd8_t_cell,CD8 T cell,24.92218972440543
+prj1,sbj1286,yes,monocyte,Monocyte,20.329567593929802
+prj1,sbj1286,yes,nk_cell,NK cell,13.250323174332243
+prj1,sbj1287,yes,b_cell,B cell,7.3782873460960845
+prj1,sbj1287,yes,cd4_t_cell,CD4 T cell,34.56675835633211
+prj1,sbj1287,yes,cd8_t_cell,CD8 T cell,25.0024903400121
+prj1,sbj1287,yes,monocyte,Monocyte,19.272639848486616
+prj1,sbj1287,yes,nk_cell,NK cell,13.779824109073102
+prj1,sbj1290,yes,b_cell,B cell,11.821125230536248
+prj1,sbj1290,yes,cd4_t_cell,CD4 T cell,34.82040820045686
+prj1,sbj1290,yes,cd8_t_cell,CD8 T cell,22.907514399340485
+prj1,sbj1290,yes,monocyte,Monocyte,17.492746722581188
+prj1,sbj1290,yes,nk_cell,NK cell,12.958205447085215
+prj1,sbj1292,yes,b_cell,B cell,9.546671257896538
+prj1,sbj1292,yes,cd4_t_cell,CD4 T cell,31.03986145884562
+prj1,sbj1292,yes,cd8_t_cell,CD8 T cell,25.30772169585457
+prj1,sbj1292,yes,monocyte,Monocyte,22.553966814683523
+prj1,sbj1292,yes,nk_cell,NK cell,11.551778772719748
+prj1,sbj1298,yes,b_cell,B cell,9.111778027944483
+prj1,sbj1298,yes,cd4_t_cell,CD4 T cell,32.469846959772504
+prj1,sbj1298,yes,cd8_t_cell,CD8 T cell,25.94438728076953
+prj1,sbj1298,yes,monocyte,Monocyte,16.828859459853053
+prj1,sbj1298,yes,nk_cell,NK cell,15.64512827166043
+prj1,sbj1306,yes,b_cell,B cell,7.981996124363728
+prj1,sbj1306,yes,cd4_t_cell,CD4 T cell,31.56555954675771
+prj1,sbj1306,yes,cd8_t_cell,CD8 T cell,21.22143611376087
+prj1,sbj1306,yes,monocyte,Monocyte,23.651960369063488
+prj1,sbj1306,yes,nk_cell,NK cell,15.579047846054209
+prj1,sbj1307,no,b_cell,B cell,8.849311639505979
+prj1,sbj1307,no,cd4_t_cell,CD4 T cell,29.363826768117168
+prj1,sbj1307,no,cd8_t_cell,CD8 T cell,24.28812561081105
+prj1,sbj1307,no,monocyte,Monocyte,21.282895757549003
+prj1,sbj1307,no,nk_cell,NK cell,16.215840224016798
+prj1,sbj1310,yes,b_cell,B cell,11.153863796872644
+prj1,sbj1310,yes,cd4_t_cell,CD4 T cell,29.702794485321956
+prj1,sbj1310,yes,cd8_t_cell,CD8 T cell,25.797756472931088
+prj1,sbj1310,yes,monocyte,Monocyte,20.83648536550795
+prj1,sbj1310,yes,nk_cell,NK cell,12.509099879366358
+prj1,sbj1311,yes,b_cell,B cell,10.892001479154073
+prj1,sbj1311,yes,cd4_t_cell,CD4 T cell,27.42132550060308
+prj1,sbj1311,yes,cd8_t_cell,CD8 T cell,22.294386712480744
+prj1,sbj1311,yes,monocyte,Monocyte,24.66846558717663
+prj1,sbj1311,yes,nk_cell,NK cell,14.72382072058547
+prj1,sbj1312,yes,b_cell,B cell,9.845224972071799
+prj1,sbj1312,yes,cd4_t_cell,CD4 T cell,30.110880049694696
+prj1,sbj1312,yes,cd8_t_cell,CD8 T cell,31.572563443173113
+prj1,sbj1312,yes,monocyte,Monocyte,16.400663601867066
+prj1,sbj1312,yes,nk_cell,NK cell,12.070667933193326
+prj1,sbj1316,no,b_cell,B cell,10.286701873334485
+prj1,sbj1316,no,cd4_t_cell,CD4 T cell,29.706601190335604
+prj1,sbj1316,no,cd8_t_cell,CD8 T cell,25.080429966254233
+prj1,sbj1316,no,monocyte,Monocyte,20.175534363977775
+prj1,sbj1316,no,nk_cell,NK cell,14.75073260609791
+prj1,sbj1320,yes,b_cell,B cell,10.033022628581907
+prj1,sbj1320,yes,cd4_t_cell,CD4 T cell,28.104903171431946
+prj1,sbj1320,yes,cd8_t_cell,CD8 T cell,28.37172450780751
+prj1,sbj1320,yes,monocyte,Monocyte,17.151422293252136
+prj1,sbj1320,yes,nk_cell,NK cell,16.3389273989265
+prj1,sbj1326,yes,b_cell,B cell,8.727485136346479
+prj1,sbj1326,yes,cd4_t_cell,CD4 T cell,32.763464355439105
+prj1,sbj1326,yes,cd8_t_cell,CD8 T cell,23.63890697081942
+prj1,sbj1326,yes,monocyte,Monocyte,18.64467489057149
+prj1,sbj1326,yes,nk_cell,NK cell,16.225468646823504
+prj1,sbj1329,no,b_cell,B cell,7.682401466362546
+prj1,sbj1329,no,cd4_t_cell,CD4 T cell,29.133851972455727
+prj1,sbj1329,no,cd8_t_cell,CD8 T cell,27.424168636259264
+prj1,sbj1329,no,monocyte,Monocyte,18.937348835418472
+prj1,sbj1329,no,nk_cell,NK cell,16.82222908950399
+prj1,sbj1331,no,b_cell,B cell,8.982670902174528
+prj1,sbj1331,no,cd4_t_cell,CD4 T cell,31.5160604069291
+prj1,sbj1331,no,cd8_t_cell,CD8 T cell,24.352143737242482
+prj1,sbj1331,no,monocyte,Monocyte,20.440273311902466
+prj1,sbj1331,no,nk_cell,NK cell,14.708851641751428
+prj1,sbj1337,no,b_cell,B cell,13.060611874697436
+prj1,sbj1337,no,cd4_t_cell,CD4 T cell,29.16674142936409
+prj1,sbj1337,no,cd8_t_cell,CD8 T cell,21.371494545819953
+prj1,sbj1337,no,monocyte,Monocyte,21.150528344115134
+prj1,sbj1337,no,nk_cell,NK cell,15.25062380600339
+prj1,sbj1339,yes,b_cell,B cell,9.847023884038657
+prj1,sbj1339,yes,cd4_t_cell,CD4 T cell,28.568082329128398
+prj1,sbj1339,yes,cd8_t_cell,CD8 T cell,29.386982839409725
+prj1,sbj1339,yes,monocyte,Monocyte,19.581900422707676
+prj1,sbj1339,yes,nk_cell,NK cell,12.616010524715543
+prj1,sbj134,yes,b_cell,B cell,10.996787644789302
+prj1,sbj134,yes,cd4_t_cell,CD4 T cell,27.03485861489287
+prj1,sbj134,yes,cd8_t_cell,CD8 T cell,18.956781183129586
+prj1,sbj134,yes,monocyte,Monocyte,25.195319213505996
+prj1,sbj134,yes,nk_cell,NK cell,17.81625334368224
+prj1,sbj1342,no,b_cell,B cell,7.713133807491367
+prj1,sbj1342,no,cd4_t_cell,CD4 T cell,25.31600423687189
+prj1,sbj1342,no,cd8_t_cell,CD8 T cell,27.681869099886097
+prj1,sbj1342,no,monocyte,Monocyte,23.681701831816124
+prj1,sbj1342,no,nk_cell,NK cell,15.607291023934524
+prj1,sbj1345,yes,b_cell,B cell,10.858040404055364
+prj1,sbj1345,yes,cd4_t_cell,CD4 T cell,32.37627481797351
+prj1,sbj1345,yes,cd8_t_cell,CD8 T cell,19.66489372820693
+prj1,sbj1345,yes,monocyte,Monocyte,21.037516240120123
+prj1,sbj1345,yes,nk_cell,NK cell,16.063274809644074
+prj1,sbj1350,yes,b_cell,B cell,12.29112473371439
+prj1,sbj1350,yes,cd4_t_cell,CD4 T cell,33.657551836746244
+prj1,sbj1350,yes,cd8_t_cell,CD8 T cell,19.581794077978596
+prj1,sbj1350,yes,monocyte,Monocyte,19.729840853754265
+prj1,sbj1350,yes,nk_cell,NK cell,14.739688497806503
+prj1,sbj1360,yes,b_cell,B cell,9.031429729174402
+prj1,sbj1360,yes,cd4_t_cell,CD4 T cell,36.369044647401
+prj1,sbj1360,yes,cd8_t_cell,CD8 T cell,20.14183062116484
+prj1,sbj1360,yes,monocyte,Monocyte,21.517419718527496
+prj1,sbj1360,yes,nk_cell,NK cell,12.940275283732268
+prj1,sbj1362,yes,b_cell,B cell,11.05166216999699
+prj1,sbj1362,yes,cd4_t_cell,CD4 T cell,30.425850949516363
+prj1,sbj1362,yes,cd8_t_cell,CD8 T cell,26.734004617105835
+prj1,sbj1362,yes,monocyte,Monocyte,18.627329064641277
+prj1,sbj1362,yes,nk_cell,NK cell,13.161153198739534
+prj1,sbj1373,yes,b_cell,B cell,11.896245274805993
+prj1,sbj1373,yes,cd4_t_cell,CD4 T cell,27.647305682756407
+prj1,sbj1373,yes,cd8_t_cell,CD8 T cell,23.095842107599513
+prj1,sbj1373,yes,monocyte,Monocyte,20.38464419930231
+prj1,sbj1373,yes,nk_cell,NK cell,16.97596273553577
+prj1,sbj1374,yes,b_cell,B cell,10.33084044298836
+prj1,sbj1374,yes,cd4_t_cell,CD4 T cell,30.040907601043674
+prj1,sbj1374,yes,cd8_t_cell,CD8 T cell,25.498880435134225
+prj1,sbj1374,yes,monocyte,Monocyte,21.302826448337985
+prj1,sbj1374,yes,nk_cell,NK cell,12.826545072495753
+prj1,sbj1376,no,b_cell,B cell,11.13108541988157
+prj1,sbj1376,no,cd4_t_cell,CD4 T cell,27.850211677924978
+prj1,sbj1376,no,cd8_t_cell,CD8 T cell,25.219558958577455
+prj1,sbj1376,no,monocyte,Monocyte,22.120850211890456
+prj1,sbj1376,no,nk_cell,NK cell,13.678293731725534
+prj1,sbj1377,yes,b_cell,B cell,7.659220319786004
+prj1,sbj1377,yes,cd4_t_cell,CD4 T cell,28.185582294635008
+prj1,sbj1377,yes,cd8_t_cell,CD8 T cell,24.961490072950557
+prj1,sbj1377,yes,monocyte,Monocyte,21.327508843166154
+prj1,sbj1377,yes,nk_cell,NK cell,17.866198469462272
+prj1,sbj138,no,b_cell,B cell,10.826183428976107
+prj1,sbj138,no,cd4_t_cell,CD4 T cell,31.483292387902054
+prj1,sbj138,no,cd8_t_cell,CD8 T cell,24.524227395140603
+prj1,sbj138,no,monocyte,Monocyte,19.119186480834284
+prj1,sbj138,no,nk_cell,NK cell,14.04711030714695
+prj1,sbj139,no,b_cell,B cell,7.154525019867548
+prj1,sbj139,no,cd4_t_cell,CD4 T cell,34.57332690069617
+prj1,sbj139,no,cd8_t_cell,CD8 T cell,22.517384457677945
+prj1,sbj139,no,monocyte,Monocyte,24.673335174052426
+prj1,sbj139,no,nk_cell,NK cell,11.081428447705918
+prj1,sbj1394,yes,b_cell,B cell,9.229897643176301
+prj1,sbj1394,yes,cd4_t_cell,CD4 T cell,32.79823987456229
+prj1,sbj1394,yes,cd8_t_cell,CD8 T cell,27.2615136932427
+prj1,sbj1394,yes,monocyte,Monocyte,19.782795266550114
+prj1,sbj1394,yes,nk_cell,NK cell,10.92755352246859
+prj1,sbj1397,no,b_cell,B cell,9.187598112132589
+prj1,sbj1397,no,cd4_t_cell,CD4 T cell,30.431298106592166
+prj1,sbj1397,no,cd8_t_cell,CD8 T cell,26.54139343808689
+prj1,sbj1397,no,monocyte,Monocyte,20.48464389000061
+prj1,sbj1397,no,nk_cell,NK cell,13.355066453187746
+prj1,sbj140,yes,b_cell,B cell,6.837791497666362
+prj1,sbj140,yes,cd4_t_cell,CD4 T cell,31.863014703342845
+prj1,sbj140,yes,cd8_t_cell,CD8 T cell,27.167496117552663
+prj1,sbj140,yes,monocyte,Monocyte,19.653965237899182
+prj1,sbj140,yes,nk_cell,NK cell,14.477732443538947
+prj1,sbj1404,yes,b_cell,B cell,13.12716983674464
+prj1,sbj1404,yes,cd4_t_cell,CD4 T cell,26.580692678626544
+prj1,sbj1404,yes,cd8_t_cell,CD8 T cell,24.186603070442356
+prj1,sbj1404,yes,monocyte,Monocyte,20.48970168428426
+prj1,sbj1404,yes,nk_cell,NK cell,15.6158327299022
+prj1,sbj1405,yes,b_cell,B cell,14.394170338970616
+prj1,sbj1405,yes,cd4_t_cell,CD4 T cell,30.165294232765888
+prj1,sbj1405,yes,cd8_t_cell,CD8 T cell,23.834447322676983
+prj1,sbj1405,yes,monocyte,Monocyte,19.659175585258634
+prj1,sbj1405,yes,nk_cell,NK cell,11.94691252032788
+prj1,sbj1413,yes,b_cell,B cell,7.663245889236528
+prj1,sbj1413,yes,cd4_t_cell,CD4 T cell,29.02712889532953
+prj1,sbj1413,yes,cd8_t_cell,CD8 T cell,26.219145024676465
+prj1,sbj1413,yes,monocyte,Monocyte,18.35841562408245
+prj1,sbj1413,yes,nk_cell,NK cell,18.732064566675025
+prj1,sbj1416,no,b_cell,B cell,8.342555659939523
+prj1,sbj1416,no,cd4_t_cell,CD4 T cell,27.266514437623286
+prj1,sbj1416,no,cd8_t_cell,CD8 T cell,29.29658170818148
+prj1,sbj1416,no,monocyte,Monocyte,17.20074009926711
+prj1,sbj1416,no,nk_cell,NK cell,17.893608094988597
+prj1,sbj1418,no,b_cell,B cell,10.722555065101181
+prj1,sbj1418,no,cd4_t_cell,CD4 T cell,28.70589687849677
+prj1,sbj1418,no,cd8_t_cell,CD8 T cell,28.04591599447001
+prj1,sbj1418,no,monocyte,Monocyte,18.81633345232832
+prj1,sbj1418,no,nk_cell,NK cell,13.709298609603715
+prj1,sbj1419,yes,b_cell,B cell,11.27319495394635
+prj1,sbj1419,yes,cd4_t_cell,CD4 T cell,25.963280215790764
+prj1,sbj1419,yes,cd8_t_cell,CD8 T cell,28.928452024480293
+prj1,sbj1419,yes,monocyte,Monocyte,19.307499072086326
+prj1,sbj1419,yes,nk_cell,NK cell,14.527573733696265
+prj1,sbj142,no,b_cell,B cell,13.74171769987546
+prj1,sbj142,no,cd4_t_cell,CD4 T cell,30.399882293267964
+prj1,sbj142,no,cd8_t_cell,CD8 T cell,21.87876235774274
+prj1,sbj142,no,monocyte,Monocyte,15.576238823268945
+prj1,sbj142,no,nk_cell,NK cell,18.40339882584489
+prj1,sbj1421,yes,b_cell,B cell,10.690007086435076
+prj1,sbj1421,yes,cd4_t_cell,CD4 T cell,29.06355948959832
+prj1,sbj1421,yes,cd8_t_cell,CD8 T cell,23.583476653011378
+prj1,sbj1421,yes,monocyte,Monocyte,19.88463511390958
+prj1,sbj1421,yes,nk_cell,NK cell,16.77832165704564
+prj1,sbj1424,no,b_cell,B cell,10.5478730847219
+prj1,sbj1424,no,cd4_t_cell,CD4 T cell,29.026156172638974
+prj1,sbj1424,no,cd8_t_cell,CD8 T cell,24.64683493663375
+prj1,sbj1424,no,monocyte,Monocyte,20.648794856268683
+prj1,sbj1424,no,nk_cell,NK cell,15.130340949736699
+prj1,sbj143,yes,b_cell,B cell,10.89963203288364
+prj1,sbj143,yes,cd4_t_cell,CD4 T cell,34.64067179848804
+prj1,sbj143,yes,cd8_t_cell,CD8 T cell,20.17143940456164
+prj1,sbj143,yes,monocyte,Monocyte,19.749823456023776
+prj1,sbj143,yes,nk_cell,NK cell,14.5384333080429
+prj1,sbj1430,no,b_cell,B cell,11.801469463276838
+prj1,sbj1430,no,cd4_t_cell,CD4 T cell,35.35706914527438
+prj1,sbj1430,no,cd8_t_cell,CD8 T cell,25.64831423541655
+prj1,sbj1430,no,monocyte,Monocyte,16.215509739344583
+prj1,sbj1430,no,nk_cell,NK cell,10.977637416687651
+prj1,sbj1432,yes,b_cell,B cell,8.480949629488089
+prj1,sbj1432,yes,cd4_t_cell,CD4 T cell,31.043945399502178
+prj1,sbj1432,yes,cd8_t_cell,CD8 T cell,25.13214110125362
+prj1,sbj1432,yes,monocyte,Monocyte,20.495276617944032
+prj1,sbj1432,yes,nk_cell,NK cell,14.847687251812083
+prj1,sbj144,no,b_cell,B cell,9.521884119686716
+prj1,sbj144,no,cd4_t_cell,CD4 T cell,29.82252023625726
+prj1,sbj144,no,cd8_t_cell,CD8 T cell,27.17665472933824
+prj1,sbj144,no,monocyte,Monocyte,19.17455569818536
+prj1,sbj144,no,nk_cell,NK cell,14.304385216532426
+prj1,sbj1440,yes,b_cell,B cell,8.31584629619331
+prj1,sbj1440,yes,cd4_t_cell,CD4 T cell,30.365373791505945
+prj1,sbj1440,yes,cd8_t_cell,CD8 T cell,28.873955445902567
+prj1,sbj1440,yes,monocyte,Monocyte,17.809516973336923
+prj1,sbj1440,yes,nk_cell,NK cell,14.635307493061255
+prj1,sbj1444,no,b_cell,B cell,10.281263381019526
+prj1,sbj1444,no,cd4_t_cell,CD4 T cell,35.77387618399084
+prj1,sbj1444,no,cd8_t_cell,CD8 T cell,23.068790287263155
+prj1,sbj1444,no,monocyte,Monocyte,17.09157613662467
+prj1,sbj1444,no,nk_cell,NK cell,13.784494011101799
+prj1,sbj145,yes,b_cell,B cell,7.76716468820728
+prj1,sbj145,yes,cd4_t_cell,CD4 T cell,34.5782672430092
+prj1,sbj145,yes,cd8_t_cell,CD8 T cell,21.849525520357037
+prj1,sbj145,yes,monocyte,Monocyte,19.16917598284502
+prj1,sbj145,yes,nk_cell,NK cell,16.635866565581466
+prj1,sbj1455,no,b_cell,B cell,7.684050993867424
+prj1,sbj1455,no,cd4_t_cell,CD4 T cell,31.189608896704414
+prj1,sbj1455,no,cd8_t_cell,CD8 T cell,27.900791293128147
+prj1,sbj1455,no,monocyte,Monocyte,17.364176407675618
+prj1,sbj1455,no,nk_cell,NK cell,15.861372408624396
+prj1,sbj1457,no,b_cell,B cell,11.139702071861434
+prj1,sbj1457,no,cd4_t_cell,CD4 T cell,31.4840796539907
+prj1,sbj1457,no,cd8_t_cell,CD8 T cell,22.980093379103135
+prj1,sbj1457,no,monocyte,Monocyte,17.782282785333155
+prj1,sbj1457,no,nk_cell,NK cell,16.613842109711573
+prj1,sbj1458,no,b_cell,B cell,10.252839032591973
+prj1,sbj1458,no,cd4_t_cell,CD4 T cell,27.323547079091913
+prj1,sbj1458,no,cd8_t_cell,CD8 T cell,25.384127778292648
+prj1,sbj1458,no,monocyte,Monocyte,23.41500241256152
+prj1,sbj1458,no,nk_cell,NK cell,13.62448369746195
+prj1,sbj1459,yes,b_cell,B cell,6.958034514840534
+prj1,sbj1459,yes,cd4_t_cell,CD4 T cell,32.85542611000801
+prj1,sbj1459,yes,cd8_t_cell,CD8 T cell,28.574978898743797
+prj1,sbj1459,yes,monocyte,Monocyte,16.068844901980324
+prj1,sbj1459,yes,nk_cell,NK cell,15.542715574427334
+prj1,sbj1461,yes,b_cell,B cell,10.858225144904003
+prj1,sbj1461,yes,cd4_t_cell,CD4 T cell,31.206185778350186
+prj1,sbj1461,yes,cd8_t_cell,CD8 T cell,21.25273008356455
+prj1,sbj1461,yes,monocyte,Monocyte,21.36401264177971
+prj1,sbj1461,yes,nk_cell,NK cell,15.318846351401548
+prj1,sbj1463,yes,b_cell,B cell,7.794849854107145
+prj1,sbj1463,yes,cd4_t_cell,CD4 T cell,31.844500765714145
+prj1,sbj1463,yes,cd8_t_cell,CD8 T cell,25.052281674978136
+prj1,sbj1463,yes,monocyte,Monocyte,18.0314899416987
+prj1,sbj1463,yes,nk_cell,NK cell,17.27687776350188
+prj1,sbj1464,yes,b_cell,B cell,12.476056317994557
+prj1,sbj1464,yes,cd4_t_cell,CD4 T cell,35.26779336657865
+prj1,sbj1464,yes,cd8_t_cell,CD8 T cell,22.347644771336803
+prj1,sbj1464,yes,monocyte,Monocyte,16.57323106347998
+prj1,sbj1464,yes,nk_cell,NK cell,13.335274480610005
+prj1,sbj1469,no,b_cell,B cell,8.42201531464376
+prj1,sbj1469,no,cd4_t_cell,CD4 T cell,27.68576323566275
+prj1,sbj1469,no,cd8_t_cell,CD8 T cell,28.606665847020327
+prj1,sbj1469,no,monocyte,Monocyte,20.664939371413443
+prj1,sbj1469,no,nk_cell,NK cell,14.620616231259719
+prj1,sbj1474,no,b_cell,B cell,7.802826158892503
+prj1,sbj1474,no,cd4_t_cell,CD4 T cell,30.835535484218326
+prj1,sbj1474,no,cd8_t_cell,CD8 T cell,24.86757438298409
+prj1,sbj1474,no,monocyte,Monocyte,20.35579771994072
+prj1,sbj1474,no,nk_cell,NK cell,16.138266253964353
+prj1,sbj1477,no,b_cell,B cell,12.20117442213513
+prj1,sbj1477,no,cd4_t_cell,CD4 T cell,24.33449548539437
+prj1,sbj1477,no,cd8_t_cell,CD8 T cell,24.87270593621697
+prj1,sbj1477,no,monocyte,Monocyte,22.70724061624601
+prj1,sbj1477,no,nk_cell,NK cell,15.88438354000752
+prj1,sbj1479,yes,b_cell,B cell,7.903950269732245
+prj1,sbj1479,yes,cd4_t_cell,CD4 T cell,35.5389755359521
+prj1,sbj1479,yes,cd8_t_cell,CD8 T cell,19.518191318996625
+prj1,sbj1479,yes,monocyte,Monocyte,22.932491271844455
+prj1,sbj1479,yes,nk_cell,NK cell,14.106391603474583
+prj1,sbj148,no,b_cell,B cell,11.723126389884412
+prj1,sbj148,no,cd4_t_cell,CD4 T cell,36.0139768436092
+prj1,sbj148,no,cd8_t_cell,CD8 T cell,21.596329418438795
+prj1,sbj148,no,monocyte,Monocyte,16.023436123512727
+prj1,sbj148,no,nk_cell,NK cell,14.643131224554871
+prj1,sbj1482,no,b_cell,B cell,12.823906492090897
+prj1,sbj1482,no,cd4_t_cell,CD4 T cell,28.3757711924525
+prj1,sbj1482,no,cd8_t_cell,CD8 T cell,20.553082087641325
+prj1,sbj1482,no,monocyte,Monocyte,20.958077796037326
+prj1,sbj1482,no,nk_cell,NK cell,17.28916243177795
+prj1,sbj1484,yes,b_cell,B cell,10.22447028241372
+prj1,sbj1484,yes,cd4_t_cell,CD4 T cell,34.98098634759054
+prj1,sbj1484,yes,cd8_t_cell,CD8 T cell,22.558150275292686
+prj1,sbj1484,yes,monocyte,Monocyte,18.760500422653752
+prj1,sbj1484,yes,nk_cell,NK cell,13.475892672049307
+prj1,sbj1489,no,b_cell,B cell,15.959803958202622
+prj1,sbj1489,no,cd4_t_cell,CD4 T cell,29.656208610988784
+prj1,sbj1489,no,cd8_t_cell,CD8 T cell,20.54574152857151
+prj1,sbj1489,no,monocyte,Monocyte,17.80229382213137
+prj1,sbj1489,no,nk_cell,NK cell,16.035952080105712
+prj1,sbj1492,no,b_cell,B cell,10.60114423739912
+prj1,sbj1492,no,cd4_t_cell,CD4 T cell,31.639360993684704
+prj1,sbj1492,no,cd8_t_cell,CD8 T cell,23.14131456606684
+prj1,sbj1492,no,monocyte,Monocyte,19.683226695028917
+prj1,sbj1492,no,nk_cell,NK cell,14.934953507820417
+prj1,sbj1494,no,b_cell,B cell,11.79120683658696
+prj1,sbj1494,no,cd4_t_cell,CD4 T cell,29.24718815265351
+prj1,sbj1494,no,cd8_t_cell,CD8 T cell,26.02055307385858
+prj1,sbj1494,no,monocyte,Monocyte,18.200164167273527
+prj1,sbj1494,no,nk_cell,NK cell,14.740887769627419
+prj1,sbj154,yes,b_cell,B cell,8.157755606098984
+prj1,sbj154,yes,cd4_t_cell,CD4 T cell,34.55574559302074
+prj1,sbj154,yes,cd8_t_cell,CD8 T cell,25.953749264881733
+prj1,sbj154,yes,monocyte,Monocyte,16.739820009553902
+prj1,sbj154,yes,nk_cell,NK cell,14.592929526444644
+prj1,sbj156,no,b_cell,B cell,7.7881719837866585
+prj1,sbj156,no,cd4_t_cell,CD4 T cell,31.337587012908482
+prj1,sbj156,no,cd8_t_cell,CD8 T cell,26.315747973089852
+prj1,sbj156,no,monocyte,Monocyte,18.568821587907916
+prj1,sbj156,no,nk_cell,NK cell,15.989671442307094
+prj1,sbj162,no,b_cell,B cell,10.975979416369873
+prj1,sbj162,no,cd4_t_cell,CD4 T cell,29.037055603320642
+prj1,sbj162,no,cd8_t_cell,CD8 T cell,19.88869748608096
+prj1,sbj162,no,monocyte,Monocyte,22.83728186707926
+prj1,sbj162,no,nk_cell,NK cell,17.260985627149257
+prj1,sbj164,no,b_cell,B cell,8.211117027309212
+prj1,sbj164,no,cd4_t_cell,CD4 T cell,30.6647869970994
+prj1,sbj164,no,cd8_t_cell,CD8 T cell,26.17723397095396
+prj1,sbj164,no,monocyte,Monocyte,20.037966139411143
+prj1,sbj164,no,nk_cell,NK cell,14.908895865226276
+prj1,sbj170,no,b_cell,B cell,10.975781917893068
+prj1,sbj170,no,cd4_t_cell,CD4 T cell,28.443500888540182
+prj1,sbj170,no,cd8_t_cell,CD8 T cell,24.32436729692928
+prj1,sbj170,no,monocyte,Monocyte,23.76283897350595
+prj1,sbj170,no,nk_cell,NK cell,12.493510923131526
+prj1,sbj172,no,b_cell,B cell,11.140354149218451
+prj1,sbj172,no,cd4_t_cell,CD4 T cell,28.361933418318955
+prj1,sbj172,no,cd8_t_cell,CD8 T cell,27.771127630959473
+prj1,sbj172,no,monocyte,Monocyte,20.81396536309683
+prj1,sbj172,no,nk_cell,NK cell,11.912619438406287
+prj1,sbj179,yes,b_cell,B cell,9.2673073818698
+prj1,sbj179,yes,cd4_t_cell,CD4 T cell,28.844020013088212
+prj1,sbj179,yes,cd8_t_cell,CD8 T cell,26.227176827811878
+prj1,sbj179,yes,monocyte,Monocyte,20.547709499482973
+prj1,sbj179,yes,nk_cell,NK cell,15.113786277747138
+prj1,sbj180,no,b_cell,B cell,10.369734628740611
+prj1,sbj180,no,cd4_t_cell,CD4 T cell,28.92372112149612
+prj1,sbj180,no,cd8_t_cell,CD8 T cell,22.373903251399287
+prj1,sbj180,no,monocyte,Monocyte,24.207368339337098
+prj1,sbj180,no,nk_cell,NK cell,14.125272659026884
+prj1,sbj182,no,b_cell,B cell,7.923368752709885
+prj1,sbj182,no,cd4_t_cell,CD4 T cell,30.5813028514234
+prj1,sbj182,no,cd8_t_cell,CD8 T cell,24.94141595350879
+prj1,sbj182,no,monocyte,Monocyte,22.376190030020325
+prj1,sbj182,no,nk_cell,NK cell,14.1777224123376
+prj1,sbj185,yes,b_cell,B cell,11.439714516490513
+prj1,sbj185,yes,cd4_t_cell,CD4 T cell,25.700793087365685
+prj1,sbj185,yes,cd8_t_cell,CD8 T cell,24.859025259741543
+prj1,sbj185,yes,monocyte,Monocyte,20.76116706767068
+prj1,sbj185,yes,nk_cell,NK cell,17.239300068731584
+prj1,sbj187,no,b_cell,B cell,10.923885371945765
+prj1,sbj187,no,cd4_t_cell,CD4 T cell,28.42591667507854
+prj1,sbj187,no,cd8_t_cell,CD8 T cell,23.1895261734448
+prj1,sbj187,no,monocyte,Monocyte,21.216524355708497
+prj1,sbj187,no,nk_cell,NK cell,16.244147423822405
+prj1,sbj188,yes,b_cell,B cell,10.392313250421376
+prj1,sbj188,yes,cd4_t_cell,CD4 T cell,33.60308986253486
+prj1,sbj188,yes,cd8_t_cell,CD8 T cell,19.20622534389167
+prj1,sbj188,yes,monocyte,Monocyte,22.515829680779518
+prj1,sbj188,yes,nk_cell,NK cell,14.282541862372577
+prj1,sbj203,no,b_cell,B cell,10.649784900188989
+prj1,sbj203,no,cd4_t_cell,CD4 T cell,28.91835205273374
+prj1,sbj203,no,cd8_t_cell,CD8 T cell,26.47898679178381
+prj1,sbj203,no,monocyte,Monocyte,20.568438418254186
+prj1,sbj203,no,nk_cell,NK cell,13.384437837039272
+prj1,sbj216,no,b_cell,B cell,10.855766802348716
+prj1,sbj216,no,cd4_t_cell,CD4 T cell,30.0092646370682
+prj1,sbj216,no,cd8_t_cell,CD8 T cell,20.583426706749197
+prj1,sbj216,no,monocyte,Monocyte,20.652373951634416
+prj1,sbj216,no,nk_cell,NK cell,17.899167902199476
+prj1,sbj223,no,b_cell,B cell,6.166121809678974
+prj1,sbj223,no,cd4_t_cell,CD4 T cell,29.469784936848253
+prj1,sbj223,no,cd8_t_cell,CD8 T cell,26.86082780415173
+prj1,sbj223,no,monocyte,Monocyte,24.672696694245513
+prj1,sbj223,no,nk_cell,NK cell,12.830568755075532
+prj1,sbj226,yes,b_cell,B cell,9.899268270043285
+prj1,sbj226,yes,cd4_t_cell,CD4 T cell,33.84211852151326
+prj1,sbj226,yes,cd8_t_cell,CD8 T cell,20.35237590942549
+prj1,sbj226,yes,monocyte,Monocyte,19.824884016657858
+prj1,sbj226,yes,nk_cell,NK cell,16.081353282360112
+prj1,sbj232,yes,b_cell,B cell,8.956822120827582
+prj1,sbj232,yes,cd4_t_cell,CD4 T cell,27.43112376905499
+prj1,sbj232,yes,cd8_t_cell,CD8 T cell,33.15579403375975
+prj1,sbj232,yes,monocyte,Monocyte,18.274241431538147
+prj1,sbj232,yes,nk_cell,NK cell,12.182018644819529
+prj1,sbj235,no,b_cell,B cell,15.336470761574105
+prj1,sbj235,no,cd4_t_cell,CD4 T cell,27.811362260501753
+prj1,sbj235,no,cd8_t_cell,CD8 T cell,19.945589136621866
+prj1,sbj235,no,monocyte,Monocyte,22.232231755257498
+prj1,sbj235,no,nk_cell,NK cell,14.674346086044771
+prj1,sbj238,no,b_cell,B cell,10.323085039077712
+prj1,sbj238,no,cd4_t_cell,CD4 T cell,30.24375505230971
+prj1,sbj238,no,cd8_t_cell,CD8 T cell,25.313908774000954
+prj1,sbj238,no,monocyte,Monocyte,19.251559937516113
+prj1,sbj238,no,nk_cell,NK cell,14.867691197095516
+prj1,sbj244,no,b_cell,B cell,8.144171004950293
+prj1,sbj244,no,cd4_t_cell,CD4 T cell,29.734467730791753
+prj1,sbj244,no,cd8_t_cell,CD8 T cell,26.949279118939604
+prj1,sbj244,no,monocyte,Monocyte,20.712800967712003
+prj1,sbj244,no,nk_cell,NK cell,14.459281177606345
+prj1,sbj245,yes,b_cell,B cell,11.88391878821784
+prj1,sbj245,yes,cd4_t_cell,CD4 T cell,23.522916098984286
+prj1,sbj245,yes,cd8_t_cell,CD8 T cell,26.64072174207226
+prj1,sbj245,yes,monocyte,Monocyte,23.17367794063617
+prj1,sbj245,yes,nk_cell,NK cell,14.778765430089441
+prj1,sbj248,yes,b_cell,B cell,9.176703573679605
+prj1,sbj248,yes,cd4_t_cell,CD4 T cell,30.016097036301502
+prj1,sbj248,yes,cd8_t_cell,CD8 T cell,22.993236434043613
+prj1,sbj248,yes,monocyte,Monocyte,22.13791463123768
+prj1,sbj248,yes,nk_cell,NK cell,15.676048324737595
+prj1,sbj251,no,b_cell,B cell,11.456114086357411
+prj1,sbj251,no,cd4_t_cell,CD4 T cell,30.542049943366212
+prj1,sbj251,no,cd8_t_cell,CD8 T cell,27.556973296746833
+prj1,sbj251,no,monocyte,Monocyte,17.122843391788713
+prj1,sbj251,no,nk_cell,NK cell,13.322019281740827
+prj1,sbj254,yes,b_cell,B cell,7.608754155454917
+prj1,sbj254,yes,cd4_t_cell,CD4 T cell,33.35542876494051
+prj1,sbj254,yes,cd8_t_cell,CD8 T cell,29.39342464953258
+prj1,sbj254,yes,monocyte,Monocyte,18.050873101599006
+prj1,sbj254,yes,nk_cell,NK cell,11.591519328472979
+prj1,sbj262,no,b_cell,B cell,11.068571624880422
+prj1,sbj262,no,cd4_t_cell,CD4 T cell,24.33340555041254
+prj1,sbj262,no,cd8_t_cell,CD8 T cell,24.619528414810684
+prj1,sbj262,no,monocyte,Monocyte,21.353226006644594
+prj1,sbj262,no,nk_cell,NK cell,18.62526840325176
+prj1,sbj263,no,b_cell,B cell,9.619081434784997
+prj1,sbj263,no,cd4_t_cell,CD4 T cell,31.555281489985457
+prj1,sbj263,no,cd8_t_cell,CD8 T cell,23.44565229753187
+prj1,sbj263,no,monocyte,Monocyte,22.431571645299396
+prj1,sbj263,no,nk_cell,NK cell,12.948413132398281
+prj1,sbj273,no,b_cell,B cell,11.217989793107918
+prj1,sbj273,no,cd4_t_cell,CD4 T cell,30.467248337532983
+prj1,sbj273,no,cd8_t_cell,CD8 T cell,23.493610291317594
+prj1,sbj273,no,monocyte,Monocyte,19.041527517265184
+prj1,sbj273,no,nk_cell,NK cell,15.77962406077632
+prj1,sbj278,no,b_cell,B cell,13.506095708565768
+prj1,sbj278,no,cd4_t_cell,CD4 T cell,27.201295340162748
+prj1,sbj278,no,cd8_t_cell,CD8 T cell,29.419939841314207
+prj1,sbj278,no,monocyte,Monocyte,17.950868315213345
+prj1,sbj278,no,nk_cell,NK cell,11.921800794743925
+prj1,sbj280,yes,b_cell,B cell,14.147079096276565
+prj1,sbj280,yes,cd4_t_cell,CD4 T cell,28.560910858580915
+prj1,sbj280,yes,cd8_t_cell,CD8 T cell,25.65184011405286
+prj1,sbj280,yes,monocyte,Monocyte,22.106786299711292
+prj1,sbj280,yes,nk_cell,NK cell,9.533383631378365
+prj1,sbj285,no,b_cell,B cell,8.957158563151244
+prj1,sbj285,no,cd4_t_cell,CD4 T cell,29.714341646915802
+prj1,sbj285,no,cd8_t_cell,CD8 T cell,25.239734802097043
+prj1,sbj285,no,monocyte,Monocyte,23.402454357122313
+prj1,sbj285,no,nk_cell,NK cell,12.686310630713601
+prj1,sbj288,no,b_cell,B cell,8.736669495716699
+prj1,sbj288,no,cd4_t_cell,CD4 T cell,32.05294733903891
+prj1,sbj288,no,cd8_t_cell,CD8 T cell,23.218350368570082
+prj1,sbj288,no,monocyte,Monocyte,19.46291395227037
+prj1,sbj288,no,nk_cell,NK cell,16.529118844403943
+prj1,sbj296,yes,b_cell,B cell,13.032247867982408
+prj1,sbj296,yes,cd4_t_cell,CD4 T cell,24.56537819241409
+prj1,sbj296,yes,cd8_t_cell,CD8 T cell,24.280740950579467
+prj1,sbj296,yes,monocyte,Monocyte,20.389570917229523
+prj1,sbj296,yes,nk_cell,NK cell,17.732062071794505
+prj1,sbj304,no,b_cell,B cell,9.578056271109435
+prj1,sbj304,no,cd4_t_cell,CD4 T cell,24.82328072300963
+prj1,sbj304,no,cd8_t_cell,CD8 T cell,23.568463559869613
+prj1,sbj304,no,monocyte,Monocyte,20.702975159255487
+prj1,sbj304,no,nk_cell,NK cell,21.327224286755833
+prj1,sbj310,no,b_cell,B cell,13.886743473216233
+prj1,sbj310,no,cd4_t_cell,CD4 T cell,21.102338861492168
+prj1,sbj310,no,cd8_t_cell,CD8 T cell,26.537934716527314
+prj1,sbj310,no,monocyte,Monocyte,20.210802416977824
+prj1,sbj310,no,nk_cell,NK cell,18.262180531786466
+prj1,sbj312,no,b_cell,B cell,12.13163659063541
+prj1,sbj312,no,cd4_t_cell,CD4 T cell,30.817806367336647
+prj1,sbj312,no,cd8_t_cell,CD8 T cell,23.41692120334065
+prj1,sbj312,no,monocyte,Monocyte,20.921457265253967
+prj1,sbj312,no,nk_cell,NK cell,12.712178573433325
+prj1,sbj313,yes,b_cell,B cell,7.014114395639891
+prj1,sbj313,yes,cd4_t_cell,CD4 T cell,26.786985754445453
+prj1,sbj313,yes,cd8_t_cell,CD8 T cell,25.195157580949388
+prj1,sbj313,yes,monocyte,Monocyte,24.936274600612887
+prj1,sbj313,yes,nk_cell,NK cell,16.06746766835238
+prj1,sbj318,yes,b_cell,B cell,8.118715792753841
+prj1,sbj318,yes,cd4_t_cell,CD4 T cell,29.245277266597412
+prj1,sbj318,yes,cd8_t_cell,CD8 T cell,25.690668326896184
+prj1,sbj318,yes,monocyte,Monocyte,20.672034664862554
+prj1,sbj318,yes,nk_cell,NK cell,16.273303948890003
+prj1,sbj322,yes,b_cell,B cell,9.68806207541889
+prj1,sbj322,yes,cd4_t_cell,CD4 T cell,27.910389997690988
+prj1,sbj322,yes,cd8_t_cell,CD8 T cell,24.03850048775685
+prj1,sbj322,yes,monocyte,Monocyte,23.597067126636116
+prj1,sbj322,yes,nk_cell,NK cell,14.765980312497161
+prj1,sbj326,no,b_cell,B cell,11.790621764509476
+prj1,sbj326,no,cd4_t_cell,CD4 T cell,33.53137685781435
+prj1,sbj326,no,cd8_t_cell,CD8 T cell,19.812153348158766
+prj1,sbj326,no,monocyte,Monocyte,19.48372311941729
+prj1,sbj326,no,nk_cell,NK cell,15.382124910100115
+prj1,sbj327,yes,b_cell,B cell,10.578542685024388
+prj1,sbj327,yes,cd4_t_cell,CD4 T cell,34.94241802834461
+prj1,sbj327,yes,cd8_t_cell,CD8 T cell,22.205505166983773
+prj1,sbj327,yes,monocyte,Monocyte,18.07301236130107
+prj1,sbj327,yes,nk_cell,NK cell,14.200521758346156
+prj1,sbj330,yes,b_cell,B cell,8.063518476585093
+prj1,sbj330,yes,cd4_t_cell,CD4 T cell,32.423720003371756
+prj1,sbj330,yes,cd8_t_cell,CD8 T cell,26.35051217087488
+prj1,sbj330,yes,monocyte,Monocyte,18.794245082548418
+prj1,sbj330,yes,nk_cell,NK cell,14.368004266619861
+prj1,sbj333,yes,b_cell,B cell,11.038399225434292
+prj1,sbj333,yes,cd4_t_cell,CD4 T cell,32.780827074920005
+prj1,sbj333,yes,cd8_t_cell,CD8 T cell,23.590094349958154
+prj1,sbj333,yes,monocyte,Monocyte,19.509543605455423
+prj1,sbj333,yes,nk_cell,NK cell,13.08113574423212
+prj1,sbj339,yes,b_cell,B cell,11.546687492489442
+prj1,sbj339,yes,cd4_t_cell,CD4 T cell,34.842626248432346
+prj1,sbj339,yes,cd8_t_cell,CD8 T cell,23.62988263725934
+prj1,sbj339,yes,monocyte,Monocyte,16.66111508919383
+prj1,sbj339,yes,nk_cell,NK cell,13.319688532625042
+prj1,sbj347,no,b_cell,B cell,8.72065639116653
+prj1,sbj347,no,cd4_t_cell,CD4 T cell,30.254527794444385
+prj1,sbj347,no,cd8_t_cell,CD8 T cell,22.932557386159885
+prj1,sbj347,no,monocyte,Monocyte,23.192504906091912
+prj1,sbj347,no,nk_cell,NK cell,14.89975352213729
+prj1,sbj354,yes,b_cell,B cell,7.293107451643532
+prj1,sbj354,yes,cd4_t_cell,CD4 T cell,35.43645348392818
+prj1,sbj354,yes,cd8_t_cell,CD8 T cell,23.027125599357912
+prj1,sbj354,yes,monocyte,Monocyte,20.00722212740158
+prj1,sbj354,yes,nk_cell,NK cell,14.236091337668787
+prj1,sbj358,yes,b_cell,B cell,9.671393040785683
+prj1,sbj358,yes,cd4_t_cell,CD4 T cell,30.581050988809192
+prj1,sbj358,yes,cd8_t_cell,CD8 T cell,25.82595597155746
+prj1,sbj358,yes,monocyte,Monocyte,17.444207295409665
+prj1,sbj358,yes,nk_cell,NK cell,16.477392703438
+prj1,sbj361,no,b_cell,B cell,8.655827305378532
+prj1,sbj361,no,cd4_t_cell,CD4 T cell,35.55411885961305
+prj1,sbj361,no,cd8_t_cell,CD8 T cell,24.62032631784834
+prj1,sbj361,no,monocyte,Monocyte,16.7853333812139
+prj1,sbj361,no,nk_cell,NK cell,14.384394135946186
+prj1,sbj362,yes,b_cell,B cell,10.707411061166654
+prj1,sbj362,yes,cd4_t_cell,CD4 T cell,33.14806681580121
+prj1,sbj362,yes,cd8_t_cell,CD8 T cell,25.821697967760485
+prj1,sbj362,yes,monocyte,Monocyte,16.981394691738423
+prj1,sbj362,yes,nk_cell,NK cell,13.341429463533219
+prj1,sbj363,yes,b_cell,B cell,7.995242004494223
+prj1,sbj363,yes,cd4_t_cell,CD4 T cell,29.018403005244334
+prj1,sbj363,yes,cd8_t_cell,CD8 T cell,27.40037803836024
+prj1,sbj363,yes,monocyte,Monocyte,17.20294729553292
+prj1,sbj363,yes,nk_cell,NK cell,18.383029656368286
+prj1,sbj364,no,b_cell,B cell,10.187956390973403
+prj1,sbj364,no,cd4_t_cell,CD4 T cell,26.232117627137825
+prj1,sbj364,no,cd8_t_cell,CD8 T cell,27.99231419962021
+prj1,sbj364,no,monocyte,Monocyte,23.696430397507203
+prj1,sbj364,no,nk_cell,NK cell,11.891181384761353
+prj1,sbj373,no,b_cell,B cell,12.329533684122374
+prj1,sbj373,no,cd4_t_cell,CD4 T cell,24.970451357611918
+prj1,sbj373,no,cd8_t_cell,CD8 T cell,26.089344540031735
+prj1,sbj373,no,monocyte,Monocyte,23.792178961180465
+prj1,sbj373,no,nk_cell,NK cell,12.81849145705351
+prj1,sbj375,yes,b_cell,B cell,8.458487702913843
+prj1,sbj375,yes,cd4_t_cell,CD4 T cell,31.042636441095713
+prj1,sbj375,yes,cd8_t_cell,CD8 T cell,21.069254493778296
+prj1,sbj375,yes,monocyte,Monocyte,21.5593091470494
+prj1,sbj375,yes,nk_cell,NK cell,17.870312215162752
+prj1,sbj380,yes,b_cell,B cell,6.853926940537714
+prj1,sbj380,yes,cd4_t_cell,CD4 T cell,35.629144719390744
+prj1,sbj380,yes,cd8_t_cell,CD8 T cell,21.582902910087398
+prj1,sbj380,yes,monocyte,Monocyte,20.585841079140682
+prj1,sbj380,yes,nk_cell,NK cell,15.348184350843468
+prj1,sbj382,no,b_cell,B cell,10.859150496066535
+prj1,sbj382,no,cd4_t_cell,CD4 T cell,28.840394975846966
+prj1,sbj382,no,cd8_t_cell,CD8 T cell,25.22875515835493
+prj1,sbj382,no,monocyte,Monocyte,20.940860165484903
+prj1,sbj382,no,nk_cell,NK cell,14.130839204246662
+prj1,sbj385,yes,b_cell,B cell,8.889001199606732
+prj1,sbj385,yes,cd4_t_cell,CD4 T cell,28.337861873889
+prj1,sbj385,yes,cd8_t_cell,CD8 T cell,26.616427943318087
+prj1,sbj385,yes,monocyte,Monocyte,21.00967244842916
+prj1,sbj385,yes,nk_cell,NK cell,15.14703653475702
+prj1,sbj387,no,b_cell,B cell,11.07175486006931
+prj1,sbj387,no,cd4_t_cell,CD4 T cell,32.43290442321456
+prj1,sbj387,no,cd8_t_cell,CD8 T cell,22.486671302812457
+prj1,sbj387,no,monocyte,Monocyte,20.040942653877295
+prj1,sbj387,no,nk_cell,NK cell,13.967726760026371
+prj1,sbj388,no,b_cell,B cell,8.088891723921048
+prj1,sbj388,no,cd4_t_cell,CD4 T cell,28.505934710045633
+prj1,sbj388,no,cd8_t_cell,CD8 T cell,25.325199123114302
+prj1,sbj388,no,monocyte,Monocyte,21.18453421097787
+prj1,sbj388,no,nk_cell,NK cell,16.895440231941155
+prj1,sbj389,no,b_cell,B cell,10.55833676606397
+prj1,sbj389,no,cd4_t_cell,CD4 T cell,28.66823958363472
+prj1,sbj389,no,cd8_t_cell,CD8 T cell,23.061111646884722
+prj1,sbj389,no,monocyte,Monocyte,22.037115419587575
+prj1,sbj389,no,nk_cell,NK cell,15.675196583829015
+prj1,sbj391,yes,b_cell,B cell,8.067610131704713
+prj1,sbj391,yes,cd4_t_cell,CD4 T cell,27.626020758306947
+prj1,sbj391,yes,cd8_t_cell,CD8 T cell,23.18177053703221
+prj1,sbj391,yes,monocyte,Monocyte,23.976510462035648
+prj1,sbj391,yes,nk_cell,NK cell,17.148088110920483
+prj1,sbj394,no,b_cell,B cell,8.708957547487783
+prj1,sbj394,no,cd4_t_cell,CD4 T cell,29.00419839066053
+prj1,sbj394,no,cd8_t_cell,CD8 T cell,22.53488116729554
+prj1,sbj394,no,monocyte,Monocyte,22.203024830811945
+prj1,sbj394,no,nk_cell,NK cell,17.5489380637442
+prj1,sbj400,no,b_cell,B cell,9.033722604434127
+prj1,sbj400,no,cd4_t_cell,CD4 T cell,30.318153660529457
+prj1,sbj400,no,cd8_t_cell,CD8 T cell,25.859171654966584
+prj1,sbj400,no,monocyte,Monocyte,20.856310087776134
+prj1,sbj400,no,nk_cell,NK cell,13.932641992293702
+prj1,sbj402,no,b_cell,B cell,8.243564311139183
+prj1,sbj402,no,cd4_t_cell,CD4 T cell,30.332780873054435
+prj1,sbj402,no,cd8_t_cell,CD8 T cell,23.93833239012986
+prj1,sbj402,no,monocyte,Monocyte,24.606823762173303
+prj1,sbj402,no,nk_cell,NK cell,12.878498663503215
+prj1,sbj406,no,b_cell,B cell,8.351962446233575
+prj1,sbj406,no,cd4_t_cell,CD4 T cell,35.36227027049227
+prj1,sbj406,no,cd8_t_cell,CD8 T cell,21.963967939322966
+prj1,sbj406,no,monocyte,Monocyte,21.481324322804088
+prj1,sbj406,no,nk_cell,NK cell,12.840475021147105
+prj1,sbj412,yes,b_cell,B cell,8.121034000341512
+prj1,sbj412,yes,cd4_t_cell,CD4 T cell,24.898345288517987
+prj1,sbj412,yes,cd8_t_cell,CD8 T cell,28.57326184317049
+prj1,sbj412,yes,monocyte,Monocyte,25.018858048660537
+prj1,sbj412,yes,nk_cell,NK cell,13.38850081930947
+prj1,sbj414,no,b_cell,B cell,7.563594453549244
+prj1,sbj414,no,cd4_t_cell,CD4 T cell,30.640989514110824
+prj1,sbj414,no,cd8_t_cell,CD8 T cell,27.038959478297357
+prj1,sbj414,no,monocyte,Monocyte,20.895451299591667
+prj1,sbj414,no,nk_cell,NK cell,13.86100525445091
+prj1,sbj418,yes,b_cell,B cell,10.58160184532508
+prj1,sbj418,yes,cd4_t_cell,CD4 T cell,33.64160855759952
+prj1,sbj418,yes,cd8_t_cell,CD8 T cell,19.596805074725918
+prj1,sbj418,yes,monocyte,Monocyte,17.726480719860124
+prj1,sbj418,yes,nk_cell,NK cell,18.453503802489358
+prj1,sbj420,yes,b_cell,B cell,6.529759691316674
+prj1,sbj420,yes,cd4_t_cell,CD4 T cell,32.11614127058002
+prj1,sbj420,yes,cd8_t_cell,CD8 T cell,19.13505171783145
+prj1,sbj420,yes,monocyte,Monocyte,22.580835040705935
+prj1,sbj420,yes,nk_cell,NK cell,19.638212279565916
+prj1,sbj422,yes,b_cell,B cell,8.773544325703122
+prj1,sbj422,yes,cd4_t_cell,CD4 T cell,26.071133137130662
+prj1,sbj422,yes,cd8_t_cell,CD8 T cell,27.444043013251015
+prj1,sbj422,yes,monocyte,Monocyte,25.0894916969409
+prj1,sbj422,yes,nk_cell,NK cell,12.621787826974298
+prj1,sbj424,yes,b_cell,B cell,13.270061310018216
+prj1,sbj424,yes,cd4_t_cell,CD4 T cell,33.02191716187843
+prj1,sbj424,yes,cd8_t_cell,CD8 T cell,21.495362197564784
+prj1,sbj424,yes,monocyte,Monocyte,20.12687220250174
+prj1,sbj424,yes,nk_cell,NK cell,12.085787128036841
+prj1,sbj425,no,b_cell,B cell,14.58265223126047
+prj1,sbj425,no,cd4_t_cell,CD4 T cell,26.253860151296294
+prj1,sbj425,no,cd8_t_cell,CD8 T cell,29.48848859036438
+prj1,sbj425,no,monocyte,Monocyte,16.295899664036863
+prj1,sbj425,no,nk_cell,NK cell,13.379099363041997
+prj1,sbj427,yes,b_cell,B cell,10.168076388473697
+prj1,sbj427,yes,cd4_t_cell,CD4 T cell,29.35864287046643
+prj1,sbj427,yes,cd8_t_cell,CD8 T cell,27.402834577490932
+prj1,sbj427,yes,monocyte,Monocyte,19.201150123511507
+prj1,sbj427,yes,nk_cell,NK cell,13.869296040057437
+prj1,sbj433,no,b_cell,B cell,13.939456252277216
+prj1,sbj433,no,cd4_t_cell,CD4 T cell,34.909424243614694
+prj1,sbj433,no,cd8_t_cell,CD8 T cell,20.052085338606055
+prj1,sbj433,no,monocyte,Monocyte,15.92804936659435
+prj1,sbj433,no,nk_cell,NK cell,15.170984798907687
+prj1,sbj436,yes,b_cell,B cell,11.299185996976854
+prj1,sbj436,yes,cd4_t_cell,CD4 T cell,28.852996286211976
+prj1,sbj436,yes,cd8_t_cell,CD8 T cell,24.534917190613204
+prj1,sbj436,yes,monocyte,Monocyte,19.19431199405567
+prj1,sbj436,yes,nk_cell,NK cell,16.118588532142297
+prj1,sbj437,no,b_cell,B cell,8.092266566834374
+prj1,sbj437,no,cd4_t_cell,CD4 T cell,36.41108539056242
+prj1,sbj437,no,cd8_t_cell,CD8 T cell,19.775562064782857
+prj1,sbj437,no,monocyte,Monocyte,22.753297697577334
+prj1,sbj437,no,nk_cell,NK cell,12.967788280243019
+prj1,sbj441,yes,b_cell,B cell,12.045219318828288
+prj1,sbj441,yes,cd4_t_cell,CD4 T cell,34.740835227485526
+prj1,sbj441,yes,cd8_t_cell,CD8 T cell,22.070722189957056
+prj1,sbj441,yes,monocyte,Monocyte,17.245460264332134
+prj1,sbj441,yes,nk_cell,NK cell,13.897762999396997
+prj1,sbj443,no,b_cell,B cell,8.524457666131172
+prj1,sbj443,no,cd4_t_cell,CD4 T cell,31.080224120169493
+prj1,sbj443,no,cd8_t_cell,CD8 T cell,24.499981159419292
+prj1,sbj443,no,monocyte,Monocyte,22.554690436605018
+prj1,sbj443,no,nk_cell,NK cell,13.340646617675022
+prj1,sbj446,yes,b_cell,B cell,12.566285462197692
+prj1,sbj446,yes,cd4_t_cell,CD4 T cell,34.2555548268245
+prj1,sbj446,yes,cd8_t_cell,CD8 T cell,24.708487961503568
+prj1,sbj446,yes,monocyte,Monocyte,16.43453438459881
+prj1,sbj446,yes,nk_cell,NK cell,12.035137364875434
+prj1,sbj449,yes,b_cell,B cell,12.180380590161889
+prj1,sbj449,yes,cd4_t_cell,CD4 T cell,29.50529359095697
+prj1,sbj449,yes,cd8_t_cell,CD8 T cell,21.43185772938732
+prj1,sbj449,yes,monocyte,Monocyte,19.723660844594168
+prj1,sbj449,yes,nk_cell,NK cell,17.15880724489965
+prj1,sbj452,yes,b_cell,B cell,6.131120136013711
+prj1,sbj452,yes,cd4_t_cell,CD4 T cell,33.56626916203902
+prj1,sbj452,yes,cd8_t_cell,CD8 T cell,23.59117971432427
+prj1,sbj452,yes,monocyte,Monocyte,21.80640751038358
+prj1,sbj452,yes,nk_cell,NK cell,14.905023477239423
+prj1,sbj458,yes,b_cell,B cell,8.990360386651714
+prj1,sbj458,yes,cd4_t_cell,CD4 T cell,26.294791226894272
+prj1,sbj458,yes,cd8_t_cell,CD8 T cell,31.013082248600245
+prj1,sbj458,yes,monocyte,Monocyte,19.008218294861148
+prj1,sbj458,yes,nk_cell,NK cell,14.69354784299262
+prj1,sbj462,no,b_cell,B cell,10.134667452359311
+prj1,sbj462,no,cd4_t_cell,CD4 T cell,24.214218538824653
+prj1,sbj462,no,cd8_t_cell,CD8 T cell,27.329279830477855
+prj1,sbj462,no,monocyte,Monocyte,21.820284274511966
+prj1,sbj462,no,nk_cell,NK cell,16.501549903826213
+prj1,sbj463,no,b_cell,B cell,10.435245555686011
+prj1,sbj463,no,cd4_t_cell,CD4 T cell,25.915895405792583
+prj1,sbj463,no,cd8_t_cell,CD8 T cell,31.43560933957177
+prj1,sbj463,no,monocyte,Monocyte,18.48832801072545
+prj1,sbj463,no,nk_cell,NK cell,13.724921688224185
+prj1,sbj467,no,b_cell,B cell,11.504606085223289
+prj1,sbj467,no,cd4_t_cell,CD4 T cell,30.57302281375296
+prj1,sbj467,no,cd8_t_cell,CD8 T cell,24.12269909889802
+prj1,sbj467,no,monocyte,Monocyte,18.749516807664506
+prj1,sbj467,no,nk_cell,NK cell,15.05015519446122
+prj1,sbj470,yes,b_cell,B cell,7.6327018344470074
+prj1,sbj470,yes,cd4_t_cell,CD4 T cell,31.39181150075139
+prj1,sbj470,yes,cd8_t_cell,CD8 T cell,26.543823480290623
+prj1,sbj470,yes,monocyte,Monocyte,18.652343995198596
+prj1,sbj470,yes,nk_cell,NK cell,15.779319189312384
+prj1,sbj472,yes,b_cell,B cell,10.54720411400591
+prj1,sbj472,yes,cd4_t_cell,CD4 T cell,33.57464366639478
+prj1,sbj472,yes,cd8_t_cell,CD8 T cell,24.121862930789614
+prj1,sbj472,yes,monocyte,Monocyte,17.167428613299023
+prj1,sbj472,yes,nk_cell,NK cell,14.588860675510674
+prj1,sbj475,yes,b_cell,B cell,7.491473870017349
+prj1,sbj475,yes,cd4_t_cell,CD4 T cell,32.44760760517362
+prj1,sbj475,yes,cd8_t_cell,CD8 T cell,27.86815973510677
+prj1,sbj475,yes,monocyte,Monocyte,16.9119305885993
+prj1,sbj475,yes,nk_cell,NK cell,15.280828201102958
+prj1,sbj476,yes,b_cell,B cell,8.938795630206213
+prj1,sbj476,yes,cd4_t_cell,CD4 T cell,32.33448018833598
+prj1,sbj476,yes,cd8_t_cell,CD8 T cell,25.546859982038445
+prj1,sbj476,yes,monocyte,Monocyte,20.53076588525481
+prj1,sbj476,yes,nk_cell,NK cell,12.649098314164547
+prj1,sbj487,no,b_cell,B cell,10.493642133966757
+prj1,sbj487,no,cd4_t_cell,CD4 T cell,30.56566970313874
+prj1,sbj487,no,cd8_t_cell,CD8 T cell,23.743637870335192
+prj1,sbj487,no,monocyte,Monocyte,18.402740669172108
+prj1,sbj487,no,nk_cell,NK cell,16.794309623387203
+prj1,sbj490,no,b_cell,B cell,7.791829467602958
+prj1,sbj490,no,cd4_t_cell,CD4 T cell,31.365540456223354
+prj1,sbj490,no,cd8_t_cell,CD8 T cell,26.032580355873677
+prj1,sbj490,no,monocyte,Monocyte,20.392136054526777
+prj1,sbj490,no,nk_cell,NK cell,14.417913665773233
+prj1,sbj492,yes,b_cell,B cell,10.845761200199602
+prj1,sbj492,yes,cd4_t_cell,CD4 T cell,33.09821968635273
+prj1,sbj492,yes,cd8_t_cell,CD8 T cell,21.20660652080859
+prj1,sbj492,yes,monocyte,Monocyte,17.787807867726425
+prj1,sbj492,yes,nk_cell,NK cell,17.06160472491266
+prj1,sbj497,yes,b_cell,B cell,10.838673227988673
+prj1,sbj497,yes,cd4_t_cell,CD4 T cell,33.428399465867265
+prj1,sbj497,yes,cd8_t_cell,CD8 T cell,22.993248106186993
+prj1,sbj497,yes,monocyte,Monocyte,21.853047260753982
+prj1,sbj497,yes,nk_cell,NK cell,10.88663193920309
+prj1,sbj499,yes,b_cell,B cell,11.050826546733122
+prj1,sbj499,yes,cd4_t_cell,CD4 T cell,27.32440121725004
+prj1,sbj499,yes,cd8_t_cell,CD8 T cell,25.97054611476368
+prj1,sbj499,yes,monocyte,Monocyte,22.04054640980068
+prj1,sbj499,yes,nk_cell,NK cell,13.613679711452484
+prj1,sbj500,yes,b_cell,B cell,9.00006105898901
+prj1,sbj500,yes,cd4_t_cell,CD4 T cell,34.81815124923964
+prj1,sbj500,yes,cd8_t_cell,CD8 T cell,22.914911287353736
+prj1,sbj500,yes,monocyte,Monocyte,19.064467709758066
+prj1,sbj500,yes,nk_cell,NK cell,14.202408694659548
+prj1,sbj502,no,b_cell,B cell,9.651348295282887
+prj1,sbj502,no,cd4_t_cell,CD4 T cell,30.60598200034026
+prj1,sbj502,no,cd8_t_cell,CD8 T cell,25.21862987732924
+prj1,sbj502,no,monocyte,Monocyte,20.32504214249363
+prj1,sbj502,no,nk_cell,NK cell,14.198997684553987
+prj1,sbj507,yes,b_cell,B cell,9.146809597348128
+prj1,sbj507,yes,cd4_t_cell,CD4 T cell,27.99684404195725
+prj1,sbj507,yes,cd8_t_cell,CD8 T cell,26.324829235191213
+prj1,sbj507,yes,monocyte,Monocyte,20.901550235587695
+prj1,sbj507,yes,nk_cell,NK cell,15.629966889915714
+prj1,sbj508,yes,b_cell,B cell,8.134950617013848
+prj1,sbj508,yes,cd4_t_cell,CD4 T cell,32.3028881628264
+prj1,sbj508,yes,cd8_t_cell,CD8 T cell,27.09403987633964
+prj1,sbj508,yes,monocyte,Monocyte,19.677254445980054
+prj1,sbj508,yes,nk_cell,NK cell,12.790866897840056
+prj1,sbj510,no,b_cell,B cell,10.357963866283333
+prj1,sbj510,no,cd4_t_cell,CD4 T cell,28.447403886918494
+prj1,sbj510,no,cd8_t_cell,CD8 T cell,33.05091158329321
+prj1,sbj510,no,monocyte,Monocyte,17.46016897522362
+prj1,sbj510,no,nk_cell,NK cell,10.683551688281346
+prj1,sbj513,yes,b_cell,B cell,8.642811822006708
+prj1,sbj513,yes,cd4_t_cell,CD4 T cell,34.51939190520937
+prj1,sbj513,yes,cd8_t_cell,CD8 T cell,22.766693474753648
+prj1,sbj513,yes,monocyte,Monocyte,22.34639783574293
+prj1,sbj513,yes,nk_cell,NK cell,11.724704962287353
+prj1,sbj517,no,b_cell,B cell,13.16213596942554
+prj1,sbj517,no,cd4_t_cell,CD4 T cell,27.299688078510005
+prj1,sbj517,no,cd8_t_cell,CD8 T cell,25.487913632794758
+prj1,sbj517,no,monocyte,Monocyte,18.291658624003535
+prj1,sbj517,no,nk_cell,NK cell,15.758603695266162
+prj1,sbj522,yes,b_cell,B cell,7.355886732021287
+prj1,sbj522,yes,cd4_t_cell,CD4 T cell,34.601873698003054
+prj1,sbj522,yes,cd8_t_cell,CD8 T cell,24.916254758932098
+prj1,sbj522,yes,monocyte,Monocyte,17.123782582364104
+prj1,sbj522,yes,nk_cell,NK cell,16.00220222867946
+prj1,sbj531,yes,b_cell,B cell,10.294906168920049
+prj1,sbj531,yes,cd4_t_cell,CD4 T cell,31.23115591553298
+prj1,sbj531,yes,cd8_t_cell,CD8 T cell,26.65484735671916
+prj1,sbj531,yes,monocyte,Monocyte,18.260751162141755
+prj1,sbj531,yes,nk_cell,NK cell,13.558339396686058
+prj1,sbj532,no,b_cell,B cell,8.488010010050422
+prj1,sbj532,no,cd4_t_cell,CD4 T cell,30.717383649848404
+prj1,sbj532,no,cd8_t_cell,CD8 T cell,25.407640005091753
+prj1,sbj532,no,monocyte,Monocyte,20.304019981170566
+prj1,sbj532,no,nk_cell,NK cell,15.082946353838851
+prj1,sbj536,no,b_cell,B cell,9.324507364738801
+prj1,sbj536,no,cd4_t_cell,CD4 T cell,31.261929165330383
+prj1,sbj536,no,cd8_t_cell,CD8 T cell,26.332455134669303
+prj1,sbj536,no,monocyte,Monocyte,19.557484487838405
+prj1,sbj536,no,nk_cell,NK cell,13.523623847423115
+prj1,sbj540,yes,b_cell,B cell,8.79043980455396
+prj1,sbj540,yes,cd4_t_cell,CD4 T cell,28.5374012444538
+prj1,sbj540,yes,cd8_t_cell,CD8 T cell,30.428818701577054
+prj1,sbj540,yes,monocyte,Monocyte,22.461922838661668
+prj1,sbj540,yes,nk_cell,NK cell,9.781417410753518
+prj1,sbj544,no,b_cell,B cell,11.502291352167353
+prj1,sbj544,no,cd4_t_cell,CD4 T cell,24.391357102239265
+prj1,sbj544,no,cd8_t_cell,CD8 T cell,27.190264712367767
+prj1,sbj544,no,monocyte,Monocyte,19.77379034230616
+prj1,sbj544,no,nk_cell,NK cell,17.142296490919453
+prj1,sbj553,yes,b_cell,B cell,9.632655396987682
+prj1,sbj553,yes,cd4_t_cell,CD4 T cell,35.93304242498639
+prj1,sbj553,yes,cd8_t_cell,CD8 T cell,24.427115800601438
+prj1,sbj553,yes,monocyte,Monocyte,18.423818936225604
+prj1,sbj553,yes,nk_cell,NK cell,11.583367441198881
+prj1,sbj561,yes,b_cell,B cell,12.038638556210097
+prj1,sbj561,yes,cd4_t_cell,CD4 T cell,29.76111814769689
+prj1,sbj561,yes,cd8_t_cell,CD8 T cell,23.01895114518223
+prj1,sbj561,yes,monocyte,Monocyte,21.382738081258008
+prj1,sbj561,yes,nk_cell,NK cell,13.798554069652775
+prj1,sbj562,no,b_cell,B cell,10.506740890981753
+prj1,sbj562,no,cd4_t_cell,CD4 T cell,33.862074180429104
+prj1,sbj562,no,cd8_t_cell,CD8 T cell,24.56660663331512
+prj1,sbj562,no,monocyte,Monocyte,19.49474708564689
+prj1,sbj562,no,nk_cell,NK cell,11.569831209627134
+prj1,sbj565,yes,b_cell,B cell,9.53181499641781
+prj1,sbj565,yes,cd4_t_cell,CD4 T cell,27.3209658052603
+prj1,sbj565,yes,cd8_t_cell,CD8 T cell,24.397987411398365
+prj1,sbj565,yes,monocyte,Monocyte,23.788153741667134
+prj1,sbj565,yes,nk_cell,NK cell,14.961078045256395
+prj1,sbj566,no,b_cell,B cell,11.469576906927955
+prj1,sbj566,no,cd4_t_cell,CD4 T cell,26.805501583138767
+prj1,sbj566,no,cd8_t_cell,CD8 T cell,25.506136070796103
+prj1,sbj566,no,monocyte,Monocyte,21.969956497700952
+prj1,sbj566,no,nk_cell,NK cell,14.248828941436223
+prj1,sbj571,no,b_cell,B cell,9.677933627925603
+prj1,sbj571,no,cd4_t_cell,CD4 T cell,33.042632067517694
+prj1,sbj571,no,cd8_t_cell,CD8 T cell,22.704322093926695
+prj1,sbj571,no,monocyte,Monocyte,16.196616929126886
+prj1,sbj571,no,nk_cell,NK cell,18.378495281503128
+prj1,sbj582,yes,b_cell,B cell,7.585498894267327
+prj1,sbj582,yes,cd4_t_cell,CD4 T cell,30.056477495377028
+prj1,sbj582,yes,cd8_t_cell,CD8 T cell,26.17240887952923
+prj1,sbj582,yes,monocyte,Monocyte,23.78764819127876
+prj1,sbj582,yes,nk_cell,NK cell,12.397966539547651
+prj1,sbj584,no,b_cell,B cell,6.925612691542369
+prj1,sbj584,no,cd4_t_cell,CD4 T cell,33.164132306916706
+prj1,sbj584,no,cd8_t_cell,CD8 T cell,24.088053856964066
+prj1,sbj584,no,monocyte,Monocyte,19.26248443183917
+prj1,sbj584,no,nk_cell,NK cell,16.559716712737686
+prj1,sbj586,no,b_cell,B cell,9.695755851522675
+prj1,sbj586,no,cd4_t_cell,CD4 T cell,25.841743265532482
+prj1,sbj586,no,cd8_t_cell,CD8 T cell,28.62953400863471
+prj1,sbj586,no,monocyte,Monocyte,21.971465245136585
+prj1,sbj586,no,nk_cell,NK cell,13.861501629173553
+prj1,sbj588,yes,b_cell,B cell,11.529310443764432
+prj1,sbj588,yes,cd4_t_cell,CD4 T cell,31.418218285574238
+prj1,sbj588,yes,cd8_t_cell,CD8 T cell,20.939848191027433
+prj1,sbj588,yes,monocyte,Monocyte,19.185713042762597
+prj1,sbj588,yes,nk_cell,NK cell,16.926910036871302
+prj1,sbj589,yes,b_cell,B cell,11.491380592914432
+prj1,sbj589,yes,cd4_t_cell,CD4 T cell,28.21542548328848
+prj1,sbj589,yes,cd8_t_cell,CD8 T cell,31.37556140465908
+prj1,sbj589,yes,monocyte,Monocyte,16.999631112878266
+prj1,sbj589,yes,nk_cell,NK cell,11.918001406259739
+prj1,sbj591,yes,b_cell,B cell,8.771236321502533
+prj1,sbj591,yes,cd4_t_cell,CD4 T cell,30.448664928947426
+prj1,sbj591,yes,cd8_t_cell,CD8 T cell,22.22406530322355
+prj1,sbj591,yes,monocyte,Monocyte,22.86830351096341
+prj1,sbj591,yes,nk_cell,NK cell,15.687729935363075
+prj1,sbj595,yes,b_cell,B cell,12.123422954375869
+prj1,sbj595,yes,cd4_t_cell,CD4 T cell,27.578975745259356
+prj1,sbj595,yes,cd8_t_cell,CD8 T cell,23.58731297476997
+prj1,sbj595,yes,monocyte,Monocyte,18.71377025669965
+prj1,sbj595,yes,nk_cell,NK cell,17.996518068895156
+prj1,sbj599,yes,b_cell,B cell,9.908270255713203
+prj1,sbj599,yes,cd4_t_cell,CD4 T cell,30.723297750922086
+prj1,sbj599,yes,cd8_t_cell,CD8 T cell,28.11676866373836
+prj1,sbj599,yes,monocyte,Monocyte,17.092428364455994
+prj1,sbj599,yes,nk_cell,NK cell,14.159234965170358
+prj1,sbj601,yes,b_cell,B cell,8.851039337072088
+prj1,sbj601,yes,cd4_t_cell,CD4 T cell,27.63385790968304
+prj1,sbj601,yes,cd8_t_cell,CD8 T cell,21.676792388037185
+prj1,sbj601,yes,monocyte,Monocyte,24.308799614758385
+prj1,sbj601,yes,nk_cell,NK cell,17.5295107504493
+prj1,sbj606,no,b_cell,B cell,12.9144221161776
+prj1,sbj606,no,cd4_t_cell,CD4 T cell,29.860644002352718
+prj1,sbj606,no,cd8_t_cell,CD8 T cell,24.57511752607864
+prj1,sbj606,no,monocyte,Monocyte,19.0999693290146
+prj1,sbj606,no,nk_cell,NK cell,13.549847026376446
+prj1,sbj607,no,b_cell,B cell,5.623690835799636
+prj1,sbj607,no,cd4_t_cell,CD4 T cell,33.21294048047351
+prj1,sbj607,no,cd8_t_cell,CD8 T cell,22.2424722352489
+prj1,sbj607,no,monocyte,Monocyte,20.91744778756643
+prj1,sbj607,no,nk_cell,NK cell,18.00344866091152
+prj1,sbj611,no,b_cell,B cell,10.353114762848893
+prj1,sbj611,no,cd4_t_cell,CD4 T cell,36.32454732390958
+prj1,sbj611,no,cd8_t_cell,CD8 T cell,19.33892522039562
+prj1,sbj611,no,monocyte,Monocyte,19.523309715940332
+prj1,sbj611,no,nk_cell,NK cell,14.460102976905574
+prj1,sbj621,no,b_cell,B cell,8.460789400111027
+prj1,sbj621,no,cd4_t_cell,CD4 T cell,31.26938203151585
+prj1,sbj621,no,cd8_t_cell,CD8 T cell,27.873376412377567
+prj1,sbj621,no,monocyte,Monocyte,17.50900766781079
+prj1,sbj621,no,nk_cell,NK cell,14.887444488184768
+prj1,sbj625,yes,b_cell,B cell,9.220531507238459
+prj1,sbj625,yes,cd4_t_cell,CD4 T cell,25.991635241935427
+prj1,sbj625,yes,cd8_t_cell,CD8 T cell,25.345340742322048
+prj1,sbj625,yes,monocyte,Monocyte,20.347341889671046
+prj1,sbj625,yes,nk_cell,NK cell,19.09515061883302
+prj1,sbj627,yes,b_cell,B cell,11.152759089589773
+prj1,sbj627,yes,cd4_t_cell,CD4 T cell,30.960049280809102
+prj1,sbj627,yes,cd8_t_cell,CD8 T cell,22.71017439682672
+prj1,sbj627,yes,monocyte,Monocyte,18.699868665917265
+prj1,sbj627,yes,nk_cell,NK cell,16.47714856685714
+prj1,sbj628,no,b_cell,B cell,14.542346930870394
+prj1,sbj628,no,cd4_t_cell,CD4 T cell,28.958757455498684
+prj1,sbj628,no,cd8_t_cell,CD8 T cell,23.76654476870377
+prj1,sbj628,no,monocyte,Monocyte,19.642782484589617
+prj1,sbj628,no,nk_cell,NK cell,13.08956836033753
+prj1,sbj630,no,b_cell,B cell,10.836813587924281
+prj1,sbj630,no,cd4_t_cell,CD4 T cell,30.893945173056384
+prj1,sbj630,no,cd8_t_cell,CD8 T cell,20.72023827514113
+prj1,sbj630,no,monocyte,Monocyte,21.04984597255924
+prj1,sbj630,no,nk_cell,NK cell,16.49915699131896
+prj1,sbj634,no,b_cell,B cell,7.582885982064092
+prj1,sbj634,no,cd4_t_cell,CD4 T cell,37.05346719597437
+prj1,sbj634,no,cd8_t_cell,CD8 T cell,23.26606616595438
+prj1,sbj634,no,monocyte,Monocyte,16.512360419374215
+prj1,sbj634,no,nk_cell,NK cell,15.585220236632944
+prj1,sbj635,yes,b_cell,B cell,12.549995697775493
+prj1,sbj635,yes,cd4_t_cell,CD4 T cell,29.350560829430616
+prj1,sbj635,yes,cd8_t_cell,CD8 T cell,25.814692816311368
+prj1,sbj635,yes,monocyte,Monocyte,20.18129730287958
+prj1,sbj635,yes,nk_cell,NK cell,12.103453353602942
+prj1,sbj638,no,b_cell,B cell,10.155764836177068
+prj1,sbj638,no,cd4_t_cell,CD4 T cell,32.23475518433459
+prj1,sbj638,no,cd8_t_cell,CD8 T cell,23.734196712811535
+prj1,sbj638,no,monocyte,Monocyte,20.628600631284083
+prj1,sbj638,no,nk_cell,NK cell,13.246682635392725
+prj1,sbj640,no,b_cell,B cell,8.799286879550221
+prj1,sbj640,no,cd4_t_cell,CD4 T cell,33.44267350973156
+prj1,sbj640,no,cd8_t_cell,CD8 T cell,21.531611907166862
+prj1,sbj640,no,monocyte,Monocyte,20.382084565449404
+prj1,sbj640,no,nk_cell,NK cell,15.844343138101948
+prj1,sbj644,no,b_cell,B cell,6.019374401957151
+prj1,sbj644,no,cd4_t_cell,CD4 T cell,33.38971689273921
+prj1,sbj644,no,cd8_t_cell,CD8 T cell,26.509409099085048
+prj1,sbj644,no,monocyte,Monocyte,18.36215514319745
+prj1,sbj644,no,nk_cell,NK cell,15.71934446302114
+prj1,sbj651,yes,b_cell,B cell,11.942119571209657
+prj1,sbj651,yes,cd4_t_cell,CD4 T cell,26.116044681914996
+prj1,sbj651,yes,cd8_t_cell,CD8 T cell,24.542849416305007
+prj1,sbj651,yes,monocyte,Monocyte,23.935689219280494
+prj1,sbj651,yes,nk_cell,NK cell,13.463297111289847
+prj1,sbj655,yes,b_cell,B cell,8.746233419476608
+prj1,sbj655,yes,cd4_t_cell,CD4 T cell,33.11698058042103
+prj1,sbj655,yes,cd8_t_cell,CD8 T cell,27.675186459614405
+prj1,sbj655,yes,monocyte,Monocyte,16.323640185973144
+prj1,sbj655,yes,nk_cell,NK cell,14.13795935451481
+prj1,sbj658,no,b_cell,B cell,8.669459578449688
+prj1,sbj658,no,cd4_t_cell,CD4 T cell,25.848645386627254
+prj1,sbj658,no,cd8_t_cell,CD8 T cell,27.6195665877547
+prj1,sbj658,no,monocyte,Monocyte,23.28406148320022
+prj1,sbj658,no,nk_cell,NK cell,14.578266963968138
+prj1,sbj662,yes,b_cell,B cell,10.330415348138557
+prj1,sbj662,yes,cd4_t_cell,CD4 T cell,34.177634456576236
+prj1,sbj662,yes,cd8_t_cell,CD8 T cell,24.149510056119592
+prj1,sbj662,yes,monocyte,Monocyte,18.032156194223692
+prj1,sbj662,yes,nk_cell,NK cell,13.31028394494193
+prj1,sbj663,no,b_cell,B cell,12.927160774003745
+prj1,sbj663,no,cd4_t_cell,CD4 T cell,31.04295626415498
+prj1,sbj663,no,cd8_t_cell,CD8 T cell,25.608470553926946
+prj1,sbj663,no,monocyte,Monocyte,18.4357245252152
+prj1,sbj663,no,nk_cell,NK cell,11.985687882699127
+prj1,sbj664,yes,b_cell,B cell,11.831378216284243
+prj1,sbj664,yes,cd4_t_cell,CD4 T cell,29.305408602994635
+prj1,sbj664,yes,cd8_t_cell,CD8 T cell,24.21707888463905
+prj1,sbj664,yes,monocyte,Monocyte,20.911795750160568
+prj1,sbj664,yes,nk_cell,NK cell,13.734338545921503
+prj1,sbj677,yes,b_cell,B cell,12.342657497559324
+prj1,sbj677,yes,cd4_t_cell,CD4 T cell,29.767208720914
+prj1,sbj677,yes,cd8_t_cell,CD8 T cell,20.191905790565077
+prj1,sbj677,yes,monocyte,Monocyte,22.251140740066308
+prj1,sbj677,yes,nk_cell,NK cell,15.447087250895288
+prj1,sbj684,no,b_cell,B cell,9.879200200484206
+prj1,sbj684,no,cd4_t_cell,CD4 T cell,31.98491900600226
+prj1,sbj684,no,cd8_t_cell,CD8 T cell,23.00673225799829
+prj1,sbj684,no,monocyte,Monocyte,20.18851961314638
+prj1,sbj684,no,nk_cell,NK cell,14.940628922368866
+prj1,sbj692,yes,b_cell,B cell,10.087163251285146
+prj1,sbj692,yes,cd4_t_cell,CD4 T cell,31.582187352376963
+prj1,sbj692,yes,cd8_t_cell,CD8 T cell,21.52130646364321
+prj1,sbj692,yes,monocyte,Monocyte,25.006819575828512
+prj1,sbj692,yes,nk_cell,NK cell,11.802523356866173
+prj1,sbj693,no,b_cell,B cell,9.226571232951207
+prj1,sbj693,no,cd4_t_cell,CD4 T cell,29.21181880727133
+prj1,sbj693,no,cd8_t_cell,CD8 T cell,29.186237153608687
+prj1,sbj693,no,monocyte,Monocyte,17.323914785971848
+prj1,sbj693,no,nk_cell,NK cell,15.051458020196925
+prj1,sbj696,yes,b_cell,B cell,8.812989306886193
+prj1,sbj696,yes,cd4_t_cell,CD4 T cell,24.60477865799373
+prj1,sbj696,yes,cd8_t_cell,CD8 T cell,29.10599337890039
+prj1,sbj696,yes,monocyte,Monocyte,20.965480856998553
+prj1,sbj696,yes,nk_cell,NK cell,16.510757799221135
+prj1,sbj697,yes,b_cell,B cell,11.63265419120736
+prj1,sbj697,yes,cd4_t_cell,CD4 T cell,31.845475904860905
+prj1,sbj697,yes,cd8_t_cell,CD8 T cell,23.410806832189035
+prj1,sbj697,yes,monocyte,Monocyte,18.581312207931898
+prj1,sbj697,yes,nk_cell,NK cell,14.529750863810802
+prj1,sbj705,no,b_cell,B cell,9.704676683442708
+prj1,sbj705,no,cd4_t_cell,CD4 T cell,33.63980922537185
+prj1,sbj705,no,cd8_t_cell,CD8 T cell,22.149189961273432
+prj1,sbj705,no,monocyte,Monocyte,20.604422291664083
+prj1,sbj705,no,nk_cell,NK cell,13.901901838247928
+prj1,sbj707,yes,b_cell,B cell,10.725189037089942
+prj1,sbj707,yes,cd4_t_cell,CD4 T cell,30.372194908851828
+prj1,sbj707,yes,cd8_t_cell,CD8 T cell,22.37878622960198
+prj1,sbj707,yes,monocyte,Monocyte,20.46207652198503
+prj1,sbj707,yes,nk_cell,NK cell,16.06175330247122
+prj1,sbj708,yes,b_cell,B cell,9.826315868164265
+prj1,sbj708,yes,cd4_t_cell,CD4 T cell,33.94011617001291
+prj1,sbj708,yes,cd8_t_cell,CD8 T cell,22.016781740113803
+prj1,sbj708,yes,monocyte,Monocyte,18.8381985527012
+prj1,sbj708,yes,nk_cell,NK cell,15.378587669007826
+prj1,sbj711,no,b_cell,B cell,9.516172460263519
+prj1,sbj711,no,cd4_t_cell,CD4 T cell,28.065244487852667
+prj1,sbj711,no,cd8_t_cell,CD8 T cell,23.84627063713234
+prj1,sbj711,no,monocyte,Monocyte,23.38911480093209
+prj1,sbj711,no,nk_cell,NK cell,15.183197613819388
+prj1,sbj722,no,b_cell,B cell,13.172367861908848
+prj1,sbj722,no,cd4_t_cell,CD4 T cell,30.43575346312345
+prj1,sbj722,no,cd8_t_cell,CD8 T cell,25.271559945121595
+prj1,sbj722,no,monocyte,Monocyte,18.10041728837999
+prj1,sbj722,no,nk_cell,NK cell,13.019901441466113
+prj1,sbj727,no,b_cell,B cell,7.899595965559436
+prj1,sbj727,no,cd4_t_cell,CD4 T cell,25.32430992526444
+prj1,sbj727,no,cd8_t_cell,CD8 T cell,26.231453887915162
+prj1,sbj727,no,monocyte,Monocyte,23.905507229632875
+prj1,sbj727,no,nk_cell,NK cell,16.639132991628085
+prj1,sbj728,no,b_cell,B cell,7.809728858023359
+prj1,sbj728,no,cd4_t_cell,CD4 T cell,29.348203222526138
+prj1,sbj728,no,cd8_t_cell,CD8 T cell,28.552364376410026
+prj1,sbj728,no,monocyte,Monocyte,16.47368842351255
+prj1,sbj728,no,nk_cell,NK cell,17.81601511952793
+prj1,sbj733,no,b_cell,B cell,8.774803754298695
+prj1,sbj733,no,cd4_t_cell,CD4 T cell,29.085166600534787
+prj1,sbj733,no,cd8_t_cell,CD8 T cell,28.48294452903735
+prj1,sbj733,no,monocyte,Monocyte,20.694950988611925
+prj1,sbj733,no,nk_cell,NK cell,12.962134127517244
+prj1,sbj739,no,b_cell,B cell,9.645956888379473
+prj1,sbj739,no,cd4_t_cell,CD4 T cell,32.046743091553225
+prj1,sbj739,no,cd8_t_cell,CD8 T cell,24.11493293565536
+prj1,sbj739,no,monocyte,Monocyte,19.508718864959103
+prj1,sbj739,no,nk_cell,NK cell,14.683648219452834
+prj1,sbj740,no,b_cell,B cell,9.986467576953903
+prj1,sbj740,no,cd4_t_cell,CD4 T cell,28.124176524386566
+prj1,sbj740,no,cd8_t_cell,CD8 T cell,28.400561530738617
+prj1,sbj740,no,monocyte,Monocyte,18.907645926390938
+prj1,sbj740,no,nk_cell,NK cell,14.581148441529976
+prj1,sbj746,no,b_cell,B cell,8.1553263965742
+prj1,sbj746,no,cd4_t_cell,CD4 T cell,31.469504801104964
+prj1,sbj746,no,cd8_t_cell,CD8 T cell,25.49741378693315
+prj1,sbj746,no,monocyte,Monocyte,20.58751360040809
+prj1,sbj746,no,nk_cell,NK cell,14.29024141497959
+prj1,sbj749,yes,b_cell,B cell,12.113724079965023
+prj1,sbj749,yes,cd4_t_cell,CD4 T cell,29.606980353757184
+prj1,sbj749,yes,cd8_t_cell,CD8 T cell,24.109347804679206
+prj1,sbj749,yes,monocyte,Monocyte,21.88698649657789
+prj1,sbj749,yes,nk_cell,NK cell,12.282961265020694
+prj1,sbj755,yes,b_cell,B cell,9.80863020494404
+prj1,sbj755,yes,cd4_t_cell,CD4 T cell,29.230814186891312
+prj1,sbj755,yes,cd8_t_cell,CD8 T cell,27.039928535191006
+prj1,sbj755,yes,monocyte,Monocyte,16.882677581009872
+prj1,sbj755,yes,nk_cell,NK cell,17.03794949196377
+prj1,sbj756,no,b_cell,B cell,8.921533832591956
+prj1,sbj756,no,cd4_t_cell,CD4 T cell,35.17705246886844
+prj1,sbj756,no,cd8_t_cell,CD8 T cell,26.332717889966375
+prj1,sbj756,no,monocyte,Monocyte,16.78553788198968
+prj1,sbj756,no,nk_cell,NK cell,12.783157926583547
+prj1,sbj758,no,b_cell,B cell,10.651159754314405
+prj1,sbj758,no,cd4_t_cell,CD4 T cell,29.29056525307223
+prj1,sbj758,no,cd8_t_cell,CD8 T cell,22.56448447505424
+prj1,sbj758,no,monocyte,Monocyte,17.994854644935604
+prj1,sbj758,no,nk_cell,NK cell,19.498935872623516
+prj1,sbj763,yes,b_cell,B cell,11.276322824909377
+prj1,sbj763,yes,cd4_t_cell,CD4 T cell,24.581224273361737
+prj1,sbj763,yes,cd8_t_cell,CD8 T cell,27.131839849133012
+prj1,sbj763,yes,monocyte,Monocyte,23.695129003758627
+prj1,sbj763,yes,nk_cell,NK cell,13.31548404883724
+prj1,sbj768,yes,b_cell,B cell,8.985967568116807
+prj1,sbj768,yes,cd4_t_cell,CD4 T cell,29.317880181718866
+prj1,sbj768,yes,cd8_t_cell,CD8 T cell,25.666209853749013
+prj1,sbj768,yes,monocyte,Monocyte,20.52540189983568
+prj1,sbj768,yes,nk_cell,NK cell,15.504540496579631
+prj1,sbj772,no,b_cell,B cell,12.318020996818293
+prj1,sbj772,no,cd4_t_cell,CD4 T cell,26.506873789428823
+prj1,sbj772,no,cd8_t_cell,CD8 T cell,23.563129409010667
+prj1,sbj772,no,monocyte,Monocyte,21.423067624280637
+prj1,sbj772,no,nk_cell,NK cell,16.188908180461574
+prj1,sbj773,yes,b_cell,B cell,6.529539235996409
+prj1,sbj773,yes,cd4_t_cell,CD4 T cell,27.976168213905435
+prj1,sbj773,yes,cd8_t_cell,CD8 T cell,20.96822684028885
+prj1,sbj773,yes,monocyte,Monocyte,26.09435301081166
+prj1,sbj773,yes,nk_cell,NK cell,18.431712698997654
+prj1,sbj782,yes,b_cell,B cell,11.151523159139558
+prj1,sbj782,yes,cd4_t_cell,CD4 T cell,30.384771748512367
+prj1,sbj782,yes,cd8_t_cell,CD8 T cell,26.40969015917942
+prj1,sbj782,yes,monocyte,Monocyte,18.95660006044542
+prj1,sbj782,yes,nk_cell,NK cell,13.097414872723236
+prj1,sbj784,yes,b_cell,B cell,7.500235277449687
+prj1,sbj784,yes,cd4_t_cell,CD4 T cell,24.63808417360836
+prj1,sbj784,yes,cd8_t_cell,CD8 T cell,25.24923886327515
+prj1,sbj784,yes,monocyte,Monocyte,20.930771953431574
+prj1,sbj784,yes,nk_cell,NK cell,21.681669732235235
+prj1,sbj787,yes,b_cell,B cell,10.248420893237698
+prj1,sbj787,yes,cd4_t_cell,CD4 T cell,31.83658815839601
+prj1,sbj787,yes,cd8_t_cell,CD8 T cell,29.591909118858158
+prj1,sbj787,yes,monocyte,Monocyte,17.253713070812754
+prj1,sbj787,yes,nk_cell,NK cell,11.069368758695376
+prj1,sbj795,yes,b_cell,B cell,13.027788977378094
+prj1,sbj795,yes,cd4_t_cell,CD4 T cell,29.374321630323447
+prj1,sbj795,yes,cd8_t_cell,CD8 T cell,25.40878050203963
+prj1,sbj795,yes,monocyte,Monocyte,18.640742588029255
+prj1,sbj795,yes,nk_cell,NK cell,13.548366302229576
+prj1,sbj797,no,b_cell,B cell,10.34927883931868
+prj1,sbj797,no,cd4_t_cell,CD4 T cell,32.655321171784074
+prj1,sbj797,no,cd8_t_cell,CD8 T cell,23.184377991261567
+prj1,sbj797,no,monocyte,Monocyte,19.683219284631885
+prj1,sbj797,no,nk_cell,NK cell,14.1278027130038
+prj1,sbj812,yes,b_cell,B cell,13.349400464383706
+prj1,sbj812,yes,cd4_t_cell,CD4 T cell,32.81303817022778
+prj1,sbj812,yes,cd8_t_cell,CD8 T cell,22.562954383931494
+prj1,sbj812,yes,monocyte,Monocyte,16.093839795537658
+prj1,sbj812,yes,nk_cell,NK cell,15.180767185919365
+prj1,sbj813,no,b_cell,B cell,9.181595089438593
+prj1,sbj813,no,cd4_t_cell,CD4 T cell,30.270572606082837
+prj1,sbj813,no,cd8_t_cell,CD8 T cell,22.40122498597007
+prj1,sbj813,no,monocyte,Monocyte,21.73886735502133
+prj1,sbj813,no,nk_cell,NK cell,16.407739963487174
+prj1,sbj814,yes,b_cell,B cell,8.578441093615687
+prj1,sbj814,yes,cd4_t_cell,CD4 T cell,25.28210550617239
+prj1,sbj814,yes,cd8_t_cell,CD8 T cell,28.017263701624284
+prj1,sbj814,yes,monocyte,Monocyte,23.686011347337537
+prj1,sbj814,yes,nk_cell,NK cell,14.436178351250106
+prj1,sbj817,yes,b_cell,B cell,11.454239061253801
+prj1,sbj817,yes,cd4_t_cell,CD4 T cell,30.336533634036385
+prj1,sbj817,yes,cd8_t_cell,CD8 T cell,23.975759085222872
+prj1,sbj817,yes,monocyte,Monocyte,20.268332123974183
+prj1,sbj817,yes,nk_cell,NK cell,13.96513609551276
+prj1,sbj821,yes,b_cell,B cell,8.580993971347896
+prj1,sbj821,yes,cd4_t_cell,CD4 T cell,29.455022404496415
+prj1,sbj821,yes,cd8_t_cell,CD8 T cell,23.608488126180543
+prj1,sbj821,yes,monocyte,Monocyte,23.190737670843294
+prj1,sbj821,yes,nk_cell,NK cell,15.16475782713185
+prj1,sbj824,no,b_cell,B cell,8.86298497083253
+prj1,sbj824,no,cd4_t_cell,CD4 T cell,35.17832647525605
+prj1,sbj824,no,cd8_t_cell,CD8 T cell,17.076859294814493
+prj1,sbj824,no,monocyte,Monocyte,21.68512138581274
+prj1,sbj824,no,nk_cell,NK cell,17.196707873284197
+prj1,sbj827,yes,b_cell,B cell,8.930637340497936
+prj1,sbj827,yes,cd4_t_cell,CD4 T cell,30.680015918467642
+prj1,sbj827,yes,cd8_t_cell,CD8 T cell,26.294442152537332
+prj1,sbj827,yes,monocyte,Monocyte,17.57127139995245
+prj1,sbj827,yes,nk_cell,NK cell,16.523633188544636
+prj1,sbj838,yes,b_cell,B cell,10.845809949921957
+prj1,sbj838,yes,cd4_t_cell,CD4 T cell,25.821739263636843
+prj1,sbj838,yes,cd8_t_cell,CD8 T cell,31.52641853032838
+prj1,sbj838,yes,monocyte,Monocyte,15.559041585124339
+prj1,sbj838,yes,nk_cell,NK cell,16.246990670988485
+prj1,sbj845,yes,b_cell,B cell,10.977466798600792
+prj1,sbj845,yes,cd4_t_cell,CD4 T cell,27.16727221344371
+prj1,sbj845,yes,cd8_t_cell,CD8 T cell,28.669542649525557
+prj1,sbj845,yes,monocyte,Monocyte,17.827127765109083
+prj1,sbj845,yes,nk_cell,NK cell,15.35859057332086
+prj1,sbj849,yes,b_cell,B cell,7.456900961509483
+prj1,sbj849,yes,cd4_t_cell,CD4 T cell,30.160381903007785
+prj1,sbj849,yes,cd8_t_cell,CD8 T cell,27.61004450934748
+prj1,sbj849,yes,monocyte,Monocyte,20.587633581264637
+prj1,sbj849,yes,nk_cell,NK cell,14.185039044870619
+prj1,sbj854,no,b_cell,B cell,11.365760936810709
+prj1,sbj854,no,cd4_t_cell,CD4 T cell,32.59712370270805
+prj1,sbj854,no,cd8_t_cell,CD8 T cell,20.22440958815643
+prj1,sbj854,no,monocyte,Monocyte,20.30293987580088
+prj1,sbj854,no,nk_cell,NK cell,15.509765896523925
+prj1,sbj856,yes,b_cell,B cell,11.894177644414562
+prj1,sbj856,yes,cd4_t_cell,CD4 T cell,31.038800706198625
+prj1,sbj856,yes,cd8_t_cell,CD8 T cell,26.76815955737406
+prj1,sbj856,yes,monocyte,Monocyte,18.68979125908231
+prj1,sbj856,yes,nk_cell,NK cell,11.609070832930449
+prj1,sbj858,no,b_cell,B cell,11.726756339987764
+prj1,sbj858,no,cd4_t_cell,CD4 T cell,27.08570203356554
+prj1,sbj858,no,cd8_t_cell,CD8 T cell,25.78262108485585
+prj1,sbj858,no,monocyte,Monocyte,17.608060214728454
+prj1,sbj858,no,nk_cell,NK cell,17.796860326862387
+prj1,sbj865,no,b_cell,B cell,12.475470019609704
+prj1,sbj865,no,cd4_t_cell,CD4 T cell,28.698460010094095
+prj1,sbj865,no,cd8_t_cell,CD8 T cell,23.17113849453627
+prj1,sbj865,no,monocyte,Monocyte,21.939516976885617
+prj1,sbj865,no,nk_cell,NK cell,13.715414498874319
+prj1,sbj876,yes,b_cell,B cell,10.630244655477311
+prj1,sbj876,yes,cd4_t_cell,CD4 T cell,29.57336438174093
+prj1,sbj876,yes,cd8_t_cell,CD8 T cell,25.89661132861289
+prj1,sbj876,yes,monocyte,Monocyte,20.070168932941826
+prj1,sbj876,yes,nk_cell,NK cell,13.829610701227047
+prj1,sbj878,no,b_cell,B cell,14.103480326520263
+prj1,sbj878,no,cd4_t_cell,CD4 T cell,29.059750021316678
+prj1,sbj878,no,cd8_t_cell,CD8 T cell,24.362366296812763
+prj1,sbj878,no,monocyte,Monocyte,20.31993788015802
+prj1,sbj878,no,nk_cell,NK cell,12.154465475192284
+prj1,sbj881,no,b_cell,B cell,11.28046383598558
+prj1,sbj881,no,cd4_t_cell,CD4 T cell,27.713960263051018
+prj1,sbj881,no,cd8_t_cell,CD8 T cell,23.561316318989597
+prj1,sbj881,no,monocyte,Monocyte,19.09962254691293
+prj1,sbj881,no,nk_cell,NK cell,18.344637035060877
+prj1,sbj885,yes,b_cell,B cell,12.36903393014895
+prj1,sbj885,yes,cd4_t_cell,CD4 T cell,28.098247190416036
+prj1,sbj885,yes,cd8_t_cell,CD8 T cell,26.95611583971953
+prj1,sbj885,yes,monocyte,Monocyte,18.543380955368814
+prj1,sbj885,yes,nk_cell,NK cell,14.033222084346669
+prj1,sbj890,yes,b_cell,B cell,10.108603946637597
+prj1,sbj890,yes,cd4_t_cell,CD4 T cell,29.722252368668947
+prj1,sbj890,yes,cd8_t_cell,CD8 T cell,27.420451538297467
+prj1,sbj890,yes,monocyte,Monocyte,19.201999389901488
+prj1,sbj890,yes,nk_cell,NK cell,13.5466927564945
+prj1,sbj891,yes,b_cell,B cell,10.332996330499384
+prj1,sbj891,yes,cd4_t_cell,CD4 T cell,31.015519478669727
+prj1,sbj891,yes,cd8_t_cell,CD8 T cell,21.783066242788582
+prj1,sbj891,yes,monocyte,Monocyte,25.845617588383785
+prj1,sbj891,yes,nk_cell,NK cell,11.022800359658524
+prj1,sbj894,no,b_cell,B cell,11.079571735165253
+prj1,sbj894,no,cd4_t_cell,CD4 T cell,31.693087054218342
+prj1,sbj894,no,cd8_t_cell,CD8 T cell,23.62304512966972
+prj1,sbj894,no,monocyte,Monocyte,19.06169705812456
+prj1,sbj894,no,nk_cell,NK cell,14.542599022822131
+prj1,sbj896,yes,b_cell,B cell,8.134971499290456
+prj1,sbj896,yes,cd4_t_cell,CD4 T cell,29.17498556611461
+prj1,sbj896,yes,cd8_t_cell,CD8 T cell,25.849735869323723
+prj1,sbj896,yes,monocyte,Monocyte,23.033805957226164
+prj1,sbj896,yes,nk_cell,NK cell,13.806501108045047
+prj1,sbj897,no,b_cell,B cell,11.235868924460108
+prj1,sbj897,no,cd4_t_cell,CD4 T cell,29.355908701600345
+prj1,sbj897,no,cd8_t_cell,CD8 T cell,25.826488703560898
+prj1,sbj897,no,monocyte,Monocyte,16.819895745333824
+prj1,sbj897,no,nk_cell,NK cell,16.76183792504482
+prj1,sbj900,no,b_cell,B cell,8.346622970712135
+prj1,sbj900,no,cd4_t_cell,CD4 T cell,34.605167845579125
+prj1,sbj900,no,cd8_t_cell,CD8 T cell,26.049704972923745
+prj1,sbj900,no,monocyte,Monocyte,18.084857156790186
+prj1,sbj900,no,nk_cell,NK cell,12.913647053994817
+prj1,sbj901,yes,b_cell,B cell,9.652069334072893
+prj1,sbj901,yes,cd4_t_cell,CD4 T cell,27.162771309327486
+prj1,sbj901,yes,cd8_t_cell,CD8 T cell,25.31503614100295
+prj1,sbj901,yes,monocyte,Monocyte,19.573410588233116
+prj1,sbj901,yes,nk_cell,NK cell,18.29671262736355
+prj1,sbj902,no,b_cell,B cell,10.881007993824666
+prj1,sbj902,no,cd4_t_cell,CD4 T cell,27.92572340956814
+prj1,sbj902,no,cd8_t_cell,CD8 T cell,25.611161261528007
+prj1,sbj902,no,monocyte,Monocyte,20.000041361940593
+prj1,sbj902,no,nk_cell,NK cell,15.582065973138592
+prj1,sbj903,no,b_cell,B cell,10.424433982103572
+prj1,sbj903,no,cd4_t_cell,CD4 T cell,23.973830602080202
+prj1,sbj903,no,cd8_t_cell,CD8 T cell,28.091786030578188
+prj1,sbj903,no,monocyte,Monocyte,21.418409133230483
+prj1,sbj903,no,nk_cell,NK cell,16.091540252007555
+prj1,sbj908,yes,b_cell,B cell,9.19821561748381
+prj1,sbj908,yes,cd4_t_cell,CD4 T cell,27.970657257275906
+prj1,sbj908,yes,cd8_t_cell,CD8 T cell,28.648586723966897
+prj1,sbj908,yes,monocyte,Monocyte,19.567748288462255
+prj1,sbj908,yes,nk_cell,NK cell,14.614792112811132
+prj1,sbj922,yes,b_cell,B cell,13.484559223021693
+prj1,sbj922,yes,cd4_t_cell,CD4 T cell,25.57706187294842
+prj1,sbj922,yes,cd8_t_cell,CD8 T cell,23.93532853115791
+prj1,sbj922,yes,monocyte,Monocyte,22.021513471132423
+prj1,sbj922,yes,nk_cell,NK cell,14.981536901739553
+prj1,sbj926,no,b_cell,B cell,11.14415980651824
+prj1,sbj926,no,cd4_t_cell,CD4 T cell,30.007816555309002
+prj1,sbj926,no,cd8_t_cell,CD8 T cell,24.056291617693535
+prj1,sbj926,no,monocyte,Monocyte,20.910318168579185
+prj1,sbj926,no,nk_cell,NK cell,13.881413851900035
+prj1,sbj928,yes,b_cell,B cell,8.737601496257458
+prj1,sbj928,yes,cd4_t_cell,CD4 T cell,22.85369937703872
+prj1,sbj928,yes,cd8_t_cell,CD8 T cell,30.777218718881528
+prj1,sbj928,yes,monocyte,Monocyte,22.223362199195922
+prj1,sbj928,yes,nk_cell,NK cell,15.408118208626378
+prj1,sbj931,yes,b_cell,B cell,9.324756233799155
+prj1,sbj931,yes,cd4_t_cell,CD4 T cell,25.62492187289136
+prj1,sbj931,yes,cd8_t_cell,CD8 T cell,23.943033730960398
+prj1,sbj931,yes,monocyte,Monocyte,24.327651215199595
+prj1,sbj931,yes,nk_cell,NK cell,16.779636947149484
+prj1,sbj932,yes,b_cell,B cell,11.770982099991064
+prj1,sbj932,yes,cd4_t_cell,CD4 T cell,29.964688707068067
+prj1,sbj932,yes,cd8_t_cell,CD8 T cell,20.969479738058446
+prj1,sbj932,yes,monocyte,Monocyte,19.6880647216037
+prj1,sbj932,yes,nk_cell,NK cell,17.606784733278726
+prj1,sbj934,yes,b_cell,B cell,7.6411668003824245
+prj1,sbj934,yes,cd4_t_cell,CD4 T cell,36.86639885531268
+prj1,sbj934,yes,cd8_t_cell,CD8 T cell,23.622032945444612
+prj1,sbj934,yes,monocyte,Monocyte,17.93401978237369
+prj1,sbj934,yes,nk_cell,NK cell,13.936381616486598
+prj1,sbj936,no,b_cell,B cell,12.047195364653803
+prj1,sbj936,no,cd4_t_cell,CD4 T cell,26.198806930333436
+prj1,sbj936,no,cd8_t_cell,CD8 T cell,23.695596857234108
+prj1,sbj936,no,monocyte,Monocyte,20.170013678966196
+prj1,sbj936,no,nk_cell,NK cell,17.888387168812454
+prj1,sbj946,no,b_cell,B cell,10.70728340316838
+prj1,sbj946,no,cd4_t_cell,CD4 T cell,26.694541714439623
+prj1,sbj946,no,cd8_t_cell,CD8 T cell,27.177525617138674
+prj1,sbj946,no,monocyte,Monocyte,19.668776979393183
+prj1,sbj946,no,nk_cell,NK cell,15.75187228586014
+prj1,sbj949,yes,b_cell,B cell,13.755329972379863
+prj1,sbj949,yes,cd4_t_cell,CD4 T cell,30.49911921028205
+prj1,sbj949,yes,cd8_t_cell,CD8 T cell,21.11820238340889
+prj1,sbj949,yes,monocyte,Monocyte,21.37584123368869
+prj1,sbj949,yes,nk_cell,NK cell,13.251507200240503
+prj1,sbj956,yes,b_cell,B cell,10.963200310341007
+prj1,sbj956,yes,cd4_t_cell,CD4 T cell,28.632769851672567
+prj1,sbj956,yes,cd8_t_cell,CD8 T cell,25.57182117606365
+prj1,sbj956,yes,monocyte,Monocyte,24.82162287283897
+prj1,sbj956,yes,nk_cell,NK cell,10.010585789083807
+prj1,sbj959,yes,b_cell,B cell,11.80929178624005
+prj1,sbj959,yes,cd4_t_cell,CD4 T cell,28.96211246865003
+prj1,sbj959,yes,cd8_t_cell,CD8 T cell,22.3974516067623
+prj1,sbj959,yes,monocyte,Monocyte,23.53385153324399
+prj1,sbj959,yes,nk_cell,NK cell,13.297292605103634
+prj1,sbj973,no,b_cell,B cell,10.015823111457038
+prj1,sbj973,no,cd4_t_cell,CD4 T cell,29.044968800613958
+prj1,sbj973,no,cd8_t_cell,CD8 T cell,25.032065838070178
+prj1,sbj973,no,monocyte,Monocyte,18.40300927057884
+prj1,sbj973,no,nk_cell,NK cell,17.504132979279984
+prj1,sbj976,no,b_cell,B cell,9.52768281971631
+prj1,sbj976,no,cd4_t_cell,CD4 T cell,30.737116871206783
+prj1,sbj976,no,cd8_t_cell,CD8 T cell,26.929723457561064
+prj1,sbj976,no,monocyte,Monocyte,20.400373351487787
+prj1,sbj976,no,nk_cell,NK cell,12.40510350002806
+prj1,sbj978,yes,b_cell,B cell,5.431401938216545
+prj1,sbj978,yes,cd4_t_cell,CD4 T cell,32.96919690691261
+prj1,sbj978,yes,cd8_t_cell,CD8 T cell,25.138182218216667
+prj1,sbj978,yes,monocyte,Monocyte,22.574514930709643
+prj1,sbj978,yes,nk_cell,NK cell,13.886704005944532
+prj1,sbj983,no,b_cell,B cell,10.48571394553071
+prj1,sbj983,no,cd4_t_cell,CD4 T cell,30.87149091958089
+prj1,sbj983,no,cd8_t_cell,CD8 T cell,23.137593996175
+prj1,sbj983,no,monocyte,Monocyte,19.269097076015058
+prj1,sbj983,no,nk_cell,NK cell,16.236104062698345
+prj1,sbj987,yes,b_cell,B cell,11.009750316104169
+prj1,sbj987,yes,cd4_t_cell,CD4 T cell,28.574033793432832
+prj1,sbj987,yes,cd8_t_cell,CD8 T cell,23.80005644537816
+prj1,sbj987,yes,monocyte,Monocyte,22.285284105911312
+prj1,sbj987,yes,nk_cell,NK cell,14.330875339173529
+prj1,sbj997,yes,b_cell,B cell,12.478965964052302
+prj1,sbj997,yes,cd4_t_cell,CD4 T cell,30.210947927353697
+prj1,sbj997,yes,cd8_t_cell,CD8 T cell,25.363483729292636
+prj1,sbj997,yes,monocyte,Monocyte,16.984110514107112
+prj1,sbj997,yes,nk_cell,NK cell,14.962491865194252
+prj3,sbj2501,no,b_cell,B cell,7.493206718370094
+prj3,sbj2501,no,cd4_t_cell,CD4 T cell,34.76514415990464
+prj3,sbj2501,no,cd8_t_cell,CD8 T cell,22.002521913185557
+prj3,sbj2501,no,monocyte,Monocyte,17.910537033020994
+prj3,sbj2501,no,nk_cell,NK cell,17.828590175518716
+prj3,sbj2502,yes,b_cell,B cell,12.692358304620859
+prj3,sbj2502,yes,cd4_t_cell,CD4 T cell,28.964301433852242
+prj3,sbj2502,yes,cd8_t_cell,CD8 T cell,25.884513672389144
+prj3,sbj2502,yes,monocyte,Monocyte,19.042436701922117
+prj3,sbj2502,yes,nk_cell,NK cell,13.416389887215642
+prj3,sbj2505,no,b_cell,B cell,8.860848128894977
+prj3,sbj2505,no,cd4_t_cell,CD4 T cell,25.601990007867467
+prj3,sbj2505,no,cd8_t_cell,CD8 T cell,28.12159998835504
+prj3,sbj2505,no,monocyte,Monocyte,19.632531772453405
+prj3,sbj2505,no,nk_cell,NK cell,17.783030102429112
+prj3,sbj2509,yes,b_cell,B cell,9.526247540108173
+prj3,sbj2509,yes,cd4_t_cell,CD4 T cell,32.708286415047155
+prj3,sbj2509,yes,cd8_t_cell,CD8 T cell,26.24714850424589
+prj3,sbj2509,yes,monocyte,Monocyte,15.737126267093748
+prj3,sbj2509,yes,nk_cell,NK cell,15.781191273505032
+prj3,sbj2514,no,b_cell,B cell,8.41014899158498
+prj3,sbj2514,no,cd4_t_cell,CD4 T cell,30.49653401651838
+prj3,sbj2514,no,cd8_t_cell,CD8 T cell,22.72555235061236
+prj3,sbj2514,no,monocyte,Monocyte,24.290763951879143
+prj3,sbj2514,no,nk_cell,NK cell,14.077000689405134
+prj3,sbj2517,yes,b_cell,B cell,8.786249487945971
+prj3,sbj2517,yes,cd4_t_cell,CD4 T cell,29.25523528980952
+prj3,sbj2517,yes,cd8_t_cell,CD8 T cell,24.494577892706005
+prj3,sbj2517,yes,monocyte,Monocyte,21.11141096769178
+prj3,sbj2517,yes,nk_cell,NK cell,16.352526361846724
+prj3,sbj2520,yes,b_cell,B cell,9.801901946325208
+prj3,sbj2520,yes,cd4_t_cell,CD4 T cell,27.247080613402076
+prj3,sbj2520,yes,cd8_t_cell,CD8 T cell,32.497127798417374
+prj3,sbj2520,yes,monocyte,Monocyte,14.336426099540725
+prj3,sbj2520,yes,nk_cell,NK cell,16.11746354231462
+prj3,sbj2525,yes,b_cell,B cell,8.664529140502916
+prj3,sbj2525,yes,cd4_t_cell,CD4 T cell,28.20676640673248
+prj3,sbj2525,yes,cd8_t_cell,CD8 T cell,23.397840402698524
+prj3,sbj2525,yes,monocyte,Monocyte,19.483745289135232
+prj3,sbj2525,yes,nk_cell,NK cell,20.24711876093085
+prj3,sbj2529,yes,b_cell,B cell,7.284395676380078
+prj3,sbj2529,yes,cd4_t_cell,CD4 T cell,32.08243310712698
+prj3,sbj2529,yes,cd8_t_cell,CD8 T cell,26.686569070682566
+prj3,sbj2529,yes,monocyte,Monocyte,20.801521439936142
+prj3,sbj2529,yes,nk_cell,NK cell,13.145080705874228
+prj3,sbj2531,yes,b_cell,B cell,12.579736867551722
+prj3,sbj2531,yes,cd4_t_cell,CD4 T cell,27.920794183466498
+prj3,sbj2531,yes,cd8_t_cell,CD8 T cell,19.32069126460203
+prj3,sbj2531,yes,monocyte,Monocyte,23.769223007697292
+prj3,sbj2531,yes,nk_cell,NK cell,16.40955467668246
+prj3,sbj2538,yes,b_cell,B cell,9.488245546826883
+prj3,sbj2538,yes,cd4_t_cell,CD4 T cell,31.10899508744143
+prj3,sbj2538,yes,cd8_t_cell,CD8 T cell,23.29626029994259
+prj3,sbj2538,yes,monocyte,Monocyte,17.766544337049666
+prj3,sbj2538,yes,nk_cell,NK cell,18.339954728739432
+prj3,sbj2540,no,b_cell,B cell,9.667262076327857
+prj3,sbj2540,no,cd4_t_cell,CD4 T cell,28.755633381617802
+prj3,sbj2540,no,cd8_t_cell,CD8 T cell,25.602859875974133
+prj3,sbj2540,no,monocyte,Monocyte,16.52485043371399
+prj3,sbj2540,no,nk_cell,NK cell,19.44939423236622
+prj3,sbj2544,no,b_cell,B cell,9.074926317305248
+prj3,sbj2544,no,cd4_t_cell,CD4 T cell,28.87749413973798
+prj3,sbj2544,no,cd8_t_cell,CD8 T cell,30.922859570906382
+prj3,sbj2544,no,monocyte,Monocyte,17.237530837547805
+prj3,sbj2544,no,nk_cell,NK cell,13.88718913450259
+prj3,sbj2548,no,b_cell,B cell,8.340879194239156
+prj3,sbj2548,no,cd4_t_cell,CD4 T cell,27.082245646756963
+prj3,sbj2548,no,cd8_t_cell,CD8 T cell,26.68124585674577
+prj3,sbj2548,no,monocyte,Monocyte,20.044314226447515
+prj3,sbj2548,no,nk_cell,NK cell,17.8513150758106
+prj3,sbj2549,yes,b_cell,B cell,8.584288612535103
+prj3,sbj2549,yes,cd4_t_cell,CD4 T cell,28.029182053507288
+prj3,sbj2549,yes,cd8_t_cell,CD8 T cell,21.787927018047743
+prj3,sbj2549,yes,monocyte,Monocyte,27.189283915408655
+prj3,sbj2549,yes,nk_cell,NK cell,14.409318400501206
+prj3,sbj2551,no,b_cell,B cell,8.943365327323937
+prj3,sbj2551,no,cd4_t_cell,CD4 T cell,34.542737312899796
+prj3,sbj2551,no,cd8_t_cell,CD8 T cell,23.65950147105239
+prj3,sbj2551,no,monocyte,Monocyte,18.53919288546857
+prj3,sbj2551,no,nk_cell,NK cell,14.315203003255306
+prj3,sbj2555,yes,b_cell,B cell,9.645808574726255
+prj3,sbj2555,yes,cd4_t_cell,CD4 T cell,26.660498875279803
+prj3,sbj2555,yes,cd8_t_cell,CD8 T cell,29.48434222241832
+prj3,sbj2555,yes,monocyte,Monocyte,23.25388919332359
+prj3,sbj2555,yes,nk_cell,NK cell,10.955461134252028
+prj3,sbj2558,no,b_cell,B cell,8.168330841552253
+prj3,sbj2558,no,cd4_t_cell,CD4 T cell,32.072073332925484
+prj3,sbj2558,no,cd8_t_cell,CD8 T cell,23.77975156281023
+prj3,sbj2558,no,monocyte,Monocyte,20.585045875904793
+prj3,sbj2558,no,nk_cell,NK cell,15.394798386807244
+prj3,sbj2566,no,b_cell,B cell,10.076007946558354
+prj3,sbj2566,no,cd4_t_cell,CD4 T cell,25.305906454321217
+prj3,sbj2566,no,cd8_t_cell,CD8 T cell,29.5016299051953
+prj3,sbj2566,no,monocyte,Monocyte,16.89487179830795
+prj3,sbj2566,no,nk_cell,NK cell,18.221583895617176
+prj3,sbj2570,no,b_cell,B cell,12.900529715043694
+prj3,sbj2570,no,cd4_t_cell,CD4 T cell,30.65991670160659
+prj3,sbj2570,no,cd8_t_cell,CD8 T cell,25.401086964447376
+prj3,sbj2570,no,monocyte,Monocyte,17.30321096582442
+prj3,sbj2570,no,nk_cell,NK cell,13.735255653077921
+prj3,sbj2574,no,b_cell,B cell,9.048847994733967
+prj3,sbj2574,no,cd4_t_cell,CD4 T cell,26.00043545732558
+prj3,sbj2574,no,cd8_t_cell,CD8 T cell,27.983024462028826
+prj3,sbj2574,no,monocyte,Monocyte,23.147107848815835
+prj3,sbj2574,no,nk_cell,NK cell,13.820584237095785
+prj3,sbj2575,yes,b_cell,B cell,8.721770518239213
+prj3,sbj2575,yes,cd4_t_cell,CD4 T cell,35.07834178223966
+prj3,sbj2575,yes,cd8_t_cell,CD8 T cell,20.139003769637267
+prj3,sbj2575,yes,monocyte,Monocyte,21.961473674282654
+prj3,sbj2575,yes,nk_cell,NK cell,14.099410255601208
+prj3,sbj2578,no,b_cell,B cell,9.059234060155275
+prj3,sbj2578,no,cd4_t_cell,CD4 T cell,26.15339186957755
+prj3,sbj2578,no,cd8_t_cell,CD8 T cell,25.6127101476408
+prj3,sbj2578,no,monocyte,Monocyte,22.294538096417636
+prj3,sbj2578,no,nk_cell,NK cell,16.880125826208744
+prj3,sbj2582,no,b_cell,B cell,7.525655311877714
+prj3,sbj2582,no,cd4_t_cell,CD4 T cell,26.456849131069394
+prj3,sbj2582,no,cd8_t_cell,CD8 T cell,26.992520378444457
+prj3,sbj2582,no,monocyte,Monocyte,23.717848114953814
+prj3,sbj2582,no,nk_cell,NK cell,15.307127063654617
+prj3,sbj2587,yes,b_cell,B cell,7.377179088076194
+prj3,sbj2587,yes,cd4_t_cell,CD4 T cell,31.77027148260636
+prj3,sbj2587,yes,cd8_t_cell,CD8 T cell,25.1758537855823
+prj3,sbj2587,yes,monocyte,Monocyte,20.50144187435292
+prj3,sbj2587,yes,nk_cell,NK cell,15.175253769382229
+prj3,sbj2600,yes,b_cell,B cell,12.512251923648945
+prj3,sbj2600,yes,cd4_t_cell,CD4 T cell,27.967090409538613
+prj3,sbj2600,yes,cd8_t_cell,CD8 T cell,23.84468545885974
+prj3,sbj2600,yes,monocyte,Monocyte,19.238077966834354
+prj3,sbj2600,yes,nk_cell,NK cell,16.43789424111835
+prj3,sbj2603,no,b_cell,B cell,6.888713815513459
+prj3,sbj2603,no,cd4_t_cell,CD4 T cell,29.04134645790675
+prj3,sbj2603,no,cd8_t_cell,CD8 T cell,29.51524467222717
+prj3,sbj2603,no,monocyte,Monocyte,18.141708370553534
+prj3,sbj2603,no,nk_cell,NK cell,16.412986683799087
+prj3,sbj2605,no,b_cell,B cell,11.451616232699863
+prj3,sbj2605,no,cd4_t_cell,CD4 T cell,28.53746316808922
+prj3,sbj2605,no,cd8_t_cell,CD8 T cell,24.30684014010751
+prj3,sbj2605,no,monocyte,Monocyte,19.24165469454203
+prj3,sbj2605,no,nk_cell,NK cell,16.46242576456137
+prj3,sbj2606,no,b_cell,B cell,11.818596426700902
+prj3,sbj2606,no,cd4_t_cell,CD4 T cell,30.090991742754383
+prj3,sbj2606,no,cd8_t_cell,CD8 T cell,23.619428419085086
+prj3,sbj2606,no,monocyte,Monocyte,20.02037581423259
+prj3,sbj2606,no,nk_cell,NK cell,14.450607597227034
+prj3,sbj2607,yes,b_cell,B cell,10.132829128850341
+prj3,sbj2607,yes,cd4_t_cell,CD4 T cell,30.05985630063306
+prj3,sbj2607,yes,cd8_t_cell,CD8 T cell,23.390848246202406
+prj3,sbj2607,yes,monocyte,Monocyte,21.39724847965857
+prj3,sbj2607,yes,nk_cell,NK cell,15.019217844655623
+prj3,sbj2608,yes,b_cell,B cell,8.939588877753366
+prj3,sbj2608,yes,cd4_t_cell,CD4 T cell,27.11152997680091
+prj3,sbj2608,yes,cd8_t_cell,CD8 T cell,27.455584168072775
+prj3,sbj2608,yes,monocyte,Monocyte,19.0821193241617
+prj3,sbj2608,yes,nk_cell,NK cell,17.411177653211254
+prj3,sbj2609,yes,b_cell,B cell,11.745059615554299
+prj3,sbj2609,yes,cd4_t_cell,CD4 T cell,27.513073076488755
+prj3,sbj2609,yes,cd8_t_cell,CD8 T cell,22.3081644988373
+prj3,sbj2609,yes,monocyte,Monocyte,19.920296756182406
+prj3,sbj2609,yes,nk_cell,NK cell,18.51340605293724
+prj3,sbj2611,no,b_cell,B cell,8.045152385890415
+prj3,sbj2611,no,cd4_t_cell,CD4 T cell,31.007273047583823
+prj3,sbj2611,no,cd8_t_cell,CD8 T cell,27.167012815020865
+prj3,sbj2611,no,monocyte,Monocyte,17.350985195866627
+prj3,sbj2611,no,nk_cell,NK cell,16.429576555638267
+prj3,sbj2612,yes,b_cell,B cell,8.506735072195175
+prj3,sbj2612,yes,cd4_t_cell,CD4 T cell,32.839209387973106
+prj3,sbj2612,yes,cd8_t_cell,CD8 T cell,24.896947918824413
+prj3,sbj2612,yes,monocyte,Monocyte,21.72276952485251
+prj3,sbj2612,yes,nk_cell,NK cell,12.03433809615479
+prj3,sbj2624,no,b_cell,B cell,9.844568355749049
+prj3,sbj2624,no,cd4_t_cell,CD4 T cell,34.839296329491276
+prj3,sbj2624,no,cd8_t_cell,CD8 T cell,25.12012226037599
+prj3,sbj2624,no,monocyte,Monocyte,16.098085542832163
+prj3,sbj2624,no,nk_cell,NK cell,14.097927511551523
+prj3,sbj2633,no,b_cell,B cell,6.219850641931579
+prj3,sbj2633,no,cd4_t_cell,CD4 T cell,26.50914717647918
+prj3,sbj2633,no,cd8_t_cell,CD8 T cell,26.4026160235574
+prj3,sbj2633,no,monocyte,Monocyte,23.102257534225405
+prj3,sbj2633,no,nk_cell,NK cell,17.766128623806438
+prj3,sbj2635,yes,b_cell,B cell,7.292612613203947
+prj3,sbj2635,yes,cd4_t_cell,CD4 T cell,30.17343730449073
+prj3,sbj2635,yes,cd8_t_cell,CD8 T cell,23.663711183423086
+prj3,sbj2635,yes,monocyte,Monocyte,20.452970503655106
+prj3,sbj2635,yes,nk_cell,NK cell,18.417268395227136
+prj3,sbj2642,no,b_cell,B cell,10.712788308256501
+prj3,sbj2642,no,cd4_t_cell,CD4 T cell,32.146668145993324
+prj3,sbj2642,no,cd8_t_cell,CD8 T cell,26.79237532609892
+prj3,sbj2642,no,monocyte,Monocyte,16.427201687461128
+prj3,sbj2642,no,nk_cell,NK cell,13.920966532190123
+prj3,sbj2643,no,b_cell,B cell,10.868407709699605
+prj3,sbj2643,no,cd4_t_cell,CD4 T cell,26.810782585283192
+prj3,sbj2643,no,cd8_t_cell,CD8 T cell,30.107210001191905
+prj3,sbj2643,no,monocyte,Monocyte,20.964108762218753
+prj3,sbj2643,no,nk_cell,NK cell,11.249490941606545
+prj3,sbj2644,no,b_cell,B cell,12.651863682828065
+prj3,sbj2644,no,cd4_t_cell,CD4 T cell,24.079067785134924
+prj3,sbj2644,no,cd8_t_cell,CD8 T cell,22.897168169925596
+prj3,sbj2644,no,monocyte,Monocyte,22.303613540418013
+prj3,sbj2644,no,nk_cell,NK cell,18.068286821693405
+prj3,sbj2647,no,b_cell,B cell,10.231681829324508
+prj3,sbj2647,no,cd4_t_cell,CD4 T cell,31.270844761416964
+prj3,sbj2647,no,cd8_t_cell,CD8 T cell,25.919647202177504
+prj3,sbj2647,no,monocyte,Monocyte,17.365190597482737
+prj3,sbj2647,no,nk_cell,NK cell,15.212635609598287
+prj3,sbj2653,no,b_cell,B cell,7.9720757848137955
+prj3,sbj2653,no,cd4_t_cell,CD4 T cell,30.273532707827357
+prj3,sbj2653,no,cd8_t_cell,CD8 T cell,20.738855406383422
+prj3,sbj2653,no,monocyte,Monocyte,20.92005169715128
+prj3,sbj2653,no,nk_cell,NK cell,20.095484403824145
+prj3,sbj2656,yes,b_cell,B cell,10.743385163137468
+prj3,sbj2656,yes,cd4_t_cell,CD4 T cell,29.381296706497853
+prj3,sbj2656,yes,cd8_t_cell,CD8 T cell,27.59990553613655
+prj3,sbj2656,yes,monocyte,Monocyte,24.10182579639142
+prj3,sbj2656,yes,nk_cell,NK cell,8.173586797836704
+prj3,sbj2668,no,b_cell,B cell,8.57422404446991
+prj3,sbj2668,no,cd4_t_cell,CD4 T cell,30.92009411085071
+prj3,sbj2668,no,cd8_t_cell,CD8 T cell,23.42197168643699
+prj3,sbj2668,no,monocyte,Monocyte,21.232013918740375
+prj3,sbj2668,no,nk_cell,NK cell,15.851696239502019
+prj3,sbj2671,no,b_cell,B cell,12.001652227055656
+prj3,sbj2671,no,cd4_t_cell,CD4 T cell,26.90576842539835
+prj3,sbj2671,no,cd8_t_cell,CD8 T cell,26.093454824783933
+prj3,sbj2671,no,monocyte,Monocyte,18.54424286365882
+prj3,sbj2671,no,nk_cell,NK cell,16.454881659103243
+prj3,sbj2676,no,b_cell,B cell,10.369464197825534
+prj3,sbj2676,no,cd4_t_cell,CD4 T cell,27.329113266316345
+prj3,sbj2676,no,cd8_t_cell,CD8 T cell,25.12928906189748
+prj3,sbj2676,no,monocyte,Monocyte,21.34514228041644
+prj3,sbj2676,no,nk_cell,NK cell,15.826991193544208
+prj3,sbj2680,yes,b_cell,B cell,9.156322750518237
+prj3,sbj2680,yes,cd4_t_cell,CD4 T cell,33.56379892757846
+prj3,sbj2680,yes,cd8_t_cell,CD8 T cell,21.58709417679803
+prj3,sbj2680,yes,monocyte,Monocyte,16.404635932344473
+prj3,sbj2680,yes,nk_cell,NK cell,19.288148212760802
+prj3,sbj2683,no,b_cell,B cell,9.761095183155318
+prj3,sbj2683,no,cd4_t_cell,CD4 T cell,35.254664185863305
+prj3,sbj2683,no,cd8_t_cell,CD8 T cell,25.973262000378014
+prj3,sbj2683,no,monocyte,Monocyte,17.354926739723304
+prj3,sbj2683,no,nk_cell,NK cell,11.656051890880056
+prj3,sbj2685,yes,b_cell,B cell,8.766215970279386
+prj3,sbj2685,yes,cd4_t_cell,CD4 T cell,33.090925153182894
+prj3,sbj2685,yes,cd8_t_cell,CD8 T cell,22.698323402827327
+prj3,sbj2685,yes,monocyte,Monocyte,20.469751387934817
+prj3,sbj2685,yes,nk_cell,NK cell,14.974784085775573
+prj3,sbj2688,no,b_cell,B cell,7.610491218092668
+prj3,sbj2688,no,cd4_t_cell,CD4 T cell,31.958830942613815
+prj3,sbj2688,no,cd8_t_cell,CD8 T cell,28.82397125625724
+prj3,sbj2688,no,monocyte,Monocyte,17.930699721664226
+prj3,sbj2688,no,nk_cell,NK cell,13.67600686137205
+prj3,sbj2692,no,b_cell,B cell,9.307945006778189
+prj3,sbj2692,no,cd4_t_cell,CD4 T cell,28.01493336700712
+prj3,sbj2692,no,cd8_t_cell,CD8 T cell,22.099598847758983
+prj3,sbj2692,no,monocyte,Monocyte,21.892661586482163
+prj3,sbj2692,no,nk_cell,NK cell,18.684861191973543
+prj3,sbj2695,yes,b_cell,B cell,11.757762857255038
+prj3,sbj2695,yes,cd4_t_cell,CD4 T cell,27.37878819365739
+prj3,sbj2695,yes,cd8_t_cell,CD8 T cell,23.375327366287326
+prj3,sbj2695,yes,monocyte,Monocyte,19.209780417187716
+prj3,sbj2695,yes,nk_cell,NK cell,18.278341165612535
+prj3,sbj2706,no,b_cell,B cell,9.9219920129179
+prj3,sbj2706,no,cd4_t_cell,CD4 T cell,31.320824474583038
+prj3,sbj2706,no,cd8_t_cell,CD8 T cell,25.696965247103957
+prj3,sbj2706,no,monocyte,Monocyte,21.183160284751796
+prj3,sbj2706,no,nk_cell,NK cell,11.877057980643306
+prj3,sbj2707,yes,b_cell,B cell,7.065361498985605
+prj3,sbj2707,yes,cd4_t_cell,CD4 T cell,31.52521944239668
+prj3,sbj2707,yes,cd8_t_cell,CD8 T cell,27.746609675014
+prj3,sbj2707,yes,monocyte,Monocyte,21.266370493850186
+prj3,sbj2707,yes,nk_cell,NK cell,12.396438889753531
+prj3,sbj2709,yes,b_cell,B cell,11.930764821009708
+prj3,sbj2709,yes,cd4_t_cell,CD4 T cell,29.624208748337182
+prj3,sbj2709,yes,cd8_t_cell,CD8 T cell,25.767748649106085
+prj3,sbj2709,yes,monocyte,Monocyte,17.60253171100108
+prj3,sbj2709,yes,nk_cell,NK cell,15.074746070545947
+prj3,sbj2711,no,b_cell,B cell,9.455844357567585
+prj3,sbj2711,no,cd4_t_cell,CD4 T cell,27.385748501088788
+prj3,sbj2711,no,cd8_t_cell,CD8 T cell,24.536534841472417
+prj3,sbj2711,no,monocyte,Monocyte,23.33920275022628
+prj3,sbj2711,no,nk_cell,NK cell,15.28266954964493
+prj3,sbj2714,no,b_cell,B cell,13.186862488683817
+prj3,sbj2714,no,cd4_t_cell,CD4 T cell,26.28184451204358
+prj3,sbj2714,no,cd8_t_cell,CD8 T cell,26.67156962212543
+prj3,sbj2714,no,monocyte,Monocyte,19.714750723234545
+prj3,sbj2714,no,nk_cell,NK cell,14.144972653912625
+prj3,sbj2717,yes,b_cell,B cell,7.500914691731945
+prj3,sbj2717,yes,cd4_t_cell,CD4 T cell,28.603462641561606
+prj3,sbj2717,yes,cd8_t_cell,CD8 T cell,27.97335670412561
+prj3,sbj2717,yes,monocyte,Monocyte,22.092015017237532
+prj3,sbj2717,yes,nk_cell,NK cell,13.830250945343309
+prj3,sbj2720,no,b_cell,B cell,8.542615149880536
+prj3,sbj2720,no,cd4_t_cell,CD4 T cell,32.24056665125215
+prj3,sbj2720,no,cd8_t_cell,CD8 T cell,24.678281244909783
+prj3,sbj2720,no,monocyte,Monocyte,17.41374675882617
+prj3,sbj2720,no,nk_cell,NK cell,17.124790195131357
+prj3,sbj2722,yes,b_cell,B cell,7.410229061116211
+prj3,sbj2722,yes,cd4_t_cell,CD4 T cell,28.99221143215129
+prj3,sbj2722,yes,cd8_t_cell,CD8 T cell,27.11802273955294
+prj3,sbj2722,yes,monocyte,Monocyte,22.043514322105167
+prj3,sbj2722,yes,nk_cell,NK cell,14.436022445074391
+prj3,sbj2726,yes,b_cell,B cell,10.884359595994148
+prj3,sbj2726,yes,cd4_t_cell,CD4 T cell,28.443449729188387
+prj3,sbj2726,yes,cd8_t_cell,CD8 T cell,27.775433487927376
+prj3,sbj2726,yes,monocyte,Monocyte,16.988971178161695
+prj3,sbj2726,yes,nk_cell,NK cell,15.907786008728394
+prj3,sbj2728,no,b_cell,B cell,11.620079464965249
+prj3,sbj2728,no,cd4_t_cell,CD4 T cell,25.773948153190304
+prj3,sbj2728,no,cd8_t_cell,CD8 T cell,21.13942484145697
+prj3,sbj2728,no,monocyte,Monocyte,23.36044890270405
+prj3,sbj2728,no,nk_cell,NK cell,18.106098637683427
+prj3,sbj2733,yes,b_cell,B cell,11.157734070031218
+prj3,sbj2733,yes,cd4_t_cell,CD4 T cell,26.64021943103447
+prj3,sbj2733,yes,cd8_t_cell,CD8 T cell,25.428893657150283
+prj3,sbj2733,yes,monocyte,Monocyte,20.93456033728511
+prj3,sbj2733,yes,nk_cell,NK cell,15.838592504498921
+prj3,sbj2738,no,b_cell,B cell,7.678953189324637
+prj3,sbj2738,no,cd4_t_cell,CD4 T cell,33.24609483482939
+prj3,sbj2738,no,cd8_t_cell,CD8 T cell,26.078583891005707
+prj3,sbj2738,no,monocyte,Monocyte,18.01154299270446
+prj3,sbj2738,no,nk_cell,NK cell,14.984825092135802
+prj3,sbj2749,yes,b_cell,B cell,10.610882782805058
+prj3,sbj2749,yes,cd4_t_cell,CD4 T cell,33.01193113317786
+prj3,sbj2749,yes,cd8_t_cell,CD8 T cell,21.17919192332688
+prj3,sbj2749,yes,monocyte,Monocyte,16.631193993334055
+prj3,sbj2749,yes,nk_cell,NK cell,18.56680016735615
+prj3,sbj2758,yes,b_cell,B cell,9.20413027812177
+prj3,sbj2758,yes,cd4_t_cell,CD4 T cell,29.385794892629026
+prj3,sbj2758,yes,cd8_t_cell,CD8 T cell,23.173562773762807
+prj3,sbj2758,yes,monocyte,Monocyte,24.521374129108334
+prj3,sbj2758,yes,nk_cell,NK cell,13.715137926378063
+prj3,sbj2759,no,b_cell,B cell,9.576670477383184
+prj3,sbj2759,no,cd4_t_cell,CD4 T cell,30.805900915233632
+prj3,sbj2759,no,cd8_t_cell,CD8 T cell,24.285322489267283
+prj3,sbj2759,no,monocyte,Monocyte,21.488558224246926
+prj3,sbj2759,no,nk_cell,NK cell,13.843547893868974
+prj3,sbj2763,yes,b_cell,B cell,12.565529955908616
+prj3,sbj2763,yes,cd4_t_cell,CD4 T cell,29.1048124096223
+prj3,sbj2763,yes,cd8_t_cell,CD8 T cell,21.522326749713717
+prj3,sbj2763,yes,monocyte,Monocyte,22.272045238364502
+prj3,sbj2763,yes,nk_cell,NK cell,14.535285646390859
+prj3,sbj2766,yes,b_cell,B cell,13.004529496364144
+prj3,sbj2766,yes,cd4_t_cell,CD4 T cell,28.012854072015745
+prj3,sbj2766,yes,cd8_t_cell,CD8 T cell,30.83158641766848
+prj3,sbj2766,yes,monocyte,Monocyte,17.3201267228201
+prj3,sbj2766,yes,nk_cell,NK cell,10.830903291131529
+prj3,sbj2768,no,b_cell,B cell,13.036456838980433
+prj3,sbj2768,no,cd4_t_cell,CD4 T cell,27.01990587454252
+prj3,sbj2768,no,cd8_t_cell,CD8 T cell,23.035139036962267
+prj3,sbj2768,no,monocyte,Monocyte,20.82013496988932
+prj3,sbj2768,no,nk_cell,NK cell,16.088363279625458
+prj3,sbj2771,no,b_cell,B cell,9.84750551505307
+prj3,sbj2771,no,cd4_t_cell,CD4 T cell,29.765724008315356
+prj3,sbj2771,no,cd8_t_cell,CD8 T cell,23.932926572833555
+prj3,sbj2771,no,monocyte,Monocyte,20.75837278122781
+prj3,sbj2771,no,nk_cell,NK cell,15.695471122570211
+prj3,sbj2775,no,b_cell,B cell,9.152646331897893
+prj3,sbj2775,no,cd4_t_cell,CD4 T cell,27.906841162634564
+prj3,sbj2775,no,cd8_t_cell,CD8 T cell,26.969299755280076
+prj3,sbj2775,no,monocyte,Monocyte,20.623227943317726
+prj3,sbj2775,no,nk_cell,NK cell,15.347984806869741
+prj3,sbj2776,yes,b_cell,B cell,5.948924455867243
+prj3,sbj2776,yes,cd4_t_cell,CD4 T cell,36.74762420239623
+prj3,sbj2776,yes,cd8_t_cell,CD8 T cell,24.81664447467065
+prj3,sbj2776,yes,monocyte,Monocyte,18.49561985620517
+prj3,sbj2776,yes,nk_cell,NK cell,13.991187010860706
+prj3,sbj2777,no,b_cell,B cell,16.770875996636534
+prj3,sbj2777,no,cd4_t_cell,CD4 T cell,25.393220209500726
+prj3,sbj2777,no,cd8_t_cell,CD8 T cell,19.46781782393695
+prj3,sbj2777,no,monocyte,Monocyte,21.210297235320407
+prj3,sbj2777,no,nk_cell,NK cell,17.15778873460539
+prj3,sbj2778,no,b_cell,B cell,8.859787874141633
+prj3,sbj2778,no,cd4_t_cell,CD4 T cell,32.764325485408484
+prj3,sbj2778,no,cd8_t_cell,CD8 T cell,23.87420520434274
+prj3,sbj2778,no,monocyte,Monocyte,19.391281452940856
+prj3,sbj2778,no,nk_cell,NK cell,15.110399983166289
+prj3,sbj2779,yes,b_cell,B cell,10.232402158910196
+prj3,sbj2779,yes,cd4_t_cell,CD4 T cell,29.925718543356158
+prj3,sbj2779,yes,cd8_t_cell,CD8 T cell,28.60139129924454
+prj3,sbj2779,yes,monocyte,Monocyte,21.18396795283857
+prj3,sbj2779,yes,nk_cell,NK cell,10.05652004565053
+prj3,sbj2783,yes,b_cell,B cell,9.490848013449869
+prj3,sbj2783,yes,cd4_t_cell,CD4 T cell,30.42778058991816
+prj3,sbj2783,yes,cd8_t_cell,CD8 T cell,31.965265010616935
+prj3,sbj2783,yes,monocyte,Monocyte,14.186680253037983
+prj3,sbj2783,yes,nk_cell,NK cell,13.929426132977051
+prj3,sbj2784,yes,b_cell,B cell,9.433486661997234
+prj3,sbj2784,yes,cd4_t_cell,CD4 T cell,35.95929189325877
+prj3,sbj2784,yes,cd8_t_cell,CD8 T cell,22.358979610635078
+prj3,sbj2784,yes,monocyte,Monocyte,20.082489740611578
+prj3,sbj2784,yes,nk_cell,NK cell,12.165752093497339
+prj3,sbj2787,yes,b_cell,B cell,11.023188489571604
+prj3,sbj2787,yes,cd4_t_cell,CD4 T cell,33.80967163745228
+prj3,sbj2787,yes,cd8_t_cell,CD8 T cell,20.13532480573598
+prj3,sbj2787,yes,monocyte,Monocyte,17.742758702377387
+prj3,sbj2787,yes,nk_cell,NK cell,17.289056364862745
+prj3,sbj2789,no,b_cell,B cell,9.54702192912411
+prj3,sbj2789,no,cd4_t_cell,CD4 T cell,29.77283514571612
+prj3,sbj2789,no,cd8_t_cell,CD8 T cell,26.996518363871772
+prj3,sbj2789,no,monocyte,Monocyte,16.50062243167348
+prj3,sbj2789,no,nk_cell,NK cell,17.183002129614522
+prj3,sbj2796,yes,b_cell,B cell,10.787343010586286
+prj3,sbj2796,yes,cd4_t_cell,CD4 T cell,33.11006788209301
+prj3,sbj2796,yes,cd8_t_cell,CD8 T cell,21.512999811727667
+prj3,sbj2796,yes,monocyte,Monocyte,20.38282899797915
+prj3,sbj2796,yes,nk_cell,NK cell,14.206760297613881
+prj3,sbj2799,no,b_cell,B cell,7.614498113317871
+prj3,sbj2799,no,cd4_t_cell,CD4 T cell,34.86633424447935
+prj3,sbj2799,no,cd8_t_cell,CD8 T cell,27.175410162071056
+prj3,sbj2799,no,monocyte,Monocyte,15.876357290433484
+prj3,sbj2799,no,nk_cell,NK cell,14.467400189698239
+prj3,sbj2801,yes,b_cell,B cell,11.173179878933112
+prj3,sbj2801,yes,cd4_t_cell,CD4 T cell,29.194764758398293
+prj3,sbj2801,yes,cd8_t_cell,CD8 T cell,21.036525728607902
+prj3,sbj2801,yes,monocyte,Monocyte,21.15507886923896
+prj3,sbj2801,yes,nk_cell,NK cell,17.440450764821737
+prj3,sbj2804,no,b_cell,B cell,8.10721710250865
+prj3,sbj2804,no,cd4_t_cell,CD4 T cell,27.638737106985587
+prj3,sbj2804,no,cd8_t_cell,CD8 T cell,25.036140919835304
+prj3,sbj2804,no,monocyte,Monocyte,22.30637939221226
+prj3,sbj2804,no,nk_cell,NK cell,16.911525478458195
+prj3,sbj2805,no,b_cell,B cell,6.97778057084633
+prj3,sbj2805,no,cd4_t_cell,CD4 T cell,29.55531415973366
+prj3,sbj2805,no,cd8_t_cell,CD8 T cell,25.419267746719303
+prj3,sbj2805,no,monocyte,Monocyte,20.637882371742567
+prj3,sbj2805,no,nk_cell,NK cell,17.409755150958137
+prj3,sbj2807,no,b_cell,B cell,10.30182764477654
+prj3,sbj2807,no,cd4_t_cell,CD4 T cell,30.14844442074575
+prj3,sbj2807,no,cd8_t_cell,CD8 T cell,23.649847934764523
+prj3,sbj2807,no,monocyte,Monocyte,20.997474274188153
+prj3,sbj2807,no,nk_cell,NK cell,14.902405725525036
+prj3,sbj2811,no,b_cell,B cell,10.807461606848031
+prj3,sbj2811,no,cd4_t_cell,CD4 T cell,34.29151039147909
+prj3,sbj2811,no,cd8_t_cell,CD8 T cell,23.042519562444514
+prj3,sbj2811,no,monocyte,Monocyte,17.09478139368991
+prj3,sbj2811,no,nk_cell,NK cell,14.76372704553845
+prj3,sbj2812,no,b_cell,B cell,11.555805741687792
+prj3,sbj2812,no,cd4_t_cell,CD4 T cell,26.737581174226506
+prj3,sbj2812,no,cd8_t_cell,CD8 T cell,23.589927687925897
+prj3,sbj2812,no,monocyte,Monocyte,18.774185612852484
+prj3,sbj2812,no,nk_cell,NK cell,19.34249978330732
+prj3,sbj2813,no,b_cell,B cell,8.204681926525872
+prj3,sbj2813,no,cd4_t_cell,CD4 T cell,34.7869487111257
+prj3,sbj2813,no,cd8_t_cell,CD8 T cell,26.706888132462847
+prj3,sbj2813,no,monocyte,Monocyte,17.838834031328798
+prj3,sbj2813,no,nk_cell,NK cell,12.462647198556782
+prj3,sbj2814,yes,b_cell,B cell,9.538061940522818
+prj3,sbj2814,yes,cd4_t_cell,CD4 T cell,28.267594529409852
+prj3,sbj2814,yes,cd8_t_cell,CD8 T cell,25.92693802652147
+prj3,sbj2814,yes,monocyte,Monocyte,21.048512411059573
+prj3,sbj2814,yes,nk_cell,NK cell,15.21889309248629
+prj3,sbj2820,no,b_cell,B cell,11.804313925295107
+prj3,sbj2820,no,cd4_t_cell,CD4 T cell,28.883234929706735
+prj3,sbj2820,no,cd8_t_cell,CD8 T cell,21.35319224288777
+prj3,sbj2820,no,monocyte,Monocyte,22.12275624963466
+prj3,sbj2820,no,nk_cell,NK cell,15.83650265247573
+prj3,sbj2822,yes,b_cell,B cell,10.107864113414466
+prj3,sbj2822,yes,cd4_t_cell,CD4 T cell,33.56996756674965
+prj3,sbj2822,yes,cd8_t_cell,CD8 T cell,22.474805884772895
+prj3,sbj2822,yes,monocyte,Monocyte,20.040683958625763
+prj3,sbj2822,yes,nk_cell,NK cell,13.806678476437218
+prj3,sbj2824,no,b_cell,B cell,9.053744279250468
+prj3,sbj2824,no,cd4_t_cell,CD4 T cell,31.766133328311003
+prj3,sbj2824,no,cd8_t_cell,CD8 T cell,25.009725891231607
+prj3,sbj2824,no,monocyte,Monocyte,21.881127697456517
+prj3,sbj2824,no,nk_cell,NK cell,12.289268803750405
+prj3,sbj2827,yes,b_cell,B cell,8.576703216064734
+prj3,sbj2827,yes,cd4_t_cell,CD4 T cell,30.07540060970183
+prj3,sbj2827,yes,cd8_t_cell,CD8 T cell,22.985824409620236
+prj3,sbj2827,yes,monocyte,Monocyte,23.61294842959236
+prj3,sbj2827,yes,nk_cell,NK cell,14.749123335020835
+prj3,sbj2831,no,b_cell,B cell,11.818680597877096
+prj3,sbj2831,no,cd4_t_cell,CD4 T cell,28.917508572109842
+prj3,sbj2831,no,cd8_t_cell,CD8 T cell,22.160923698827435
+prj3,sbj2831,no,monocyte,Monocyte,22.234332230394916
+prj3,sbj2831,no,nk_cell,NK cell,14.868554900790711
+prj3,sbj2834,no,b_cell,B cell,7.54625540588264
+prj3,sbj2834,no,cd4_t_cell,CD4 T cell,32.20085706177574
+prj3,sbj2834,no,cd8_t_cell,CD8 T cell,26.549339767192404
+prj3,sbj2834,no,monocyte,Monocyte,17.868789652439613
+prj3,sbj2834,no,nk_cell,NK cell,15.834758112709599
+prj3,sbj2840,no,b_cell,B cell,10.541123261288872
+prj3,sbj2840,no,cd4_t_cell,CD4 T cell,31.743959382512276
+prj3,sbj2840,no,cd8_t_cell,CD8 T cell,24.00008397716999
+prj3,sbj2840,no,monocyte,Monocyte,18.58863221669156
+prj3,sbj2840,no,nk_cell,NK cell,15.126201162337304
+prj3,sbj2842,no,b_cell,B cell,7.819830341612541
+prj3,sbj2842,no,cd4_t_cell,CD4 T cell,32.74112350357863
+prj3,sbj2842,no,cd8_t_cell,CD8 T cell,24.01213045690834
+prj3,sbj2842,no,monocyte,Monocyte,22.806172486014788
+prj3,sbj2842,no,nk_cell,NK cell,12.620743211885701
+prj3,sbj2847,no,b_cell,B cell,6.786878732691911
+prj3,sbj2847,no,cd4_t_cell,CD4 T cell,34.60441688814774
+prj3,sbj2847,no,cd8_t_cell,CD8 T cell,27.50294216365879
+prj3,sbj2847,no,monocyte,Monocyte,18.850119572373472
+prj3,sbj2847,no,nk_cell,NK cell,12.255642643128084
+prj3,sbj2852,no,b_cell,B cell,9.667395110096429
+prj3,sbj2852,no,cd4_t_cell,CD4 T cell,30.763055895366517
+prj3,sbj2852,no,cd8_t_cell,CD8 T cell,23.13901333114765
+prj3,sbj2852,no,monocyte,Monocyte,19.575107950574093
+prj3,sbj2852,no,nk_cell,NK cell,16.855427712815317
+prj3,sbj2853,no,b_cell,B cell,10.19897199685689
+prj3,sbj2853,no,cd4_t_cell,CD4 T cell,31.40208769805137
+prj3,sbj2853,no,cd8_t_cell,CD8 T cell,23.164940288276572
+prj3,sbj2853,no,monocyte,Monocyte,20.276802878048535
+prj3,sbj2853,no,nk_cell,NK cell,14.957197138766631
+prj3,sbj2856,yes,b_cell,B cell,8.79203087195553
+prj3,sbj2856,yes,cd4_t_cell,CD4 T cell,30.59231168148439
+prj3,sbj2856,yes,cd8_t_cell,CD8 T cell,24.270402462053678
+prj3,sbj2856,yes,monocyte,Monocyte,19.632933923247244
+prj3,sbj2856,yes,nk_cell,NK cell,16.71232106125916
+prj3,sbj2861,yes,b_cell,B cell,8.823525632811517
+prj3,sbj2861,yes,cd4_t_cell,CD4 T cell,30.69724462710556
+prj3,sbj2861,yes,cd8_t_cell,CD8 T cell,24.92073367955476
+prj3,sbj2861,yes,monocyte,Monocyte,23.583431560014322
+prj3,sbj2861,yes,nk_cell,NK cell,11.975064500513833
+prj3,sbj2863,no,b_cell,B cell,13.68972449295211
+prj3,sbj2863,no,cd4_t_cell,CD4 T cell,27.36844649723602
+prj3,sbj2863,no,cd8_t_cell,CD8 T cell,22.241549242721717
+prj3,sbj2863,no,monocyte,Monocyte,22.0427198453558
+prj3,sbj2863,no,nk_cell,NK cell,14.657559921734352
+prj3,sbj2865,yes,b_cell,B cell,13.15052102552689
+prj3,sbj2865,yes,cd4_t_cell,CD4 T cell,25.272556287853618
+prj3,sbj2865,yes,cd8_t_cell,CD8 T cell,26.76744998213806
+prj3,sbj2865,yes,monocyte,Monocyte,19.66720391828399
+prj3,sbj2865,yes,nk_cell,NK cell,15.142268786197436
+prj3,sbj2870,yes,b_cell,B cell,9.280847773949414
+prj3,sbj2870,yes,cd4_t_cell,CD4 T cell,34.23349596718247
+prj3,sbj2870,yes,cd8_t_cell,CD8 T cell,24.39457846099064
+prj3,sbj2870,yes,monocyte,Monocyte,19.085914475083484
+prj3,sbj2870,yes,nk_cell,NK cell,13.00516332279399
+prj3,sbj2879,no,b_cell,B cell,12.271375837688517
+prj3,sbj2879,no,cd4_t_cell,CD4 T cell,29.470529808386207
+prj3,sbj2879,no,cd8_t_cell,CD8 T cell,22.69168562811646
+prj3,sbj2879,no,monocyte,Monocyte,17.527798985676384
+prj3,sbj2879,no,nk_cell,NK cell,18.038609740132433
+prj3,sbj2885,yes,b_cell,B cell,10.141991365040733
+prj3,sbj2885,yes,cd4_t_cell,CD4 T cell,30.40158232106353
+prj3,sbj2885,yes,cd8_t_cell,CD8 T cell,22.85539147737892
+prj3,sbj2885,yes,monocyte,Monocyte,22.74201979638563
+prj3,sbj2885,yes,nk_cell,NK cell,13.859015040131188
+prj3,sbj2887,no,b_cell,B cell,10.503220409754263
+prj3,sbj2887,no,cd4_t_cell,CD4 T cell,29.755405883031887
+prj3,sbj2887,no,cd8_t_cell,CD8 T cell,28.481663541139028
+prj3,sbj2887,no,monocyte,Monocyte,18.73945166027738
+prj3,sbj2887,no,nk_cell,NK cell,12.520258505797445
+prj3,sbj2888,no,b_cell,B cell,11.835430838327682
+prj3,sbj2888,no,cd4_t_cell,CD4 T cell,31.40841358076896
+prj3,sbj2888,no,cd8_t_cell,CD8 T cell,20.87937293693905
+prj3,sbj2888,no,monocyte,Monocyte,20.565491894000242
+prj3,sbj2888,no,nk_cell,NK cell,15.311290749964067
+prj3,sbj2895,yes,b_cell,B cell,6.586883714397296
+prj3,sbj2895,yes,cd4_t_cell,CD4 T cell,26.39873754864377
+prj3,sbj2895,yes,cd8_t_cell,CD8 T cell,31.60065964748841
+prj3,sbj2895,yes,monocyte,Monocyte,21.967829153371394
+prj3,sbj2895,yes,nk_cell,NK cell,13.445889936099134
+prj3,sbj2902,yes,b_cell,B cell,7.600374682510026
+prj3,sbj2902,yes,cd4_t_cell,CD4 T cell,32.30025899460222
+prj3,sbj2902,yes,cd8_t_cell,CD8 T cell,24.965865294412424
+prj3,sbj2902,yes,monocyte,Monocyte,18.035065165335272
+prj3,sbj2902,yes,nk_cell,NK cell,17.098435863140057
+prj3,sbj2904,no,b_cell,B cell,12.05831271920601
+prj3,sbj2904,no,cd4_t_cell,CD4 T cell,29.957602994677117
+prj3,sbj2904,no,cd8_t_cell,CD8 T cell,27.959111187562154
+prj3,sbj2904,no,monocyte,Monocyte,15.64869054673965
+prj3,sbj2904,no,nk_cell,NK cell,14.376282551815066
+prj3,sbj2906,yes,b_cell,B cell,8.591765820052268
+prj3,sbj2906,yes,cd4_t_cell,CD4 T cell,40.25506645924719
+prj3,sbj2906,yes,cd8_t_cell,CD8 T cell,24.008761232872462
+prj3,sbj2906,yes,monocyte,Monocyte,17.27229023837761
+prj3,sbj2906,yes,nk_cell,NK cell,9.87211624945047
+prj3,sbj2908,yes,b_cell,B cell,9.182034529356265
+prj3,sbj2908,yes,cd4_t_cell,CD4 T cell,28.580113877615418
+prj3,sbj2908,yes,cd8_t_cell,CD8 T cell,25.141532649747234
+prj3,sbj2908,yes,monocyte,Monocyte,23.596505993832448
+prj3,sbj2908,yes,nk_cell,NK cell,13.499812949448637
+prj3,sbj2910,no,b_cell,B cell,11.410926390747711
+prj3,sbj2910,no,cd4_t_cell,CD4 T cell,30.019870975284746
+prj3,sbj2910,no,cd8_t_cell,CD8 T cell,25.879718694540966
+prj3,sbj2910,no,monocyte,Monocyte,17.525306129437457
+prj3,sbj2910,no,nk_cell,NK cell,15.164177809989118
+prj3,sbj2917,no,b_cell,B cell,7.139380258798209
+prj3,sbj2917,no,cd4_t_cell,CD4 T cell,31.77025890128984
+prj3,sbj2917,no,cd8_t_cell,CD8 T cell,27.091205715422173
+prj3,sbj2917,no,monocyte,Monocyte,19.509609763609834
+prj3,sbj2917,no,nk_cell,NK cell,14.489545360879944
+prj3,sbj2921,no,b_cell,B cell,13.220546290181177
+prj3,sbj2921,no,cd4_t_cell,CD4 T cell,33.19131983036257
+prj3,sbj2921,no,cd8_t_cell,CD8 T cell,25.14627143717996
+prj3,sbj2921,no,monocyte,Monocyte,18.94784963544299
+prj3,sbj2921,no,nk_cell,NK cell,9.494012806833306
+prj3,sbj2923,yes,b_cell,B cell,8.41681584256504
+prj3,sbj2923,yes,cd4_t_cell,CD4 T cell,33.100197822495936
+prj3,sbj2923,yes,cd8_t_cell,CD8 T cell,22.029284689697207
+prj3,sbj2923,yes,monocyte,Monocyte,24.351256343162955
+prj3,sbj2923,yes,nk_cell,NK cell,12.102445302078864
+prj3,sbj2927,yes,b_cell,B cell,6.7889616778954265
+prj3,sbj2927,yes,cd4_t_cell,CD4 T cell,33.74410793734288
+prj3,sbj2927,yes,cd8_t_cell,CD8 T cell,29.276480543416426
+prj3,sbj2927,yes,monocyte,Monocyte,17.65524357149782
+prj3,sbj2927,yes,nk_cell,NK cell,12.535206269847443
+prj3,sbj2935,no,b_cell,B cell,8.656854850520665
+prj3,sbj2935,no,cd4_t_cell,CD4 T cell,30.4796743465419
+prj3,sbj2935,no,cd8_t_cell,CD8 T cell,23.657373241189187
+prj3,sbj2935,no,monocyte,Monocyte,22.94857592226637
+prj3,sbj2935,no,nk_cell,NK cell,14.257521639481881
+prj3,sbj2943,yes,b_cell,B cell,11.23362150724985
+prj3,sbj2943,yes,cd4_t_cell,CD4 T cell,29.42591257013649
+prj3,sbj2943,yes,cd8_t_cell,CD8 T cell,20.88712184425202
+prj3,sbj2943,yes,monocyte,Monocyte,20.280915379289915
+prj3,sbj2943,yes,nk_cell,NK cell,18.172428699071727
+prj3,sbj2944,yes,b_cell,B cell,10.402442599003429
+prj3,sbj2944,yes,cd4_t_cell,CD4 T cell,29.92449906216703
+prj3,sbj2944,yes,cd8_t_cell,CD8 T cell,25.230598013387635
+prj3,sbj2944,yes,monocyte,Monocyte,19.794516307728255
+prj3,sbj2944,yes,nk_cell,NK cell,14.647944017713655
+prj3,sbj2951,yes,b_cell,B cell,12.149145070781495
+prj3,sbj2951,yes,cd4_t_cell,CD4 T cell,26.813003846299466
+prj3,sbj2951,yes,cd8_t_cell,CD8 T cell,29.14756720264204
+prj3,sbj2951,yes,monocyte,Monocyte,17.326761673792106
+prj3,sbj2951,yes,nk_cell,NK cell,14.563522206484896
+prj3,sbj2952,yes,b_cell,B cell,8.477757310809674
+prj3,sbj2952,yes,cd4_t_cell,CD4 T cell,32.86945379808151
+prj3,sbj2952,yes,cd8_t_cell,CD8 T cell,27.330665889353238
+prj3,sbj2952,yes,monocyte,Monocyte,17.11079251139445
+prj3,sbj2952,yes,nk_cell,NK cell,14.211330490361128
+prj3,sbj2958,no,b_cell,B cell,7.5838497269826535
+prj3,sbj2958,no,cd4_t_cell,CD4 T cell,30.99718788242323
+prj3,sbj2958,no,cd8_t_cell,CD8 T cell,24.47690618542639
+prj3,sbj2958,no,monocyte,Monocyte,22.88500297549095
+prj3,sbj2958,no,nk_cell,NK cell,14.057053229676782
+prj3,sbj2965,yes,b_cell,B cell,8.0375236201119
+prj3,sbj2965,yes,cd4_t_cell,CD4 T cell,29.378031669585237
+prj3,sbj2965,yes,cd8_t_cell,CD8 T cell,26.151337429841465
+prj3,sbj2965,yes,monocyte,Monocyte,24.532689740337343
+prj3,sbj2965,yes,nk_cell,NK cell,11.900417540124055
+prj3,sbj2971,yes,b_cell,B cell,11.413756137553756
+prj3,sbj2971,yes,cd4_t_cell,CD4 T cell,29.93472051374373
+prj3,sbj2971,yes,cd8_t_cell,CD8 T cell,26.62423583183754
+prj3,sbj2971,yes,monocyte,Monocyte,18.97185862307742
+prj3,sbj2971,yes,nk_cell,NK cell,13.055428893787555
+prj3,sbj2973,no,b_cell,B cell,8.275687493441618
+prj3,sbj2973,no,cd4_t_cell,CD4 T cell,32.28205486164503
+prj3,sbj2973,no,cd8_t_cell,CD8 T cell,23.09693522024197
+prj3,sbj2973,no,monocyte,Monocyte,20.2927240745935
+prj3,sbj2973,no,nk_cell,NK cell,16.052598350077883
+prj3,sbj2975,yes,b_cell,B cell,8.93577475809659
+prj3,sbj2975,yes,cd4_t_cell,CD4 T cell,30.768090966648945
+prj3,sbj2975,yes,cd8_t_cell,CD8 T cell,25.930300406678498
+prj3,sbj2975,yes,monocyte,Monocyte,19.712002759304237
+prj3,sbj2975,yes,nk_cell,NK cell,14.653831109271733
+prj3,sbj2981,yes,b_cell,B cell,6.661647889385832
+prj3,sbj2981,yes,cd4_t_cell,CD4 T cell,30.750480060736034
+prj3,sbj2981,yes,cd8_t_cell,CD8 T cell,23.113760518040422
+prj3,sbj2981,yes,monocyte,Monocyte,25.495592698055713
+prj3,sbj2981,yes,nk_cell,NK cell,13.978518833782003
+prj3,sbj2982,yes,b_cell,B cell,7.662624498459812
+prj3,sbj2982,yes,cd4_t_cell,CD4 T cell,28.48303279588511
+prj3,sbj2982,yes,cd8_t_cell,CD8 T cell,27.358633605848627
+prj3,sbj2982,yes,monocyte,Monocyte,20.827874191849435
+prj3,sbj2982,yes,nk_cell,NK cell,15.667834907957015
+prj3,sbj2984,no,b_cell,B cell,9.406781287443321
+prj3,sbj2984,no,cd4_t_cell,CD4 T cell,34.66665750645317
+prj3,sbj2984,no,cd8_t_cell,CD8 T cell,22.644890211965574
+prj3,sbj2984,no,monocyte,Monocyte,16.01545193710123
+prj3,sbj2984,no,nk_cell,NK cell,17.266219057036704
+prj3,sbj2986,no,b_cell,B cell,13.79682057671072
+prj3,sbj2986,no,cd4_t_cell,CD4 T cell,27.695619152473437
+prj3,sbj2986,no,cd8_t_cell,CD8 T cell,24.923473489439136
+prj3,sbj2986,no,monocyte,Monocyte,20.251826363240266
+prj3,sbj2986,no,nk_cell,NK cell,13.33226041813644
+prj3,sbj2989,no,b_cell,B cell,7.845404679821061
+prj3,sbj2989,no,cd4_t_cell,CD4 T cell,30.7523282464949
+prj3,sbj2989,no,cd8_t_cell,CD8 T cell,26.16246862631692
+prj3,sbj2989,no,monocyte,Monocyte,19.52171631700511
+prj3,sbj2989,no,nk_cell,NK cell,15.718082130362012
+prj3,sbj2990,yes,b_cell,B cell,8.689934018057377
+prj3,sbj2990,yes,cd4_t_cell,CD4 T cell,34.00226839926381
+prj3,sbj2990,yes,cd8_t_cell,CD8 T cell,23.992620454486882
+prj3,sbj2990,yes,monocyte,Monocyte,13.353164435596275
+prj3,sbj2990,yes,nk_cell,NK cell,19.96201269259566
+prj3,sbj2992,no,b_cell,B cell,8.37482126550914
+prj3,sbj2992,no,cd4_t_cell,CD4 T cell,30.533626250334944
+prj3,sbj2992,no,cd8_t_cell,CD8 T cell,26.6987664076777
+prj3,sbj2992,no,monocyte,Monocyte,19.458922544277847
+prj3,sbj2992,no,nk_cell,NK cell,14.933863532200371
+prj3,sbj2993,yes,b_cell,B cell,7.170825583994343
+prj3,sbj2993,yes,cd4_t_cell,CD4 T cell,31.154750197807044
+prj3,sbj2993,yes,cd8_t_cell,CD8 T cell,24.576943181431975
+prj3,sbj2993,yes,monocyte,Monocyte,20.503079029671984
+prj3,sbj2993,yes,nk_cell,NK cell,16.59440200709465
+prj3,sbj3001,no,b_cell,B cell,7.752860907229484
+prj3,sbj3001,no,cd4_t_cell,CD4 T cell,24.235972237861123
+prj3,sbj3001,no,cd8_t_cell,CD8 T cell,29.77347401381795
+prj3,sbj3001,no,monocyte,Monocyte,22.87379865265484
+prj3,sbj3001,no,nk_cell,NK cell,15.363894188436598
+prj3,sbj3003,yes,b_cell,B cell,10.562337107503488
+prj3,sbj3003,yes,cd4_t_cell,CD4 T cell,33.07313768204756
+prj3,sbj3003,yes,cd8_t_cell,CD8 T cell,24.788122165592437
+prj3,sbj3003,yes,monocyte,Monocyte,17.32965402032755
+prj3,sbj3003,yes,nk_cell,NK cell,14.246749024528967
+prj3,sbj3006,yes,b_cell,B cell,11.110479780288983
+prj3,sbj3006,yes,cd4_t_cell,CD4 T cell,29.98550337448015
+prj3,sbj3006,yes,cd8_t_cell,CD8 T cell,27.90717881520635
+prj3,sbj3006,yes,monocyte,Monocyte,14.337423418309593
+prj3,sbj3006,yes,nk_cell,NK cell,16.659414611714922
+prj3,sbj3008,yes,b_cell,B cell,12.71149574067779
+prj3,sbj3008,yes,cd4_t_cell,CD4 T cell,33.066290936097765
+prj3,sbj3008,yes,cd8_t_cell,CD8 T cell,20.530932907605003
+prj3,sbj3008,yes,monocyte,Monocyte,18.225447187028454
+prj3,sbj3008,yes,nk_cell,NK cell,15.465833228590995
+prj3,sbj3010,no,b_cell,B cell,13.356178293954832
+prj3,sbj3010,no,cd4_t_cell,CD4 T cell,29.24196551344868
+prj3,sbj3010,no,cd8_t_cell,CD8 T cell,23.84432750921135
+prj3,sbj3010,no,monocyte,Monocyte,18.342041565071245
+prj3,sbj3010,no,nk_cell,NK cell,15.215487118313897
+prj3,sbj3012,no,b_cell,B cell,7.926171631765225
+prj3,sbj3012,no,cd4_t_cell,CD4 T cell,25.8526805638467
+prj3,sbj3012,no,cd8_t_cell,CD8 T cell,27.23941542070163
+prj3,sbj3012,no,monocyte,Monocyte,22.464874602999583
+prj3,sbj3012,no,nk_cell,NK cell,16.516857780686866
+prj3,sbj3013,no,b_cell,B cell,9.794159442885837
+prj3,sbj3013,no,cd4_t_cell,CD4 T cell,26.548756357586644
+prj3,sbj3013,no,cd8_t_cell,CD8 T cell,23.73151256510881
+prj3,sbj3013,no,monocyte,Monocyte,20.70705140677545
+prj3,sbj3013,no,nk_cell,NK cell,19.21852022764325
+prj3,sbj3016,no,b_cell,B cell,7.248806350886589
+prj3,sbj3016,no,cd4_t_cell,CD4 T cell,33.597219414835614
+prj3,sbj3016,no,cd8_t_cell,CD8 T cell,26.442432607086506
+prj3,sbj3016,no,monocyte,Monocyte,18.210631024717134
+prj3,sbj3016,no,nk_cell,NK cell,14.500910602474164
+prj3,sbj3020,no,b_cell,B cell,11.505157980084116
+prj3,sbj3020,no,cd4_t_cell,CD4 T cell,32.01892766412339
+prj3,sbj3020,no,cd8_t_cell,CD8 T cell,22.615088935697134
+prj3,sbj3020,no,monocyte,Monocyte,20.606796641203122
+prj3,sbj3020,no,nk_cell,NK cell,13.25402877889224
+prj3,sbj3022,no,b_cell,B cell,10.212660194197548
+prj3,sbj3022,no,cd4_t_cell,CD4 T cell,27.620749589669856
+prj3,sbj3022,no,cd8_t_cell,CD8 T cell,25.703997039572528
+prj3,sbj3022,no,monocyte,Monocyte,20.28938215153192
+prj3,sbj3022,no,nk_cell,NK cell,16.173211025028152
+prj3,sbj3024,yes,b_cell,B cell,9.539276349849908
+prj3,sbj3024,yes,cd4_t_cell,CD4 T cell,33.067701943024964
+prj3,sbj3024,yes,cd8_t_cell,CD8 T cell,22.129220004662574
+prj3,sbj3024,yes,monocyte,Monocyte,19.187347713493946
+prj3,sbj3024,yes,nk_cell,NK cell,16.076453988968606
+prj3,sbj3027,yes,b_cell,B cell,11.802010406193107
+prj3,sbj3027,yes,cd4_t_cell,CD4 T cell,31.966681721654638
+prj3,sbj3027,yes,cd8_t_cell,CD8 T cell,24.609876118457464
+prj3,sbj3027,yes,monocyte,Monocyte,19.109404588277698
+prj3,sbj3027,yes,nk_cell,NK cell,12.51202716541709
+prj3,sbj3029,yes,b_cell,B cell,8.786308395623179
+prj3,sbj3029,yes,cd4_t_cell,CD4 T cell,29.630878754685778
+prj3,sbj3029,yes,cd8_t_cell,CD8 T cell,25.02396340032277
+prj3,sbj3029,yes,monocyte,Monocyte,21.72760065691185
+prj3,sbj3029,yes,nk_cell,NK cell,14.831248792456416
+prj3,sbj3034,yes,b_cell,B cell,7.401300391730527
+prj3,sbj3034,yes,cd4_t_cell,CD4 T cell,30.484259604893378
+prj3,sbj3034,yes,cd8_t_cell,CD8 T cell,31.630514653804795
+prj3,sbj3034,yes,monocyte,Monocyte,14.380577376682389
+prj3,sbj3034,yes,nk_cell,NK cell,16.103347972888912
+prj3,sbj3038,yes,b_cell,B cell,9.948477637959556
+prj3,sbj3038,yes,cd4_t_cell,CD4 T cell,34.500949596299776
+prj3,sbj3038,yes,cd8_t_cell,CD8 T cell,23.88797734794146
+prj3,sbj3038,yes,monocyte,Monocyte,18.69909633263957
+prj3,sbj3038,yes,nk_cell,NK cell,12.963499085159631
+prj3,sbj3043,yes,b_cell,B cell,7.589445375390774
+prj3,sbj3043,yes,cd4_t_cell,CD4 T cell,33.2568166380234
+prj3,sbj3043,yes,cd8_t_cell,CD8 T cell,19.629073277627324
+prj3,sbj3043,yes,monocyte,Monocyte,19.60994771924827
+prj3,sbj3043,yes,nk_cell,NK cell,19.914716989710225
+prj3,sbj3048,yes,b_cell,B cell,10.891506322802298
+prj3,sbj3048,yes,cd4_t_cell,CD4 T cell,26.39914163250428
+prj3,sbj3048,yes,cd8_t_cell,CD8 T cell,30.468140424787887
+prj3,sbj3048,yes,monocyte,Monocyte,18.988046648215818
+prj3,sbj3048,yes,nk_cell,NK cell,13.253164971689722
+prj3,sbj3050,no,b_cell,B cell,9.67816743939858
+prj3,sbj3050,no,cd4_t_cell,CD4 T cell,29.817589495606175
+prj3,sbj3050,no,cd8_t_cell,CD8 T cell,29.82295687267154
+prj3,sbj3050,no,monocyte,Monocyte,19.90801016435608
+prj3,sbj3050,no,nk_cell,NK cell,10.773276027967626
+prj3,sbj3053,no,b_cell,B cell,8.249837137676113
+prj3,sbj3053,no,cd4_t_cell,CD4 T cell,27.708778974768318
+prj3,sbj3053,no,cd8_t_cell,CD8 T cell,28.301970756537703
+prj3,sbj3053,no,monocyte,Monocyte,22.09003512331464
+prj3,sbj3053,no,nk_cell,NK cell,13.649378007703227
+prj3,sbj3054,yes,b_cell,B cell,10.51752582488364
+prj3,sbj3054,yes,cd4_t_cell,CD4 T cell,30.651731964948947
+prj3,sbj3054,yes,cd8_t_cell,CD8 T cell,22.751731190067883
+prj3,sbj3054,yes,monocyte,Monocyte,22.71905079114886
+prj3,sbj3054,yes,nk_cell,NK cell,13.359960228950674
+prj3,sbj3057,yes,b_cell,B cell,13.020440180592127
+prj3,sbj3057,yes,cd4_t_cell,CD4 T cell,28.184895067352844
+prj3,sbj3057,yes,cd8_t_cell,CD8 T cell,28.71407909428609
+prj3,sbj3057,yes,monocyte,Monocyte,16.784188310222557
+prj3,sbj3057,yes,nk_cell,NK cell,13.29639734754638
+prj3,sbj3060,yes,b_cell,B cell,9.561171184728773
+prj3,sbj3060,yes,cd4_t_cell,CD4 T cell,34.20011245616386
+prj3,sbj3060,yes,cd8_t_cell,CD8 T cell,20.48897559068452
+prj3,sbj3060,yes,monocyte,Monocyte,18.759059148944104
+prj3,sbj3060,yes,nk_cell,NK cell,16.990681619478746
+prj3,sbj3061,no,b_cell,B cell,9.049139894588368
+prj3,sbj3061,no,cd4_t_cell,CD4 T cell,30.54993964738235
+prj3,sbj3061,no,cd8_t_cell,CD8 T cell,26.402365022974564
+prj3,sbj3061,no,monocyte,Monocyte,22.48061896191996
+prj3,sbj3061,no,nk_cell,NK cell,11.51793647313476
+prj3,sbj3066,yes,b_cell,B cell,12.36790969239597
+prj3,sbj3066,yes,cd4_t_cell,CD4 T cell,27.039980731852538
+prj3,sbj3066,yes,cd8_t_cell,CD8 T cell,26.077572387062588
+prj3,sbj3066,yes,monocyte,Monocyte,18.346500173209417
+prj3,sbj3066,yes,nk_cell,NK cell,16.16803701547948
+prj3,sbj3071,no,b_cell,B cell,9.149470321857816
+prj3,sbj3071,no,cd4_t_cell,CD4 T cell,27.958361677604334
+prj3,sbj3071,no,cd8_t_cell,CD8 T cell,24.980971399867993
+prj3,sbj3071,no,monocyte,Monocyte,21.17474239280093
+prj3,sbj3071,no,nk_cell,NK cell,16.736454207868928
+prj3,sbj3081,yes,b_cell,B cell,8.245828882578753
+prj3,sbj3081,yes,cd4_t_cell,CD4 T cell,31.692833875361007
+prj3,sbj3081,yes,cd8_t_cell,CD8 T cell,25.036083010346726
+prj3,sbj3081,yes,monocyte,Monocyte,16.315890707664366
+prj3,sbj3081,yes,nk_cell,NK cell,18.70936352404915
+prj3,sbj3082,no,b_cell,B cell,10.129510860716215
+prj3,sbj3082,no,cd4_t_cell,CD4 T cell,30.6015970810603
+prj3,sbj3082,no,cd8_t_cell,CD8 T cell,19.576194353457712
+prj3,sbj3082,no,monocyte,Monocyte,25.156079030826632
+prj3,sbj3082,no,nk_cell,NK cell,14.53661867393914
+prj3,sbj3083,no,b_cell,B cell,9.818199151545842
+prj3,sbj3083,no,cd4_t_cell,CD4 T cell,30.450155029126297
+prj3,sbj3083,no,cd8_t_cell,CD8 T cell,28.245388020419266
+prj3,sbj3083,no,monocyte,Monocyte,19.37901446041503
+prj3,sbj3083,no,nk_cell,NK cell,12.107243338493568
+prj3,sbj3096,no,b_cell,B cell,7.889759375569878
+prj3,sbj3096,no,cd4_t_cell,CD4 T cell,31.622091531822885
+prj3,sbj3096,no,cd8_t_cell,CD8 T cell,26.852725224327827
+prj3,sbj3096,no,monocyte,Monocyte,19.530165233927622
+prj3,sbj3096,no,nk_cell,NK cell,14.105258634351786
+prj3,sbj3098,no,b_cell,B cell,9.267418683346891
+prj3,sbj3098,no,cd4_t_cell,CD4 T cell,30.23363227068866
+prj3,sbj3098,no,cd8_t_cell,CD8 T cell,24.127387998075154
+prj3,sbj3098,no,monocyte,Monocyte,21.101147384389893
+prj3,sbj3098,no,nk_cell,NK cell,15.270413663499399
+prj3,sbj3100,yes,b_cell,B cell,5.866664103278474
+prj3,sbj3100,yes,cd4_t_cell,CD4 T cell,34.05049024684007
+prj3,sbj3100,yes,cd8_t_cell,CD8 T cell,27.912035386695653
+prj3,sbj3100,yes,monocyte,Monocyte,17.37966201028343
+prj3,sbj3100,yes,nk_cell,NK cell,14.791148252902369
+prj3,sbj3101,no,b_cell,B cell,8.547567324102467
+prj3,sbj3101,no,cd4_t_cell,CD4 T cell,31.255443527736144
+prj3,sbj3101,no,cd8_t_cell,CD8 T cell,21.764832574993818
+prj3,sbj3101,no,monocyte,Monocyte,24.755166370095424
+prj3,sbj3101,no,nk_cell,NK cell,13.676990203072146
+prj3,sbj3118,no,b_cell,B cell,11.059968553082015
+prj3,sbj3118,no,cd4_t_cell,CD4 T cell,27.058674290491027
+prj3,sbj3118,no,cd8_t_cell,CD8 T cell,24.272780316558038
+prj3,sbj3118,no,monocyte,Monocyte,20.365304360991786
+prj3,sbj3118,no,nk_cell,NK cell,17.243272478877135
+prj3,sbj3121,no,b_cell,B cell,11.04514055610145
+prj3,sbj3121,no,cd4_t_cell,CD4 T cell,27.52606763382145
+prj3,sbj3121,no,cd8_t_cell,CD8 T cell,21.167505869602532
+prj3,sbj3121,no,monocyte,Monocyte,21.880399166948212
+prj3,sbj3121,no,nk_cell,NK cell,18.380886773526353
+prj3,sbj3126,no,b_cell,B cell,9.655540744585211
+prj3,sbj3126,no,cd4_t_cell,CD4 T cell,31.61526096032165
+prj3,sbj3126,no,cd8_t_cell,CD8 T cell,23.72954639478739
+prj3,sbj3126,no,monocyte,Monocyte,20.18277058697934
+prj3,sbj3126,no,nk_cell,NK cell,14.816881313326405
+prj3,sbj3128,no,b_cell,B cell,8.267002689081664
+prj3,sbj3128,no,cd4_t_cell,CD4 T cell,26.681943250264577
+prj3,sbj3128,no,cd8_t_cell,CD8 T cell,26.55703207269894
+prj3,sbj3128,no,monocyte,Monocyte,23.66891639211326
+prj3,sbj3128,no,nk_cell,NK cell,14.825105595841558
+prj3,sbj3129,no,b_cell,B cell,9.8111402630729
+prj3,sbj3129,no,cd4_t_cell,CD4 T cell,34.1501039006259
+prj3,sbj3129,no,cd8_t_cell,CD8 T cell,22.82257857004147
+prj3,sbj3129,no,monocyte,Monocyte,17.055012219625183
+prj3,sbj3129,no,nk_cell,NK cell,16.16116504663455
+prj3,sbj3130,yes,b_cell,B cell,10.041674616434614
+prj3,sbj3130,yes,cd4_t_cell,CD4 T cell,26.27887305466855
+prj3,sbj3130,yes,cd8_t_cell,CD8 T cell,25.319527546391157
+prj3,sbj3130,yes,monocyte,Monocyte,23.379203125145512
+prj3,sbj3130,yes,nk_cell,NK cell,14.980721657360158
+prj3,sbj3131,yes,b_cell,B cell,10.568435862603877
+prj3,sbj3131,yes,cd4_t_cell,CD4 T cell,26.863640522174933
+prj3,sbj3131,yes,cd8_t_cell,CD8 T cell,25.484196944814318
+prj3,sbj3131,yes,monocyte,Monocyte,19.904769182504236
+prj3,sbj3131,yes,nk_cell,NK cell,17.178957487902636
+prj3,sbj3138,no,b_cell,B cell,11.125646961708318
+prj3,sbj3138,no,cd4_t_cell,CD4 T cell,30.76703504100281
+prj3,sbj3138,no,cd8_t_cell,CD8 T cell,22.596763195313926
+prj3,sbj3138,no,monocyte,Monocyte,22.410627235338534
+prj3,sbj3138,no,nk_cell,NK cell,13.099927566636412
+prj3,sbj3140,no,b_cell,B cell,13.885190962613635
+prj3,sbj3140,no,cd4_t_cell,CD4 T cell,30.965742852845718
+prj3,sbj3140,no,cd8_t_cell,CD8 T cell,21.76867835697732
+prj3,sbj3140,no,monocyte,Monocyte,18.01700893902752
+prj3,sbj3140,no,nk_cell,NK cell,15.363378888535811
+prj3,sbj3143,no,b_cell,B cell,9.157000021641297
+prj3,sbj3143,no,cd4_t_cell,CD4 T cell,31.547283726340662
+prj3,sbj3143,no,cd8_t_cell,CD8 T cell,23.267406411588997
+prj3,sbj3143,no,monocyte,Monocyte,22.28167435102594
+prj3,sbj3143,no,nk_cell,NK cell,13.746635489403104
+prj3,sbj3144,no,b_cell,B cell,10.347523612459588
+prj3,sbj3144,no,cd4_t_cell,CD4 T cell,28.94287036136493
+prj3,sbj3144,no,cd8_t_cell,CD8 T cell,23.460514973668342
+prj3,sbj3144,no,monocyte,Monocyte,22.326362257668347
+prj3,sbj3144,no,nk_cell,NK cell,14.922728794838799
+prj3,sbj3147,yes,b_cell,B cell,9.423875286123822
+prj3,sbj3147,yes,cd4_t_cell,CD4 T cell,28.32468671009316
+prj3,sbj3147,yes,cd8_t_cell,CD8 T cell,28.873934704473086
+prj3,sbj3147,yes,monocyte,Monocyte,16.842261282089446
+prj3,sbj3147,yes,nk_cell,NK cell,16.535242017220483
+prj3,sbj3150,yes,b_cell,B cell,5.254563150323843
+prj3,sbj3150,yes,cd4_t_cell,CD4 T cell,36.72400372089852
+prj3,sbj3150,yes,cd8_t_cell,CD8 T cell,22.945122864990854
+prj3,sbj3150,yes,monocyte,Monocyte,21.77938904394715
+prj3,sbj3150,yes,nk_cell,NK cell,13.29692121983963
+prj3,sbj3153,yes,b_cell,B cell,11.73354785035992
+prj3,sbj3153,yes,cd4_t_cell,CD4 T cell,27.774229392879985
+prj3,sbj3153,yes,cd8_t_cell,CD8 T cell,24.776229875726575
+prj3,sbj3153,yes,monocyte,Monocyte,17.896209299039935
+prj3,sbj3153,yes,nk_cell,NK cell,17.819783581993587
+prj3,sbj3156,yes,b_cell,B cell,8.506113746985863
+prj3,sbj3156,yes,cd4_t_cell,CD4 T cell,31.439066757456022
+prj3,sbj3156,yes,cd8_t_cell,CD8 T cell,20.71436142933351
+prj3,sbj3156,yes,monocyte,Monocyte,15.703499022912789
+prj3,sbj3156,yes,nk_cell,NK cell,23.636959043311816
+prj3,sbj3159,no,b_cell,B cell,11.999845889110938
+prj3,sbj3159,no,cd4_t_cell,CD4 T cell,27.376025294130525
+prj3,sbj3159,no,cd8_t_cell,CD8 T cell,25.928100114357733
+prj3,sbj3159,no,monocyte,Monocyte,19.81247382606976
+prj3,sbj3159,no,nk_cell,NK cell,14.883554876331052
+prj3,sbj3161,no,b_cell,B cell,10.077208492093476
+prj3,sbj3161,no,cd4_t_cell,CD4 T cell,32.34208475732133
+prj3,sbj3161,no,cd8_t_cell,CD8 T cell,27.596295687699154
+prj3,sbj3161,no,monocyte,Monocyte,18.17645990117891
+prj3,sbj3161,no,nk_cell,NK cell,11.80795116170713
+prj3,sbj3162,yes,b_cell,B cell,5.568478010282394
+prj3,sbj3162,yes,cd4_t_cell,CD4 T cell,32.83317622094458
+prj3,sbj3162,yes,cd8_t_cell,CD8 T cell,23.055422279253747
+prj3,sbj3162,yes,monocyte,Monocyte,23.660566727479708
+prj3,sbj3162,yes,nk_cell,NK cell,14.882356762039569
+prj3,sbj3163,yes,b_cell,B cell,7.5045118645931055
+prj3,sbj3163,yes,cd4_t_cell,CD4 T cell,32.24861702743754
+prj3,sbj3163,yes,cd8_t_cell,CD8 T cell,26.58772727766554
+prj3,sbj3163,yes,monocyte,Monocyte,19.269431639859256
+prj3,sbj3163,yes,nk_cell,NK cell,14.389712190444568
+prj3,sbj3164,no,b_cell,B cell,9.007564546934455
+prj3,sbj3164,no,cd4_t_cell,CD4 T cell,26.35136875763968
+prj3,sbj3164,no,cd8_t_cell,CD8 T cell,27.464535783700413
+prj3,sbj3164,no,monocyte,Monocyte,22.98518280759171
+prj3,sbj3164,no,nk_cell,NK cell,14.191348104133743
+prj3,sbj3165,yes,b_cell,B cell,10.562277849892814
+prj3,sbj3165,yes,cd4_t_cell,CD4 T cell,29.213596617548166
+prj3,sbj3165,yes,cd8_t_cell,CD8 T cell,23.293792953158345
+prj3,sbj3165,yes,monocyte,Monocyte,18.21381506973793
+prj3,sbj3165,yes,nk_cell,NK cell,18.716517509662747
+prj3,sbj3171,yes,b_cell,B cell,9.243010213495632
+prj3,sbj3171,yes,cd4_t_cell,CD4 T cell,28.2728432653133
+prj3,sbj3171,yes,cd8_t_cell,CD8 T cell,27.89212953659879
+prj3,sbj3171,yes,monocyte,Monocyte,18.725838078284465
+prj3,sbj3171,yes,nk_cell,NK cell,15.866178906307814
+prj3,sbj3173,yes,b_cell,B cell,8.748041806642094
+prj3,sbj3173,yes,cd4_t_cell,CD4 T cell,29.827749918874606
+prj3,sbj3173,yes,cd8_t_cell,CD8 T cell,24.79587212123513
+prj3,sbj3173,yes,monocyte,Monocyte,22.197442613512266
+prj3,sbj3173,yes,nk_cell,NK cell,14.43089353973591
+prj3,sbj3182,yes,b_cell,B cell,9.228223751227928
+prj3,sbj3182,yes,cd4_t_cell,CD4 T cell,28.126463706665817
+prj3,sbj3182,yes,cd8_t_cell,CD8 T cell,24.917947573454985
+prj3,sbj3182,yes,monocyte,Monocyte,22.267699755572448
+prj3,sbj3182,yes,nk_cell,NK cell,15.459665213078827
+prj3,sbj3185,no,b_cell,B cell,12.568964341711817
+prj3,sbj3185,no,cd4_t_cell,CD4 T cell,29.379939409568127
+prj3,sbj3185,no,cd8_t_cell,CD8 T cell,24.792288818779014
+prj3,sbj3185,no,monocyte,Monocyte,19.88502087466874
+prj3,sbj3185,no,nk_cell,NK cell,13.373786555272298
+prj3,sbj3189,no,b_cell,B cell,8.40056554059786
+prj3,sbj3189,no,cd4_t_cell,CD4 T cell,29.11319786040549
+prj3,sbj3189,no,cd8_t_cell,CD8 T cell,23.6022114555644
+prj3,sbj3189,no,monocyte,Monocyte,21.353919984017043
+prj3,sbj3189,no,nk_cell,NK cell,17.53010515941521
+prj3,sbj3191,yes,b_cell,B cell,12.104183420381444
+prj3,sbj3191,yes,cd4_t_cell,CD4 T cell,27.93569726401
+prj3,sbj3191,yes,cd8_t_cell,CD8 T cell,26.423078249265387
+prj3,sbj3191,yes,monocyte,Monocyte,15.016033833264265
+prj3,sbj3191,yes,nk_cell,NK cell,18.5210072330789
+prj3,sbj3193,yes,b_cell,B cell,8.92631067534746
+prj3,sbj3193,yes,cd4_t_cell,CD4 T cell,31.411891504448324
+prj3,sbj3193,yes,cd8_t_cell,CD8 T cell,23.650738457748247
+prj3,sbj3193,yes,monocyte,Monocyte,20.63909740655189
+prj3,sbj3193,yes,nk_cell,NK cell,15.371961955904071
+prj3,sbj3194,yes,b_cell,B cell,10.200086669841962
+prj3,sbj3194,yes,cd4_t_cell,CD4 T cell,29.50221254518154
+prj3,sbj3194,yes,cd8_t_cell,CD8 T cell,23.745573040117478
+prj3,sbj3194,yes,monocyte,Monocyte,24.226351692674296
+prj3,sbj3194,yes,nk_cell,NK cell,12.325776052184722
+prj3,sbj3195,no,b_cell,B cell,11.968049582333132
+prj3,sbj3195,no,cd4_t_cell,CD4 T cell,37.72097467502714
+prj3,sbj3195,no,cd8_t_cell,CD8 T cell,23.935087776569947
+prj3,sbj3195,no,monocyte,Monocyte,15.821385303059762
+prj3,sbj3195,no,nk_cell,NK cell,10.554502663010007
+prj3,sbj3196,no,b_cell,B cell,9.872413590490028
+prj3,sbj3196,no,cd4_t_cell,CD4 T cell,28.322790588503562
+prj3,sbj3196,no,cd8_t_cell,CD8 T cell,22.182680479821215
+prj3,sbj3196,no,monocyte,Monocyte,25.243949293810406
+prj3,sbj3196,no,nk_cell,NK cell,14.378166047374785
+prj3,sbj3197,yes,b_cell,B cell,11.201498082142647
+prj3,sbj3197,yes,cd4_t_cell,CD4 T cell,26.87051538676566
+prj3,sbj3197,yes,cd8_t_cell,CD8 T cell,24.868328123277326
+prj3,sbj3197,yes,monocyte,Monocyte,23.156637464373222
+prj3,sbj3197,yes,nk_cell,NK cell,13.90302094344114
+prj3,sbj3199,yes,b_cell,B cell,9.827723132075162
+prj3,sbj3199,yes,cd4_t_cell,CD4 T cell,29.98443538325927
+prj3,sbj3199,yes,cd8_t_cell,CD8 T cell,22.127332046335606
+prj3,sbj3199,yes,monocyte,Monocyte,21.657336633915644
+prj3,sbj3199,yes,nk_cell,NK cell,16.403172804414318
+prj3,sbj3202,yes,b_cell,B cell,12.87940774894578
+prj3,sbj3202,yes,cd4_t_cell,CD4 T cell,28.897156275439844
+prj3,sbj3202,yes,cd8_t_cell,CD8 T cell,27.215975624835426
+prj3,sbj3202,yes,monocyte,Monocyte,18.710855301858697
+prj3,sbj3202,yes,nk_cell,NK cell,12.296605048920249
+prj3,sbj3204,yes,b_cell,B cell,6.962378791486752
+prj3,sbj3204,yes,cd4_t_cell,CD4 T cell,37.306824147630415
+prj3,sbj3204,yes,cd8_t_cell,CD8 T cell,23.183534344821158
+prj3,sbj3204,yes,monocyte,Monocyte,17.341549077266837
+prj3,sbj3204,yes,nk_cell,NK cell,15.205713638794833
+prj3,sbj3205,yes,b_cell,B cell,10.714147427480802
+prj3,sbj3205,yes,cd4_t_cell,CD4 T cell,29.82012087367777
+prj3,sbj3205,yes,cd8_t_cell,CD8 T cell,27.254542934134538
+prj3,sbj3205,yes,monocyte,Monocyte,17.788929761610675
+prj3,sbj3205,yes,nk_cell,NK cell,14.422259003096213
+prj3,sbj3209,no,b_cell,B cell,10.196389255996586
+prj3,sbj3209,no,cd4_t_cell,CD4 T cell,27.92734765452498
+prj3,sbj3209,no,cd8_t_cell,CD8 T cell,22.368857273764718
+prj3,sbj3209,no,monocyte,Monocyte,25.25345570441445
+prj3,sbj3209,no,nk_cell,NK cell,14.25395011129927
+prj3,sbj3219,no,b_cell,B cell,8.40891232172835
+prj3,sbj3219,no,cd4_t_cell,CD4 T cell,33.660257937396146
+prj3,sbj3219,no,cd8_t_cell,CD8 T cell,23.181069013821382
+prj3,sbj3219,no,monocyte,Monocyte,19.064902968442595
+prj3,sbj3219,no,nk_cell,NK cell,15.684857758611528
+prj3,sbj3222,yes,b_cell,B cell,8.645945731682884
+prj3,sbj3222,yes,cd4_t_cell,CD4 T cell,30.13156253898627
+prj3,sbj3222,yes,cd8_t_cell,CD8 T cell,23.948130503484162
+prj3,sbj3222,yes,monocyte,Monocyte,18.759244150764673
+prj3,sbj3222,yes,nk_cell,NK cell,18.515117075082014
+prj3,sbj3224,no,b_cell,B cell,9.614051287547847
+prj3,sbj3224,no,cd4_t_cell,CD4 T cell,31.07737095254578
+prj3,sbj3224,no,cd8_t_cell,CD8 T cell,24.094259617716528
+prj3,sbj3224,no,monocyte,Monocyte,19.411146029090133
+prj3,sbj3224,no,nk_cell,NK cell,15.803172113099706
+prj3,sbj3230,yes,b_cell,B cell,8.375878895108277
+prj3,sbj3230,yes,cd4_t_cell,CD4 T cell,30.05449437214548
+prj3,sbj3230,yes,cd8_t_cell,CD8 T cell,25.971537513525533
+prj3,sbj3230,yes,monocyte,Monocyte,20.55830175649829
+prj3,sbj3230,yes,nk_cell,NK cell,15.039787462722416
+prj3,sbj3233,yes,b_cell,B cell,10.021187287177783
+prj3,sbj3233,yes,cd4_t_cell,CD4 T cell,28.42811247664036
+prj3,sbj3233,yes,cd8_t_cell,CD8 T cell,29.982050091143197
+prj3,sbj3233,yes,monocyte,Monocyte,17.388393550004135
+prj3,sbj3233,yes,nk_cell,NK cell,14.180256595034521
+prj3,sbj3235,yes,b_cell,B cell,8.439152138356649
+prj3,sbj3235,yes,cd4_t_cell,CD4 T cell,31.650626409506483
+prj3,sbj3235,yes,cd8_t_cell,CD8 T cell,26.81721412414029
+prj3,sbj3235,yes,monocyte,Monocyte,19.012635153211676
+prj3,sbj3235,yes,nk_cell,NK cell,14.080372174784905
+prj3,sbj3240,yes,b_cell,B cell,10.542820019781411
+prj3,sbj3240,yes,cd4_t_cell,CD4 T cell,31.441361484976966
+prj3,sbj3240,yes,cd8_t_cell,CD8 T cell,24.15179789497431
+prj3,sbj3240,yes,monocyte,Monocyte,21.696304586332534
+prj3,sbj3240,yes,nk_cell,NK cell,12.167716013934774
+prj3,sbj3248,no,b_cell,B cell,10.487610909731305
+prj3,sbj3248,no,cd4_t_cell,CD4 T cell,27.63451025528091
+prj3,sbj3248,no,cd8_t_cell,CD8 T cell,24.778893086074103
+prj3,sbj3248,no,monocyte,Monocyte,19.664232056916898
+prj3,sbj3248,no,nk_cell,NK cell,17.434753691996786
+prj3,sbj3252,no,b_cell,B cell,10.816320454911127
+prj3,sbj3252,no,cd4_t_cell,CD4 T cell,31.995148343598984
+prj3,sbj3252,no,cd8_t_cell,CD8 T cell,24.19184497290875
+prj3,sbj3252,no,monocyte,Monocyte,16.761079732635487
+prj3,sbj3252,no,nk_cell,NK cell,16.235606495945657
+prj3,sbj3254,no,b_cell,B cell,8.62938961239278
+prj3,sbj3254,no,cd4_t_cell,CD4 T cell,31.898255024380415
+prj3,sbj3254,no,cd8_t_cell,CD8 T cell,26.756143898568272
+prj3,sbj3254,no,monocyte,Monocyte,17.7563819349913
+prj3,sbj3254,no,nk_cell,NK cell,14.959829529667223
+prj3,sbj3261,yes,b_cell,B cell,9.872306875101915
+prj3,sbj3261,yes,cd4_t_cell,CD4 T cell,30.037504382627755
+prj3,sbj3261,yes,cd8_t_cell,CD8 T cell,21.918128175558792
+prj3,sbj3261,yes,monocyte,Monocyte,21.492250534573937
+prj3,sbj3261,yes,nk_cell,NK cell,16.679810032137606
+prj3,sbj3266,yes,b_cell,B cell,8.141812026041753
+prj3,sbj3266,yes,cd4_t_cell,CD4 T cell,30.314854375191498
+prj3,sbj3266,yes,cd8_t_cell,CD8 T cell,26.980722902869857
+prj3,sbj3266,yes,monocyte,Monocyte,22.648233503892083
+prj3,sbj3266,yes,nk_cell,NK cell,11.914377192004812
+prj3,sbj3271,no,b_cell,B cell,9.724184910026528
+prj3,sbj3271,no,cd4_t_cell,CD4 T cell,29.173528298987474
+prj3,sbj3271,no,cd8_t_cell,CD8 T cell,26.040519578206887
+prj3,sbj3271,no,monocyte,Monocyte,19.69324924805943
+prj3,sbj3271,no,nk_cell,NK cell,15.368517964719677
+prj3,sbj3272,no,b_cell,B cell,8.531307212654639
+prj3,sbj3272,no,cd4_t_cell,CD4 T cell,32.51758711742301
+prj3,sbj3272,no,cd8_t_cell,CD8 T cell,25.807854431650096
+prj3,sbj3272,no,monocyte,Monocyte,16.74271141277413
+prj3,sbj3272,no,nk_cell,NK cell,16.400539825498118
+prj3,sbj3290,no,b_cell,B cell,11.151216779242281
+prj3,sbj3290,no,cd4_t_cell,CD4 T cell,35.64217780505302
+prj3,sbj3290,no,cd8_t_cell,CD8 T cell,24.479759009035437
+prj3,sbj3290,no,monocyte,Monocyte,15.216329769012921
+prj3,sbj3290,no,nk_cell,NK cell,13.510516637656346
+prj3,sbj3291,no,b_cell,B cell,11.883853729079755
+prj3,sbj3291,no,cd4_t_cell,CD4 T cell,29.540250919258952
+prj3,sbj3291,no,cd8_t_cell,CD8 T cell,23.84446201531905
+prj3,sbj3291,no,monocyte,Monocyte,16.28254708614941
+prj3,sbj3291,no,nk_cell,NK cell,18.448886250192835
+prj3,sbj3298,no,b_cell,B cell,9.858280406809715
+prj3,sbj3298,no,cd4_t_cell,CD4 T cell,29.52066624119764
+prj3,sbj3298,no,cd8_t_cell,CD8 T cell,27.168028385539344
+prj3,sbj3298,no,monocyte,Monocyte,21.57653729449483
+prj3,sbj3298,no,nk_cell,NK cell,11.876487671958472
+prj3,sbj3300,no,b_cell,B cell,9.4816670965697
+prj3,sbj3300,no,cd4_t_cell,CD4 T cell,27.893054127467675
+prj3,sbj3300,no,cd8_t_cell,CD8 T cell,28.624644413985347
+prj3,sbj3300,no,monocyte,Monocyte,20.573598908883472
+prj3,sbj3300,no,nk_cell,NK cell,13.42703545309381
+prj3,sbj3301,no,b_cell,B cell,9.91003226791922
+prj3,sbj3301,no,cd4_t_cell,CD4 T cell,28.931963607141864
+prj3,sbj3301,no,cd8_t_cell,CD8 T cell,25.17451185517606
+prj3,sbj3301,no,monocyte,Monocyte,19.398754939780037
+prj3,sbj3301,no,nk_cell,NK cell,16.58473732998282
+prj3,sbj3303,yes,b_cell,B cell,15.573014843264124
+prj3,sbj3303,yes,cd4_t_cell,CD4 T cell,33.91803395967054
+prj3,sbj3303,yes,cd8_t_cell,CD8 T cell,19.74621871690959
+prj3,sbj3303,yes,monocyte,Monocyte,20.30065670601269
+prj3,sbj3303,yes,nk_cell,NK cell,10.462075774143058
+prj3,sbj3304,no,b_cell,B cell,10.007937075942545
+prj3,sbj3304,no,cd4_t_cell,CD4 T cell,27.80245092546326
+prj3,sbj3304,no,cd8_t_cell,CD8 T cell,23.554994734077116
+prj3,sbj3304,no,monocyte,Monocyte,19.03879659733859
+prj3,sbj3304,no,nk_cell,NK cell,19.59582066717849
+prj3,sbj3306,no,b_cell,B cell,9.16540016850412
+prj3,sbj3306,no,cd4_t_cell,CD4 T cell,30.173067508966597
+prj3,sbj3306,no,cd8_t_cell,CD8 T cell,23.674819948112212
+prj3,sbj3306,no,monocyte,Monocyte,24.587261018686174
+prj3,sbj3306,no,nk_cell,NK cell,12.399451355730902
+prj3,sbj3308,yes,b_cell,B cell,11.151513628651651
+prj3,sbj3308,yes,cd4_t_cell,CD4 T cell,32.30163598695292
+prj3,sbj3308,yes,cd8_t_cell,CD8 T cell,23.544462245254408
+prj3,sbj3308,yes,monocyte,Monocyte,21.243510050892453
+prj3,sbj3308,yes,nk_cell,NK cell,11.758878088248572
+prj3,sbj3321,yes,b_cell,B cell,11.955104064753757
+prj3,sbj3321,yes,cd4_t_cell,CD4 T cell,28.38155260378282
+prj3,sbj3321,yes,cd8_t_cell,CD8 T cell,25.61644735031175
+prj3,sbj3321,yes,monocyte,Monocyte,16.68086171654959
+prj3,sbj3321,yes,nk_cell,NK cell,17.366034264602092
+prj3,sbj3326,yes,b_cell,B cell,10.689171145849878
+prj3,sbj3326,yes,cd4_t_cell,CD4 T cell,28.019817996761148
+prj3,sbj3326,yes,cd8_t_cell,CD8 T cell,25.375308156688074
+prj3,sbj3326,yes,monocyte,Monocyte,18.1392187453777
+prj3,sbj3326,yes,nk_cell,NK cell,17.776483955323204
+prj3,sbj3329,no,b_cell,B cell,9.036964341297692
+prj3,sbj3329,no,cd4_t_cell,CD4 T cell,28.514930588970486
+prj3,sbj3329,no,cd8_t_cell,CD8 T cell,30.34968308973431
+prj3,sbj3329,no,monocyte,Monocyte,21.184310123532335
+prj3,sbj3329,no,nk_cell,NK cell,10.914111856465178
+prj3,sbj3330,yes,b_cell,B cell,9.091601306843765
+prj3,sbj3330,yes,cd4_t_cell,CD4 T cell,35.9579872702625
+prj3,sbj3330,yes,cd8_t_cell,CD8 T cell,21.25480645354347
+prj3,sbj3330,yes,monocyte,Monocyte,18.81544671858291
+prj3,sbj3330,yes,nk_cell,NK cell,14.88015825076736
+prj3,sbj3332,yes,b_cell,B cell,11.353884554350502
+prj3,sbj3332,yes,cd4_t_cell,CD4 T cell,35.63929893715267
+prj3,sbj3332,yes,cd8_t_cell,CD8 T cell,24.686274405018924
+prj3,sbj3332,yes,monocyte,Monocyte,16.8937944183773
+prj3,sbj3332,yes,nk_cell,NK cell,11.4267476851006
+prj3,sbj3333,no,b_cell,B cell,10.105795928855294
+prj3,sbj3333,no,cd4_t_cell,CD4 T cell,27.339879978582644
+prj3,sbj3333,no,cd8_t_cell,CD8 T cell,25.421489317351103
+prj3,sbj3333,no,monocyte,Monocyte,20.660518422939308
+prj3,sbj3333,no,nk_cell,NK cell,16.472316352271648
+prj3,sbj3346,yes,b_cell,B cell,7.855523977988294
+prj3,sbj3346,yes,cd4_t_cell,CD4 T cell,29.953911873930835
+prj3,sbj3346,yes,cd8_t_cell,CD8 T cell,26.625989908551322
+prj3,sbj3346,yes,monocyte,Monocyte,25.1801971481661
+prj3,sbj3346,yes,nk_cell,NK cell,10.38437709136344
+prj3,sbj3347,yes,b_cell,B cell,10.112005116774409
+prj3,sbj3347,yes,cd4_t_cell,CD4 T cell,29.05266831316413
+prj3,sbj3347,yes,cd8_t_cell,CD8 T cell,20.00828055448017
+prj3,sbj3347,yes,monocyte,Monocyte,21.08315594832223
+prj3,sbj3347,yes,nk_cell,NK cell,19.74389006725907
+prj3,sbj3356,no,b_cell,B cell,8.517036112911855
+prj3,sbj3356,no,cd4_t_cell,CD4 T cell,32.735304660718505
+prj3,sbj3356,no,cd8_t_cell,CD8 T cell,26.345311484393008
+prj3,sbj3356,no,monocyte,Monocyte,19.932036911040996
+prj3,sbj3356,no,nk_cell,NK cell,12.470310830935638
+prj3,sbj3363,no,b_cell,B cell,9.505106132633259
+prj3,sbj3363,no,cd4_t_cell,CD4 T cell,25.81455533125124
+prj3,sbj3363,no,cd8_t_cell,CD8 T cell,26.742888032947537
+prj3,sbj3363,no,monocyte,Monocyte,23.80375054495308
+prj3,sbj3363,no,nk_cell,NK cell,14.133699958214883
+prj3,sbj3365,yes,b_cell,B cell,9.15478850635535
+prj3,sbj3365,yes,cd4_t_cell,CD4 T cell,26.996903352036085
+prj3,sbj3365,yes,cd8_t_cell,CD8 T cell,25.736812282179784
+prj3,sbj3365,yes,monocyte,Monocyte,23.56686027771452
+prj3,sbj3365,yes,nk_cell,NK cell,14.54463558171426
+prj3,sbj3372,yes,b_cell,B cell,9.533069112050681
+prj3,sbj3372,yes,cd4_t_cell,CD4 T cell,35.15233378730206
+prj3,sbj3372,yes,cd8_t_cell,CD8 T cell,27.774366765314415
+prj3,sbj3372,yes,monocyte,Monocyte,16.398399543382013
+prj3,sbj3372,yes,nk_cell,NK cell,11.141830791950825
+prj3,sbj3375,yes,b_cell,B cell,11.67176385684006
+prj3,sbj3375,yes,cd4_t_cell,CD4 T cell,30.20981709190839
+prj3,sbj3375,yes,cd8_t_cell,CD8 T cell,19.9493264870675
+prj3,sbj3375,yes,monocyte,Monocyte,22.18279022101794
+prj3,sbj3375,yes,nk_cell,NK cell,15.986302343166104
+prj3,sbj3376,yes,b_cell,B cell,10.166072651110968
+prj3,sbj3376,yes,cd4_t_cell,CD4 T cell,30.3458026107911
+prj3,sbj3376,yes,cd8_t_cell,CD8 T cell,27.532149605996427
+prj3,sbj3376,yes,monocyte,Monocyte,20.69299686799551
+prj3,sbj3376,yes,nk_cell,NK cell,11.26297826410599
+prj3,sbj3377,yes,b_cell,B cell,11.005596332123085
+prj3,sbj3377,yes,cd4_t_cell,CD4 T cell,31.193130744785737
+prj3,sbj3377,yes,cd8_t_cell,CD8 T cell,23.196553211084808
+prj3,sbj3377,yes,monocyte,Monocyte,19.816723684549753
+prj3,sbj3377,yes,nk_cell,NK cell,14.78799602745661
+prj3,sbj3380,yes,b_cell,B cell,10.258535029026845
+prj3,sbj3380,yes,cd4_t_cell,CD4 T cell,28.26270277883801
+prj3,sbj3380,yes,cd8_t_cell,CD8 T cell,20.87446695417721
+prj3,sbj3380,yes,monocyte,Monocyte,23.81202758904055
+prj3,sbj3380,yes,nk_cell,NK cell,16.792267648917385
+prj3,sbj3393,yes,b_cell,B cell,11.633667538417257
+prj3,sbj3393,yes,cd4_t_cell,CD4 T cell,34.243433233795294
+prj3,sbj3393,yes,cd8_t_cell,CD8 T cell,25.322558291073694
+prj3,sbj3393,yes,monocyte,Monocyte,16.64691084609224
+prj3,sbj3393,yes,nk_cell,NK cell,12.153430090621518
+prj3,sbj3397,no,b_cell,B cell,10.286733816035905
+prj3,sbj3397,no,cd4_t_cell,CD4 T cell,31.206552982622497
+prj3,sbj3397,no,cd8_t_cell,CD8 T cell,21.941108626463432
+prj3,sbj3397,no,monocyte,Monocyte,21.309662505374884
+prj3,sbj3397,no,nk_cell,NK cell,15.255942069503277
+prj3,sbj3399,yes,b_cell,B cell,11.053313208699253
+prj3,sbj3399,yes,cd4_t_cell,CD4 T cell,29.588991926853666
+prj3,sbj3399,yes,cd8_t_cell,CD8 T cell,27.630502002363936
+prj3,sbj3399,yes,monocyte,Monocyte,18.579469126592166
+prj3,sbj3399,yes,nk_cell,NK cell,13.147723735490978
+prj3,sbj3410,no,b_cell,B cell,10.875353912970679
+prj3,sbj3410,no,cd4_t_cell,CD4 T cell,29.47377806798578
+prj3,sbj3410,no,cd8_t_cell,CD8 T cell,21.946538286213833
+prj3,sbj3410,no,monocyte,Monocyte,22.128689809238367
+prj3,sbj3410,no,nk_cell,NK cell,15.575639923591341
+prj3,sbj3411,yes,b_cell,B cell,9.930944139538726
+prj3,sbj3411,yes,cd4_t_cell,CD4 T cell,28.665536213853816
+prj3,sbj3411,yes,cd8_t_cell,CD8 T cell,29.292278291714155
+prj3,sbj3411,yes,monocyte,Monocyte,19.56051846987295
+prj3,sbj3411,yes,nk_cell,NK cell,12.550722885020358
+prj3,sbj3416,yes,b_cell,B cell,9.36152724201794
+prj3,sbj3416,yes,cd4_t_cell,CD4 T cell,36.70502042189352
+prj3,sbj3416,yes,cd8_t_cell,CD8 T cell,24.803556852727883
+prj3,sbj3416,yes,monocyte,Monocyte,14.63095645287626
+prj3,sbj3416,yes,nk_cell,NK cell,14.498939030484399
+prj3,sbj3417,no,b_cell,B cell,8.580150741342974
+prj3,sbj3417,no,cd4_t_cell,CD4 T cell,34.32831002530713
+prj3,sbj3417,no,cd8_t_cell,CD8 T cell,23.264755691307215
+prj3,sbj3417,no,monocyte,Monocyte,18.799424318355687
+prj3,sbj3417,no,nk_cell,NK cell,15.027359223686986
+prj3,sbj3422,no,b_cell,B cell,12.035714062872755
+prj3,sbj3422,no,cd4_t_cell,CD4 T cell,28.160696253399905
+prj3,sbj3422,no,cd8_t_cell,CD8 T cell,24.057579464491933
+prj3,sbj3422,no,monocyte,Monocyte,20.71842568725481
+prj3,sbj3422,no,nk_cell,NK cell,15.027584531980596
+prj3,sbj3435,no,b_cell,B cell,10.634701305282022
+prj3,sbj3435,no,cd4_t_cell,CD4 T cell,30.269055028539054
+prj3,sbj3435,no,cd8_t_cell,CD8 T cell,25.819956955389028
+prj3,sbj3435,no,monocyte,Monocyte,20.97470123375101
+prj3,sbj3435,no,nk_cell,NK cell,12.301585477038886
+prj3,sbj3440,no,b_cell,B cell,10.832350100767899
+prj3,sbj3440,no,cd4_t_cell,CD4 T cell,26.161566953759884
+prj3,sbj3440,no,cd8_t_cell,CD8 T cell,27.82688739662284
+prj3,sbj3440,no,monocyte,Monocyte,18.555123767329864
+prj3,sbj3440,no,nk_cell,NK cell,16.624071781519508
+prj3,sbj3441,yes,b_cell,B cell,9.977762599905963
+prj3,sbj3441,yes,cd4_t_cell,CD4 T cell,29.053129182595256
+prj3,sbj3441,yes,cd8_t_cell,CD8 T cell,20.678314955600808
+prj3,sbj3441,yes,monocyte,Monocyte,22.03648986204776
+prj3,sbj3441,yes,nk_cell,NK cell,18.254303399850215
+prj3,sbj3445,yes,b_cell,B cell,6.074153518231838
+prj3,sbj3445,yes,cd4_t_cell,CD4 T cell,29.92649341853627
+prj3,sbj3445,yes,cd8_t_cell,CD8 T cell,26.68661187391687
+prj3,sbj3445,yes,monocyte,Monocyte,23.740544491461282
+prj3,sbj3445,yes,nk_cell,NK cell,13.572196697853736
+prj3,sbj3447,yes,b_cell,B cell,10.023288227786999
+prj3,sbj3447,yes,cd4_t_cell,CD4 T cell,32.826483396273055
+prj3,sbj3447,yes,cd8_t_cell,CD8 T cell,25.379489499865482
+prj3,sbj3447,yes,monocyte,Monocyte,14.956121410126594
+prj3,sbj3447,yes,nk_cell,NK cell,16.814617465947872
+prj3,sbj3449,yes,b_cell,B cell,10.4427239610239
+prj3,sbj3449,yes,cd4_t_cell,CD4 T cell,31.532667840026974
+prj3,sbj3449,yes,cd8_t_cell,CD8 T cell,22.484573700195607
+prj3,sbj3449,yes,monocyte,Monocyte,19.033686963268764
+prj3,sbj3449,yes,nk_cell,NK cell,16.50634753548476
+prj3,sbj3452,yes,b_cell,B cell,10.1555338199818
+prj3,sbj3452,yes,cd4_t_cell,CD4 T cell,31.019865046577838
+prj3,sbj3452,yes,cd8_t_cell,CD8 T cell,24.578946277480483
+prj3,sbj3452,yes,monocyte,Monocyte,16.79447292661151
+prj3,sbj3452,yes,nk_cell,NK cell,17.45118192934837
+prj3,sbj3461,yes,b_cell,B cell,10.525717257062771
+prj3,sbj3461,yes,cd4_t_cell,CD4 T cell,27.262244489442292
+prj3,sbj3461,yes,cd8_t_cell,CD8 T cell,28.491149930818466
+prj3,sbj3461,yes,monocyte,Monocyte,16.722213997144184
+prj3,sbj3461,yes,nk_cell,NK cell,16.99867432553229
+prj3,sbj3462,yes,b_cell,B cell,7.401680658890418
+prj3,sbj3462,yes,cd4_t_cell,CD4 T cell,32.902202948419884
+prj3,sbj3462,yes,cd8_t_cell,CD8 T cell,25.791195918309032
+prj3,sbj3462,yes,monocyte,Monocyte,18.09054472228643
+prj3,sbj3462,yes,nk_cell,NK cell,15.814375752094236
+prj3,sbj3464,yes,b_cell,B cell,8.25751606840817
+prj3,sbj3464,yes,cd4_t_cell,CD4 T cell,31.264173632737485
+prj3,sbj3464,yes,cd8_t_cell,CD8 T cell,20.895511161470974
+prj3,sbj3464,yes,monocyte,Monocyte,26.59074258277124
+prj3,sbj3464,yes,nk_cell,NK cell,12.992056554612125
+prj3,sbj3465,no,b_cell,B cell,9.541231777562599
+prj3,sbj3465,no,cd4_t_cell,CD4 T cell,29.26513031544091
+prj3,sbj3465,no,cd8_t_cell,CD8 T cell,26.15579463896857
+prj3,sbj3465,no,monocyte,Monocyte,19.04845901526974
+prj3,sbj3465,no,nk_cell,NK cell,15.98938425275819
+prj3,sbj3470,yes,b_cell,B cell,11.925353847342697
+prj3,sbj3470,yes,cd4_t_cell,CD4 T cell,30.55203299748635
+prj3,sbj3470,yes,cd8_t_cell,CD8 T cell,22.789961123605433
+prj3,sbj3470,yes,monocyte,Monocyte,19.542042097026126
+prj3,sbj3470,yes,nk_cell,NK cell,15.190609934539388
+prj3,sbj3472,no,b_cell,B cell,8.797383374298738
+prj3,sbj3472,no,cd4_t_cell,CD4 T cell,27.65937326170196
+prj3,sbj3472,no,cd8_t_cell,CD8 T cell,24.286942562707157
+prj3,sbj3472,no,monocyte,Monocyte,24.459727609572766
+prj3,sbj3472,no,nk_cell,NK cell,14.796573191719382
+prj3,sbj3481,yes,b_cell,B cell,10.10989877750081
+prj3,sbj3481,yes,cd4_t_cell,CD4 T cell,32.532358688378515
+prj3,sbj3481,yes,cd8_t_cell,CD8 T cell,24.91604421085653
+prj3,sbj3481,yes,monocyte,Monocyte,18.65767623270268
+prj3,sbj3481,yes,nk_cell,NK cell,13.784022090561463
+prj3,sbj3485,no,b_cell,B cell,8.233583504490989
+prj3,sbj3485,no,cd4_t_cell,CD4 T cell,30.665677614820158
+prj3,sbj3485,no,cd8_t_cell,CD8 T cell,26.779057592097093
+prj3,sbj3485,no,monocyte,Monocyte,18.86835040917289
+prj3,sbj3485,no,nk_cell,NK cell,15.45333087941887
+prj3,sbj3490,no,b_cell,B cell,11.60146031027304
+prj3,sbj3490,no,cd4_t_cell,CD4 T cell,27.88819310868024
+prj3,sbj3490,no,cd8_t_cell,CD8 T cell,25.346772757018062
+prj3,sbj3490,no,monocyte,Monocyte,19.990069609837477
+prj3,sbj3490,no,nk_cell,NK cell,15.173504214191178
+prj3,sbj3491,no,b_cell,B cell,9.42792975874621
+prj3,sbj3491,no,cd4_t_cell,CD4 T cell,34.14044415866675
+prj3,sbj3491,no,cd8_t_cell,CD8 T cell,23.829033009675953
+prj3,sbj3491,no,monocyte,Monocyte,18.738386363182617
+prj3,sbj3491,no,nk_cell,NK cell,13.864206709728464
+prj3,sbj3497,yes,b_cell,B cell,10.854346895914128
+prj3,sbj3497,yes,cd4_t_cell,CD4 T cell,28.518131576377908
+prj3,sbj3497,yes,cd8_t_cell,CD8 T cell,25.020033060981806
+prj3,sbj3497,yes,monocyte,Monocyte,18.582794023152925
+prj3,sbj3497,yes,nk_cell,NK cell,17.024694443573225
